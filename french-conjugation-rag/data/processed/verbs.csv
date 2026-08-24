@@ -1,0 +1,3688 @@
+verb,meaning,tense,pronoun,form,page
+Être,be,présent,Je,suis,19
+Être,be,passé composé,J',ai été,19
+Être,be,imparfait,J',étais,19
+Être,be,plus-que-parfait,J',avais été,19
+Être,be,présent,Tu,es,19
+Être,be,passé composé,Tu,as été,19
+Être,be,imparfait,Tu,étais,19
+Être,be,plus-que-parfait,Tu,avais été,19
+Être,be,présent,Il/elle,est,19
+Être,be,passé composé,Il/elle,a été,19
+Être,be,imparfait,Il/elle,était,19
+Être,be,plus-que-parfait,Il/elle,avait été,19
+Être,be,présent,Nous,sommes,19
+Être,be,passé composé,Nous,avons été,19
+Être,be,imparfait,Nous,étions,19
+Être,be,plus-que-parfait,Nous,avions été,19
+Être,be,présent,Vous,êtes,19
+Être,be,passé composé,Vous,avez été,19
+Être,be,imparfait,Vous,étiez,19
+Être,be,plus-que-parfait,Vous,aviez été,19
+Être,be,présent,Ils/elles,sont,19
+Être,be,passé composé,Ils/elles,ont été,19
+Être,be,imparfait,Ils/elles,étaient,19
+Être,be,plus-que-parfait,Ils/elles,avaient été,19
+Être,be,futur simple,Je,serai,19
+Être,be,futur antérieur,J',aurai été,19
+Être,be,futur simple,Tu,seras,19
+Être,be,futur antérieur,Tu,auras été,19
+Être,be,futur simple,Il/elle,sera,19
+Être,be,futur antérieur,Il/elle,aura été,19
+Être,be,futur simple,Nous,serons,19
+Être,be,futur antérieur,Nous,aurons été,19
+Être,be,futur simple,Vous,serez,19
+Être,be,futur antérieur,Vous,aurez été,19
+Être,be,futur simple,Ils/elles,seront,19
+Être,be,futur antérieur,Ils/elles,auront été,19
+Être,be,conditionnel présent,Je,serais,19
+Être,be,conditionnel passé,J',aurais été,19
+Être,be,conditionnel présent,Tu,serais,19
+Être,be,conditionnel passé,Tu,aurais été,19
+Être,be,conditionnel présent,Il/elle,serait,19
+Être,be,conditionnel passé,Il/elle,aurait été,19
+Être,be,conditionnel présent,Nous,serions,19
+Être,be,conditionnel passé,Nous,aurions été,19
+Être,be,conditionnel présent,Vous,seriez,19
+Être,be,conditionnel passé,Vous,auriez été,19
+Être,be,conditionnel présent,Ils/elles,seraient,19
+Être,be,conditionnel passé,Ils/elles,auraient été,19
+Être,be,subjonctif présent,Que je,sois,19
+Être,be,impératif présent,Tu,Sois,19
+Être,be,subjonctif présent,Que tu,sois,19
+Être,be,impératif présent,Nous,Soyons,19
+Être,be,subjonctif présent,Qu'il/elle,soit,19
+Être,be,impératif présent,Vous,Soyez,19
+Être,be,subjonctif présent,Que nous,soyons,19
+Être,be,subjonctif présent,Que vous,soyez,19
+Être,be,subjonctif présent,Qu'ils/elles,soient,19
+Avoir,have,présent,J',ai,20
+Avoir,have,passé composé,J',ai eu,20
+Avoir,have,imparfait,J',avais,20
+Avoir,have,plus-que-parfait,J',avais eu,20
+Avoir,have,présent,Tu,as,20
+Avoir,have,passé composé,Tu,as eu,20
+Avoir,have,imparfait,Tu,avais,20
+Avoir,have,plus-que-parfait,Tu,avais eu,20
+Avoir,have,présent,Il/elle,a,20
+Avoir,have,passé composé,Il/elle,a eu,20
+Avoir,have,imparfait,Il/elle,avait,20
+Avoir,have,plus-que-parfait,Il/elle,avait eu,20
+Avoir,have,présent,Nous,avons,20
+Avoir,have,passé composé,Nous,avons eu,20
+Avoir,have,imparfait,Nous,avions,20
+Avoir,have,plus-que-parfait,Nous,avions eu,20
+Avoir,have,présent,Vous,avez,20
+Avoir,have,passé composé,Vous,avez eu,20
+Avoir,have,imparfait,Vous,aviez,20
+Avoir,have,plus-que-parfait,Vous,aviez eu,20
+Avoir,have,présent,Ils/elles,ont,20
+Avoir,have,passé composé,Ils/elles,ont eu,20
+Avoir,have,imparfait,Ils/elles,avaient,20
+Avoir,have,plus-que-parfait,Ils/elles,avaient eu,20
+Avoir,have,futur simple,J',aurai,20
+Avoir,have,futur antérieur,J',aurai eu,20
+Avoir,have,futur simple,Tu,auras,20
+Avoir,have,futur antérieur,Tu,auras eu,20
+Avoir,have,futur simple,Il/elle,aura,20
+Avoir,have,futur antérieur,Il/elle,aura eu,20
+Avoir,have,futur simple,Nous,aurons,20
+Avoir,have,futur antérieur,Nous,aurons eu,20
+Avoir,have,futur simple,Vous,aurez,20
+Avoir,have,futur antérieur,Vous,aurez eu,20
+Avoir,have,futur simple,Ils/elles,auront,20
+Avoir,have,futur antérieur,Ils/elles,auront eu,20
+Avoir,have,conditionnel présent,J',aurais,20
+Avoir,have,conditionnel passé,J',aurais eu,20
+Avoir,have,conditionnel présent,Tu,aurais,20
+Avoir,have,conditionnel passé,Tu,aurais eu,20
+Avoir,have,conditionnel présent,Il/elle,aurait,20
+Avoir,have,conditionnel passé,Il/elle,aurait eu,20
+Avoir,have,conditionnel présent,Nous,aurions,20
+Avoir,have,conditionnel passé,Nous,aurions eu,20
+Avoir,have,conditionnel présent,Vous,auriez,20
+Avoir,have,conditionnel passé,Vous,auriez eu,20
+Avoir,have,conditionnel présent,Ils/elles,auraient,20
+Avoir,have,conditionnel passé,Ils/elles,auraient eu,20
+Avoir,have,conditionnel présent,Tu,),20
+Avoir,have,subjonctif présent,Que tu,aies,20
+Avoir,have,impératif présent,Nous,Ayons,20
+Avoir,have,subjonctif présent,Qu'il/elle,ait,20
+Avoir,have,impératif présent,Vous,Ayez,20
+Avoir,have,subjonctif présent,Que nous,ayons,20
+Avoir,have,subjonctif présent,Que vous,ayez,20
+Avoir,have,subjonctif présent,Qu'ils/elles,aient,20
+Chanter,sing,présent,Je,chante,22
+Chanter,sing,passé composé,J',ai chanté,22
+Chanter,sing,imparfait,Je,chantais,22
+Chanter,sing,plus-que-parfait,J',avais chanté,22
+Chanter,sing,présent,Tu,chantes,22
+Chanter,sing,passé composé,Tu,as chanté,22
+Chanter,sing,imparfait,Tu,chantais,22
+Chanter,sing,plus-que-parfait,Tu,avais chanté,22
+Chanter,sing,présent,Il/elle,chante,22
+Chanter,sing,passé composé,Il/elle,a chanté,22
+Chanter,sing,imparfait,Il/elle,chantait,22
+Chanter,sing,plus-que-parfait,Il/elle,avait chanté,22
+Chanter,sing,présent,Nous,chantons,22
+Chanter,sing,passé composé,Nous,avons chanté,22
+Chanter,sing,imparfait,Nous,chantions,22
+Chanter,sing,plus-que-parfait,Nous,avions chanté,22
+Chanter,sing,présent,Vous,chantez,22
+Chanter,sing,passé composé,Vous,avez chanté,22
+Chanter,sing,imparfait,Vous,chantiez,22
+Chanter,sing,plus-que-parfait,Vous,aviez chanté,22
+Chanter,sing,présent,Ils/elles,chantent,22
+Chanter,sing,passé composé,Ils/elles,ont chanté,22
+Chanter,sing,imparfait,Ils/elles,chantaient,22
+Chanter,sing,plus-que-parfait,Ils/elles,avaient chanté,22
+Chanter,sing,futur simple,Je,chanterai,22
+Chanter,sing,futur antérieur,J',aurai chanté,22
+Chanter,sing,futur simple,Tu,chanteras,22
+Chanter,sing,futur antérieur,Tu,auras chanté,22
+Chanter,sing,futur simple,Il/elle,chantera,22
+Chanter,sing,futur antérieur,Il/elle,aura chanté,22
+Chanter,sing,futur simple,Nous,chanterons,22
+Chanter,sing,futur antérieur,Nous,aurons chanté,22
+Chanter,sing,futur simple,Vous,chanterez,22
+Chanter,sing,futur antérieur,Vous,aurez chanté,22
+Chanter,sing,futur simple,Ils/elles,chanteront,22
+Chanter,sing,futur antérieur,Ils/elles,auront chanté,22
+Chanter,sing,conditionnel présent,Je,chanterais,22
+Chanter,sing,conditionnel passé,J',aurais chanté,22
+Chanter,sing,conditionnel présent,Tu,chanterais,22
+Chanter,sing,conditionnel passé,Tu,aurais chanté,22
+Chanter,sing,conditionnel présent,Il/elle,chanterait,22
+Chanter,sing,conditionnel passé,Il/elle,aurait chanté,22
+Chanter,sing,conditionnel présent,Nous,chanterions,22
+Chanter,sing,conditionnel passé,Nous,aurions chanté,22
+Chanter,sing,conditionnel présent,Vous,chanteriez,22
+Chanter,sing,conditionnel passé,Vous,auriez chanté,22
+Chanter,sing,conditionnel présent,Ils/elles,chanteraient,22
+Chanter,sing,conditionnel passé,Ils/elles,auraient chanté,22
+Chanter,sing,subjonctif présent,Que je,chante,22
+Chanter,sing,impératif présent,Tu,Chante,22
+Chanter,sing,subjonctif présent,Que tu,chantes,22
+Chanter,sing,impératif présent,Nous,Chantons,22
+Chanter,sing,subjonctif présent,Qu'il/elle,chante,22
+Chanter,sing,impératif présent,Vous,Chantez,22
+Chanter,sing,subjonctif présent,Que nous,chantions,22
+Chanter,sing,subjonctif présent,Que vous,chantiez,22
+Chanter,sing,subjonctif présent,Qu'ils/elles,chantent,22
+Placer,place,présent,Je,place,26
+Placer,place,passé composé,J',ai placé,26
+Placer,place,imparfait,Je,plaçais,26
+Placer,place,plus-que-parfait,J',avais placé,26
+Placer,place,présent,Tu,places,26
+Placer,place,passé composé,Tu,as placé,26
+Placer,place,imparfait,Tu,plaçais,26
+Placer,place,plus-que-parfait,Tu,avais placé,26
+Placer,place,présent,Il/elle,place,26
+Placer,place,passé composé,Il/elle,a placé,26
+Placer,place,imparfait,Il/elle,plaçait,26
+Placer,place,plus-que-parfait,Il/elle,avait placé,26
+Placer,place,présent,Nous,plaçons,26
+Placer,place,passé composé,Nous,avons placé,26
+Placer,place,imparfait,Nous,placions,26
+Placer,place,plus-que-parfait,Nous,avions placé,26
+Placer,place,présent,Vous,placez,26
+Placer,place,passé composé,Vous,avez placé,26
+Placer,place,imparfait,Vous,placiez,26
+Placer,place,plus-que-parfait,Vous,aviez placé,26
+Placer,place,présent,Ils/elles,placent,26
+Placer,place,passé composé,Ils/elles,ont placé,26
+Placer,place,imparfait,Ils/elles,plaçaient,26
+Placer,place,plus-que-parfait,Ils/elles,avaient placé,26
+Placer,place,futur simple,Je,placerai,26
+Placer,place,futur antérieur,J',aurai placé,26
+Placer,place,futur simple,Tu,placeras,26
+Placer,place,futur antérieur,Tu,auras placé,26
+Placer,place,futur simple,Il/elle,placera,26
+Placer,place,futur antérieur,Il/elle,aura placé,26
+Placer,place,futur simple,Nous,placerons,26
+Placer,place,futur antérieur,Nous,aurons placé,26
+Placer,place,futur simple,Vous,placerez,26
+Placer,place,futur antérieur,Vous,aurez placé,26
+Placer,place,futur simple,Ils/elles,placeront,26
+Placer,place,futur antérieur,Ils/elles,auront placé,26
+Placer,place,conditionnel présent,Je,placerais,26
+Placer,place,conditionnel passé,J',aurais placé,26
+Placer,place,conditionnel présent,Tu,placerais,26
+Placer,place,conditionnel passé,Tu,aurais placé,26
+Placer,place,conditionnel présent,Il/elle,placerait,26
+Placer,place,conditionnel passé,Il/elle,aurait placé,26
+Placer,place,conditionnel présent,Nous,placerions,26
+Placer,place,conditionnel passé,Nous,aurions placé,26
+Placer,place,conditionnel présent,Vous,placeriez,26
+Placer,place,conditionnel passé,Vous,auriez placé,26
+Placer,place,conditionnel présent,Ils/elles,placeraient,26
+Placer,place,conditionnel passé,Ils/elles,auraient placé,26
+Placer,place,subjonctif présent,Que je,place,26
+Placer,place,impératif présent,Tu,Place,26
+Placer,place,subjonctif présent,Que tu,places,26
+Placer,place,impératif présent,Nous,Plaçons,26
+Placer,place,subjonctif présent,Qu'il/elle,place,26
+Placer,place,impératif présent,Vous,Placez,26
+Placer,place,subjonctif présent,Que nous,placions,26
+Placer,place,subjonctif présent,Que vous,placiez,26
+Placer,place,subjonctif présent,Qu'ils/elles,placent,26
+Plonger,dive,présent,Je,plonge,28
+Plonger,dive,passé composé,J',ai plongé,28
+Plonger,dive,imparfait,Je,plongeais,28
+Plonger,dive,plus-que-parfait,J',avais plongé,28
+Plonger,dive,présent,Tu,plonges,28
+Plonger,dive,passé composé,Tu,as plongé,28
+Plonger,dive,imparfait,Tu,plongeais,28
+Plonger,dive,plus-que-parfait,Tu,avais plongé,28
+Plonger,dive,présent,Il/elle,plonge,28
+Plonger,dive,passé composé,Il/elle,a plongé,28
+Plonger,dive,imparfait,Il/elle,plongeait,28
+Plonger,dive,plus-que-parfait,Il/elle,avait plongé,28
+Plonger,dive,présent,Nous,plongeons,28
+Plonger,dive,passé composé,Nous,avons plongé,28
+Plonger,dive,imparfait,Nous,plongions,28
+Plonger,dive,plus-que-parfait,Nous,avions plongé,28
+Plonger,dive,présent,Vous,plongez,28
+Plonger,dive,passé composé,Vous,avez plongé,28
+Plonger,dive,imparfait,Vous,plongiez,28
+Plonger,dive,plus-que-parfait,Vous,aviez plongé,28
+Plonger,dive,présent,Ils/elles,plongent,28
+Plonger,dive,passé composé,Ils/elles,ont plongé,28
+Plonger,dive,imparfait,Ils/elles,plongeaient,28
+Plonger,dive,plus-que-parfait,Ils/elles,avaient plongé,28
+Plonger,dive,futur simple,Je,plongerai,28
+Plonger,dive,futur antérieur,J',aurai plongé,28
+Plonger,dive,futur simple,Tu,plongeras,28
+Plonger,dive,futur antérieur,Tu,auras plongé,28
+Plonger,dive,futur simple,Il/elle,plongera,28
+Plonger,dive,futur antérieur,Il/elle,aura plongé,28
+Plonger,dive,futur simple,Nous,plongerons,28
+Plonger,dive,futur antérieur,Nous,aurons plongé,28
+Plonger,dive,futur simple,Vous,plongerez,28
+Plonger,dive,futur antérieur,Vous,aurez plongé,28
+Plonger,dive,futur simple,Ils/elles,plongeront,28
+Plonger,dive,futur antérieur,Ils/elles,auront plongé,28
+Plonger,dive,conditionnel présent,Je,plongerais,28
+Plonger,dive,conditionnel passé,J',aurais plongé,28
+Plonger,dive,conditionnel présent,Tu,plongerais,28
+Plonger,dive,conditionnel passé,Tu,aurais plongé,28
+Plonger,dive,conditionnel présent,Il/elle,plongerait,28
+Plonger,dive,conditionnel passé,Il/elle,aurait plongé,28
+Plonger,dive,conditionnel présent,Nous,plongerions,28
+Plonger,dive,conditionnel passé,Nous,aurions plongé,28
+Plonger,dive,conditionnel présent,Vous,plongeriez,28
+Plonger,dive,conditionnel passé,Vous,auriez plongé,28
+Plonger,dive,conditionnel présent,Ils/elles,plongeraient,28
+Plonger,dive,conditionnel passé,Ils/elles,auraient plongé,28
+Plonger,dive,subjonctif présent,Que je,plonge,28
+Plonger,dive,impératif présent,Tu,Plonge,28
+Plonger,dive,subjonctif présent,Que tu,plonges,28
+Plonger,dive,impératif présent,Nous,Plongeons,28
+Plonger,dive,subjonctif présent,Qu'il/elle,plonge,28
+Plonger,dive,impératif présent,Vous,Plongez,28
+Plonger,dive,subjonctif présent,Que nous,plongions,28
+Plonger,dive,subjonctif présent,Que vous,plongiez,28
+Plonger,dive,subjonctif présent,Qu'ils/elles,plongent,28
+Nettoyer,clean,présent,Je,nettoie,30
+Nettoyer,clean,passé composé,J',ai nettoyé,30
+Nettoyer,clean,imparfait,Je,nettoyais,30
+Nettoyer,clean,plus-que-parfait,J',avais nettoyé,30
+Nettoyer,clean,présent,Tu,nettoies,30
+Nettoyer,clean,passé composé,Tu,as nettoyé,30
+Nettoyer,clean,imparfait,Tu,nettoyais,30
+Nettoyer,clean,plus-que-parfait,Tu,avais nettoyé,30
+Nettoyer,clean,présent,Il/elle,nettoie,30
+Nettoyer,clean,passé composé,Il/elle,a nettoyé,30
+Nettoyer,clean,imparfait,Il/elle,nettoyait,30
+Nettoyer,clean,plus-que-parfait,Il/elle,avait nettoyé,30
+Nettoyer,clean,présent,Nous,nettoyons,30
+Nettoyer,clean,passé composé,Nous,avons nettoyé,30
+Nettoyer,clean,imparfait,Nous,nettoyions,30
+Nettoyer,clean,plus-que-parfait,Nous,avions nettoyé,30
+Nettoyer,clean,présent,Vous,nettoyez,30
+Nettoyer,clean,passé composé,Vous,avez nettoyé,30
+Nettoyer,clean,imparfait,Vous,nettoyiez,30
+Nettoyer,clean,plus-que-parfait,Vous,aviez nettoyé,30
+Nettoyer,clean,présent,Ils/elles,nettoient,30
+Nettoyer,clean,passé composé,Ils/elles,ont nettoyé,30
+Nettoyer,clean,imparfait,Ils/elles,nettoyaient,30
+Nettoyer,clean,plus-que-parfait,Ils/elles,avaient nettoyé,30
+Nettoyer,clean,futur simple,Je,nettoierai,30
+Nettoyer,clean,futur antérieur,J',aurai nettoyé,30
+Nettoyer,clean,futur simple,Tu,nettoieras,30
+Nettoyer,clean,futur antérieur,Tu,auras nettoyé,30
+Nettoyer,clean,futur simple,Il/elle,nettoiera,30
+Nettoyer,clean,futur antérieur,Il/elle,aura nettoyé,30
+Nettoyer,clean,futur simple,Nous,nettoierons,30
+Nettoyer,clean,futur antérieur,Nous,aurons nettoyé,30
+Nettoyer,clean,futur simple,Vous,nettoierez,30
+Nettoyer,clean,futur antérieur,Vous,aurez nettoyé,30
+Nettoyer,clean,futur simple,Ils/elles,nettoieront,30
+Nettoyer,clean,futur antérieur,Ils/elles,auront nettoyé,30
+Nettoyer,clean,conditionnel présent,Je,nettoierais,30
+Nettoyer,clean,conditionnel passé,J',aurais nettoyé,30
+Nettoyer,clean,conditionnel présent,Tu,nettoierais,30
+Nettoyer,clean,conditionnel passé,Tu,aurais nettoyé,30
+Nettoyer,clean,conditionnel présent,Il/elle,nettoierait,30
+Nettoyer,clean,conditionnel passé,Il/elle,aurait nettoyé,30
+Nettoyer,clean,conditionnel présent,Nous,nettoierions,30
+Nettoyer,clean,conditionnel passé,Nous,aurions nettoyé,30
+Nettoyer,clean,conditionnel présent,Vous,nettoieriez,30
+Nettoyer,clean,conditionnel passé,Vous,auriez nettoyé,30
+Nettoyer,clean,conditionnel présent,Ils/elles,nettoieraient,30
+Nettoyer,clean,conditionnel passé,Ils/elles,auraient nettoyé,30
+Nettoyer,clean,subjonctif présent,Que je,nettoie,30
+Nettoyer,clean,impératif présent,Tu,Nettoie,30
+Nettoyer,clean,subjonctif présent,Que tu,nettoies,30
+Nettoyer,clean,impératif présent,Nous,Nettoyons,30
+Nettoyer,clean,subjonctif présent,Qu'il/elle,nettoie,30
+Nettoyer,clean,impératif présent,Vous,Nettoyez,30
+Nettoyer,clean,subjonctif présent,Que nous,nettoyions,30
+Nettoyer,clean,subjonctif présent,Que vous,nettoyiez,30
+Nettoyer,clean,subjonctif présent,Qu'ils/elles,nettoient,30
+Acheter,buy,présent,J',achète,33
+Acheter,buy,passé composé,J',ai acheté,33
+Acheter,buy,imparfait,J',achetais,33
+Acheter,buy,plus-que-parfait,J',avais acheté,33
+Acheter,buy,présent,Tu,achètes,33
+Acheter,buy,passé composé,Tu,as acheté,33
+Acheter,buy,imparfait,Tu,achetais,33
+Acheter,buy,plus-que-parfait,Tu,avais acheté,33
+Acheter,buy,présent,Il/elle,achète,33
+Acheter,buy,passé composé,Il/elle,a acheté,33
+Acheter,buy,imparfait,Il/elle,achetait,33
+Acheter,buy,plus-que-parfait,Il/elle,avait acheté,33
+Acheter,buy,présent,Nous,achetons,33
+Acheter,buy,passé composé,Nous,avons acheté,33
+Acheter,buy,imparfait,Nous,achetions,33
+Acheter,buy,plus-que-parfait,Nous,avions acheté,33
+Acheter,buy,présent,Vous,achetez,33
+Acheter,buy,passé composé,Vous,avez acheté,33
+Acheter,buy,imparfait,Vous,achetiez,33
+Acheter,buy,plus-que-parfait,Vous,aviez acheté,33
+Acheter,buy,présent,Ils/elles,achètent,33
+Acheter,buy,passé composé,Ils/elles,ont acheté,33
+Acheter,buy,imparfait,Ils/elles,achetaient,33
+Acheter,buy,plus-que-parfait,Ils/elles,avaient acheté,33
+Acheter,buy,futur simple,J',achèterai,33
+Acheter,buy,futur antérieur,J',aurai acheté,33
+Acheter,buy,futur simple,Tu,achèteras,33
+Acheter,buy,futur antérieur,Tu,auras acheté,33
+Acheter,buy,futur simple,Il/elle,achètera,33
+Acheter,buy,futur antérieur,Il/elle,aura acheté,33
+Acheter,buy,futur simple,Nous,achèterons,33
+Acheter,buy,futur antérieur,Nous,aurons acheté,33
+Acheter,buy,futur simple,Vous,achèterez,33
+Acheter,buy,futur antérieur,Vous,aurez acheté,33
+Acheter,buy,futur simple,Ils/elles,achèteront,33
+Acheter,buy,futur antérieur,Ils/elles,auront acheté,33
+Acheter,buy,conditionnel présent,J',achèterais,33
+Acheter,buy,conditionnel passé,J',aurais acheté,33
+Acheter,buy,conditionnel présent,Tu,achèterais,33
+Acheter,buy,conditionnel passé,Tu,aurais acheté,33
+Acheter,buy,conditionnel présent,Il/elle,achèterait,33
+Acheter,buy,conditionnel passé,Il/elle,aurait acheté,33
+Acheter,buy,conditionnel présent,Nous,achèterions,33
+Acheter,buy,conditionnel passé,Nous,aurions acheté,33
+Acheter,buy,conditionnel présent,Vous,achèteriez,33
+Acheter,buy,conditionnel passé,Vous,auriez acheté,33
+Acheter,buy,conditionnel présent,Ils/elles,achèteraient,33
+Acheter,buy,conditionnel passé,Ils/elles,auraient acheté,33
+Acheter,buy,conditionnel présent,Tu,),33
+Acheter,buy,subjonctif présent,Que tu,achètes,33
+Acheter,buy,impératif présent,Nous,Achetons,33
+Acheter,buy,subjonctif présent,Qu'il/elle,achète,33
+Acheter,buy,impératif présent,Vous,Achetez,33
+Acheter,buy,subjonctif présent,Que nous,achetions,33
+Acheter,buy,subjonctif présent,Que vous,achetiez,33
+Acheter,buy,subjonctif présent,Qu'ils/elles,achètent,33
+Geler,freeze,présent,Je,gèle,34
+Geler,freeze,passé composé,J',ai gelé,34
+Geler,freeze,imparfait,Je,gelais,34
+Geler,freeze,plus-que-parfait,J',avais gelé,34
+Geler,freeze,présent,Tu,gèles,34
+Geler,freeze,passé composé,Tu,as gelé,34
+Geler,freeze,imparfait,Tu,gelais,34
+Geler,freeze,plus-que-parfait,Tu,avais gelé,34
+Geler,freeze,présent,Il/elle,gèle,34
+Geler,freeze,passé composé,Il/elle,a gelé,34
+Geler,freeze,imparfait,Il/elle,gelait,34
+Geler,freeze,plus-que-parfait,Il/elle,avait gelé,34
+Geler,freeze,présent,Nous,gelons,34
+Geler,freeze,passé composé,Nous,avons gelé,34
+Geler,freeze,imparfait,Nous,gelions,34
+Geler,freeze,plus-que-parfait,Nous,avions gelé,34
+Geler,freeze,présent,Vous,gelez,34
+Geler,freeze,passé composé,Vous,avez gelé,34
+Geler,freeze,imparfait,Vous,geliez,34
+Geler,freeze,plus-que-parfait,Vous,aviez gelé,34
+Geler,freeze,présent,Ils/elles,gèlent,34
+Geler,freeze,passé composé,Ils/elles,ont gelé,34
+Geler,freeze,imparfait,Ils/elles,gelaient,34
+Geler,freeze,plus-que-parfait,Ils/elles,avaient gelé,34
+Geler,freeze,futur simple,Je,gèlerai,34
+Geler,freeze,futur antérieur,J',aurai gelé,34
+Geler,freeze,futur simple,Tu,gèleras,34
+Geler,freeze,futur antérieur,Tu,auras gelé,34
+Geler,freeze,futur simple,Il/elle,gèlera,34
+Geler,freeze,futur antérieur,Il/elle,aura gelé,34
+Geler,freeze,futur simple,Nous,gèlerons,34
+Geler,freeze,futur antérieur,Nous,aurons gelé,34
+Geler,freeze,futur simple,Vous,gèlerez,34
+Geler,freeze,futur antérieur,Vous,aurez gelé,34
+Geler,freeze,futur simple,Ils/elles,gèleront,34
+Geler,freeze,futur antérieur,Ils/elles,auront gelé,34
+Geler,freeze,conditionnel présent,Je,gèlerais,34
+Geler,freeze,conditionnel passé,J',aurais gelé,34
+Geler,freeze,conditionnel présent,Tu,gèlerais,34
+Geler,freeze,conditionnel passé,Tu,aurais gelé,34
+Geler,freeze,conditionnel présent,Il/elle,gèlerait,34
+Geler,freeze,conditionnel passé,Il/elle,aurait gelé,34
+Geler,freeze,conditionnel présent,Nous,gèlerions,34
+Geler,freeze,conditionnel passé,Nous,aurions gelé,34
+Geler,freeze,conditionnel présent,Vous,gèleriez,34
+Geler,freeze,conditionnel passé,Vous,auriez gelé,34
+Geler,freeze,conditionnel présent,Ils/elles,gèleraient,34
+Geler,freeze,conditionnel passé,Ils/elles,auraient gelé,34
+Geler,freeze,subjonctif présent,Que je,gèle,34
+Geler,freeze,impératif présent,Tu,Gèle,34
+Geler,freeze,subjonctif présent,Que tu,gèles,34
+Geler,freeze,impératif présent,Nous,Gelons,34
+Geler,freeze,subjonctif présent,Qu'il/elle,gèle,34
+Geler,freeze,impératif présent,Vous,Gelez,34
+Geler,freeze,subjonctif présent,Que nous,gelions,34
+Geler,freeze,subjonctif présent,Que vous,geliez,34
+Geler,freeze,subjonctif présent,Qu'ils/elles,gèlent,34
+Amener,bring,présent,J',amène,35
+Amener,bring,passé composé,J',ai amené,35
+Amener,bring,imparfait,J',amenais,35
+Amener,bring,plus-que-parfait,J',avais amené,35
+Amener,bring,présent,Tu,amènes,35
+Amener,bring,passé composé,Tu,as amené,35
+Amener,bring,imparfait,Tu,amenais,35
+Amener,bring,plus-que-parfait,Tu,avais amené,35
+Amener,bring,présent,Il/elle,amène,35
+Amener,bring,passé composé,Il/elle,a amené,35
+Amener,bring,imparfait,Il/elle,amenait,35
+Amener,bring,plus-que-parfait,Il/elle,avait amené,35
+Amener,bring,présent,Nous,amenons,35
+Amener,bring,passé composé,Nous,avons amené,35
+Amener,bring,imparfait,Nous,amenions,35
+Amener,bring,plus-que-parfait,Nous,avions amené,35
+Amener,bring,présent,Vous,amenez,35
+Amener,bring,passé composé,Vous,avez amené,35
+Amener,bring,imparfait,Vous,ameniez,35
+Amener,bring,plus-que-parfait,Vous,aviez amené,35
+Amener,bring,présent,Ils/elles,amènent,35
+Amener,bring,passé composé,Ils/elles,ont amené,35
+Amener,bring,imparfait,Ils/elles,amenaient,35
+Amener,bring,plus-que-parfait,Ils/elles,avaient amené,35
+Amener,bring,futur simple,J',amènerai,35
+Amener,bring,futur antérieur,J',aurai amené,35
+Amener,bring,futur simple,Tu,amèneras,35
+Amener,bring,futur antérieur,Tu,auras amené,35
+Amener,bring,futur simple,Il/elle,amènera,35
+Amener,bring,futur antérieur,Il/elle,aura amené,35
+Amener,bring,futur simple,Nous,amènerons,35
+Amener,bring,futur antérieur,Nous,aurons amené,35
+Amener,bring,futur simple,Vous,amènerez,35
+Amener,bring,futur antérieur,Vous,aurez amené,35
+Amener,bring,futur simple,Ils/elles,amèneront,35
+Amener,bring,futur antérieur,Ils/elles,auront amené,35
+Amener,bring,conditionnel présent,J',amènerais,35
+Amener,bring,conditionnel passé,J',aurais amené,35
+Amener,bring,conditionnel présent,Tu,amènerais,35
+Amener,bring,conditionnel passé,Tu,aurais amené,35
+Amener,bring,conditionnel présent,Il/elle,amènerait,35
+Amener,bring,conditionnel passé,Il/elle,aurait amené,35
+Amener,bring,conditionnel présent,Nous,amènerions,35
+Amener,bring,conditionnel passé,Nous,aurions amené,35
+Amener,bring,conditionnel présent,Vous,amèneriez,35
+Amener,bring,conditionnel passé,Vous,auriez amené,35
+Amener,bring,conditionnel présent,Ils/elles,amèneraient,35
+Amener,bring,conditionnel passé,Ils/elles,auraient amené,35
+Amener,bring,conditionnel présent,Tu,),35
+Amener,bring,subjonctif présent,Que tu,amènes,35
+Amener,bring,impératif présent,Nous,Amenons,35
+Amener,bring,subjonctif présent,Qu'il/elle,amène,35
+Amener,bring,impératif présent,Vous,Amenez,35
+Amener,bring,subjonctif présent,Que nous,amenions,35
+Amener,bring,subjonctif présent,Que vous,ameniez,35
+Amener,bring,subjonctif présent,Qu'ils/elles,amènent,35
+Peser,weigh,présent,Je,pèse,36
+Peser,weigh,passé composé,J',ai pesé,36
+Peser,weigh,imparfait,Je,pesais,36
+Peser,weigh,plus-que-parfait,J',avais pesé,36
+Peser,weigh,présent,Tu,pèses,36
+Peser,weigh,passé composé,Tu,as pesé,36
+Peser,weigh,imparfait,Tu,pesais,36
+Peser,weigh,plus-que-parfait,Tu,avais pesé,36
+Peser,weigh,présent,Il/elle,pèse,36
+Peser,weigh,passé composé,Il/elle,a pesé,36
+Peser,weigh,imparfait,Il/elle,pesait,36
+Peser,weigh,plus-que-parfait,Il/elle,avait pesé,36
+Peser,weigh,présent,Nous,pesons,36
+Peser,weigh,passé composé,Nous,avons pesé,36
+Peser,weigh,imparfait,Nous,pesions,36
+Peser,weigh,plus-que-parfait,Nous,avions pesé,36
+Peser,weigh,présent,Vous,pesez,36
+Peser,weigh,passé composé,Vous,avez pesé,36
+Peser,weigh,imparfait,Vous,pesiez,36
+Peser,weigh,plus-que-parfait,Vous,aviez pesé,36
+Peser,weigh,présent,Ils/elles,pèsent,36
+Peser,weigh,passé composé,Ils/elles,ont pesé,36
+Peser,weigh,imparfait,Ils/elles,pesaient,36
+Peser,weigh,plus-que-parfait,Ils/elles,avaient pesé,36
+Peser,weigh,futur simple,Je,pèserai,36
+Peser,weigh,futur antérieur,J',aurai pesé,36
+Peser,weigh,futur simple,Tu,pèseras,36
+Peser,weigh,futur antérieur,Tu,auras pesé,36
+Peser,weigh,futur simple,Il/elle,pèsera,36
+Peser,weigh,futur antérieur,Il/elle,aura pesé,36
+Peser,weigh,futur simple,Nous,pèserons,36
+Peser,weigh,futur antérieur,Nous,aurons pesé,36
+Peser,weigh,futur simple,Vous,pèserez,36
+Peser,weigh,futur antérieur,Vous,aurez pesé,36
+Peser,weigh,futur simple,Ils/elles,pèseront,36
+Peser,weigh,futur antérieur,Ils/elles,auront pesé,36
+Peser,weigh,conditionnel présent,Je,pèserais,36
+Peser,weigh,conditionnel passé,J',aurais pesé,36
+Peser,weigh,conditionnel présent,Tu,pèserais,36
+Peser,weigh,conditionnel passé,Tu,aurais pesé,36
+Peser,weigh,conditionnel présent,Il/elle,pèserait,36
+Peser,weigh,conditionnel passé,Il/elle,aurait pesé,36
+Peser,weigh,conditionnel présent,Nous,pèserions,36
+Peser,weigh,conditionnel passé,Nous,aurions pesé,36
+Peser,weigh,conditionnel présent,Vous,pèseriez,36
+Peser,weigh,conditionnel passé,Vous,auriez pesé,36
+Peser,weigh,conditionnel présent,Ils/elles,pèseraient,36
+Peser,weigh,conditionnel passé,Ils/elles,auraient pesé,36
+Peser,weigh,subjonctif présent,Que je,pèse,36
+Peser,weigh,impératif présent,Tu,Pèse,36
+Peser,weigh,subjonctif présent,Que tu,pèses,36
+Peser,weigh,impératif présent,Nous,Pesons,36
+Peser,weigh,subjonctif présent,Qu'il/elle,pèse,36
+Peser,weigh,impératif présent,Vous,Pesez,36
+Peser,weigh,subjonctif présent,Que nous,pesions,36
+Peser,weigh,subjonctif présent,Que vous,pesiez,36
+Peser,weigh,subjonctif présent,Qu'ils/elles,pèsent,36
+Achever,complete,présent,J',achève,37
+Achever,complete,passé composé,J',ai achevé,37
+Achever,complete,imparfait,J',achevais,37
+Achever,complete,plus-que-parfait,J',avais achevé,37
+Achever,complete,présent,Tu,achèves,37
+Achever,complete,passé composé,Tu,as achevé,37
+Achever,complete,imparfait,Tu,achevais,37
+Achever,complete,plus-que-parfait,Tu,avais achevé,37
+Achever,complete,présent,Il/elle,achève,37
+Achever,complete,passé composé,Il/elle,a achevé,37
+Achever,complete,imparfait,Il/elle,achevait,37
+Achever,complete,plus-que-parfait,Il/elle,avait achevé,37
+Achever,complete,présent,Nous,achevons,37
+Achever,complete,passé composé,Nous,avons achevé,37
+Achever,complete,imparfait,Nous,achevions,37
+Achever,complete,plus-que-parfait,Nous,avions achevé,37
+Achever,complete,présent,Vous,achevez,37
+Achever,complete,passé composé,Vous,avez achevé,37
+Achever,complete,imparfait,Vous,acheviez,37
+Achever,complete,plus-que-parfait,Vous,aviez achevé,37
+Achever,complete,présent,Ils/elles,achèvent,37
+Achever,complete,passé composé,Ils/elles,ont achevé,37
+Achever,complete,imparfait,Ils/elles,achevaient,37
+Achever,complete,plus-que-parfait,Ils/elles,avaient achevé,37
+Achever,complete,futur simple,J',achèverai,37
+Achever,complete,futur antérieur,J',aurai achevé,37
+Achever,complete,futur simple,Tu,achèveras,37
+Achever,complete,futur antérieur,Tu,auras achevé,37
+Achever,complete,futur simple,Il/elle,achèvera,37
+Achever,complete,futur antérieur,Il/elle,aura achevé,37
+Achever,complete,futur simple,Nous,achèverons,37
+Achever,complete,futur antérieur,Nous,aurons achevé,37
+Achever,complete,futur simple,Vous,achèverez,37
+Achever,complete,futur antérieur,Vous,aurez achevé,37
+Achever,complete,futur simple,Ils/elles,achèveront,37
+Achever,complete,futur antérieur,Ils/elles,auront achevé,37
+Achever,complete,conditionnel présent,J',achèverais,37
+Achever,complete,conditionnel passé,J',aurais achevé,37
+Achever,complete,conditionnel présent,Tu,achèverais,37
+Achever,complete,conditionnel passé,Tu,aurais achevé,37
+Achever,complete,conditionnel présent,Il/elle,achèverait,37
+Achever,complete,conditionnel passé,Il/elle,aurait achevé,37
+Achever,complete,conditionnel présent,Nous,achèverions,37
+Achever,complete,conditionnel passé,Nous,aurions achevé,37
+Achever,complete,conditionnel présent,Vous,achèveriez,37
+Achever,complete,conditionnel passé,Vous,auriez achevé,37
+Achever,complete,conditionnel présent,Ils/elles,achèveraient,37
+Achever,complete,conditionnel passé,Ils/elles,auraient achevé,37
+Achever,complete,conditionnel présent,Tu,),37
+Achever,complete,subjonctif présent,Que tu,achèves,37
+Achever,complete,impératif présent,Nous,Achevons,37
+Achever,complete,subjonctif présent,Qu'il/elle,achève,37
+Achever,complete,impératif présent,Vous,Achevez,37
+Achever,complete,subjonctif présent,Que nous,achevions,37
+Achever,complete,subjonctif présent,Que vous,acheviez,37
+Achever,complete,subjonctif présent,Qu'ils/elles,achèvent,37
+Céder,give,présent,Je,cède,38
+Céder,give,passé composé,J',ai cédé,38
+Céder,give,imparfait,Je,cédais,38
+Céder,give,plus-que-parfait,J',avais cédé,38
+Céder,give,présent,Tu,cèdes,38
+Céder,give,passé composé,Tu,as cédé,38
+Céder,give,imparfait,Tu,cédais,38
+Céder,give,plus-que-parfait,Tu,avais cédé,38
+Céder,give,présent,Il/elle,cède,38
+Céder,give,passé composé,Il/elle,a cédé,38
+Céder,give,imparfait,Il/elle,cédait,38
+Céder,give,plus-que-parfait,Il/elle,avait cédé,38
+Céder,give,présent,Nous,cédons,38
+Céder,give,passé composé,Nous,avons cédé,38
+Céder,give,imparfait,Nous,cédions,38
+Céder,give,plus-que-parfait,Nous,avions cédé,38
+Céder,give,présent,Vous,cédez,38
+Céder,give,passé composé,Vous,avez cédé,38
+Céder,give,imparfait,Vous,cédiez,38
+Céder,give,plus-que-parfait,Vous,aviez cédé,38
+Céder,give,présent,Ils/elles,cèdent,38
+Céder,give,passé composé,Ils/elles,ont cédé,38
+Céder,give,imparfait,Ils/elles,cédaient,38
+Céder,give,plus-que-parfait,Ils/elles,avaient cédé,38
+Céder,give,futur simple,Je,céderai,38
+Céder,give,futur antérieur,J',aurai cédé,38
+Céder,give,futur simple,Tu,céderas,38
+Céder,give,futur antérieur,Tu,auras cédé,38
+Céder,give,futur simple,Il/elle,cédera,38
+Céder,give,futur antérieur,Il/elle,aura cédé,38
+Céder,give,futur simple,Nous,céderons,38
+Céder,give,futur antérieur,Nous,aurons cédé,38
+Céder,give,futur simple,Vous,céderez,38
+Céder,give,futur antérieur,Vous,aurez cédé,38
+Céder,give,futur simple,Ils/elles,céderont,38
+Céder,give,futur antérieur,Ils/elles,auront cédé,38
+Céder,give,conditionnel présent,Je,céderais,38
+Céder,give,conditionnel passé,J',aurais cédé,38
+Céder,give,conditionnel présent,Tu,céderais,38
+Céder,give,conditionnel passé,Tu,aurais cédé,38
+Céder,give,conditionnel présent,Il/elle,céderait,38
+Céder,give,conditionnel passé,Il/elle,aurait cédé,38
+Céder,give,conditionnel présent,Nous,céderions,38
+Céder,give,conditionnel passé,Nous,aurions cédé,38
+Céder,give,conditionnel présent,Vous,céderiez,38
+Céder,give,conditionnel passé,Vous,auriez cédé,38
+Céder,give,conditionnel présent,Ils/elles,céderaient,38
+Céder,give,conditionnel passé,Ils/elles,auraient cédé,38
+Céder,give,subjonctif présent,Que je,cède,38
+Céder,give,impératif présent,Tu,Cède,38
+Céder,give,subjonctif présent,Que tu,cèdes,38
+Céder,give,impératif présent,Nous,Cédons,38
+Céder,give,subjonctif présent,Qu'il/elle,cède,38
+Céder,give,impératif présent,Vous,Cédez,38
+Céder,give,subjonctif présent,Que nous,cédions,38
+Céder,give,subjonctif présent,Que vous,cédiez,38
+Céder,give,subjonctif présent,Qu'ils/elles,cèdent,38
+Espérer,hope,présent,J',espère,39
+Espérer,hope,passé composé,J',ai espéré,39
+Espérer,hope,imparfait,J',espérais,39
+Espérer,hope,plus-que-parfait,J',avais espéré,39
+Espérer,hope,présent,Tu,espères,39
+Espérer,hope,passé composé,Tu,as espéré,39
+Espérer,hope,imparfait,Tu,espérais,39
+Espérer,hope,plus-que-parfait,Tu,avais espéré,39
+Espérer,hope,présent,Il/elle,espère,39
+Espérer,hope,passé composé,Il/elle,a espéré,39
+Espérer,hope,imparfait,Il/elle,espérait,39
+Espérer,hope,plus-que-parfait,Il/elle,avait espéré,39
+Espérer,hope,présent,Nous,espérons,39
+Espérer,hope,passé composé,Nous,avons espéré,39
+Espérer,hope,imparfait,Nous,espérions,39
+Espérer,hope,plus-que-parfait,Nous,avions espéré,39
+Espérer,hope,présent,Vous,espérez,39
+Espérer,hope,passé composé,Vous,avez espéré,39
+Espérer,hope,imparfait,Vous,espériez,39
+Espérer,hope,plus-que-parfait,Vous,aviez espéré,39
+Espérer,hope,présent,Ils/elles,espèrent,39
+Espérer,hope,passé composé,Ils/elles,ont espéré,39
+Espérer,hope,imparfait,Ils/elles,espéraient,39
+Espérer,hope,plus-que-parfait,Ils/elles,avaient espéré,39
+Espérer,hope,futur simple,J',espérerai,39
+Espérer,hope,futur antérieur,J',aurai espéré,39
+Espérer,hope,futur simple,Tu,espéreras,39
+Espérer,hope,futur antérieur,Tu,auras espéré,39
+Espérer,hope,futur simple,Il/elle,espérera,39
+Espérer,hope,futur antérieur,Il/elle,aura espéré,39
+Espérer,hope,futur simple,Nous,espérerons,39
+Espérer,hope,futur antérieur,Nous,aurons espéré,39
+Espérer,hope,futur simple,Vous,espérerez,39
+Espérer,hope,futur antérieur,Vous,aurez espéré,39
+Espérer,hope,futur simple,Ils/elles,espéreront,39
+Espérer,hope,futur antérieur,Ils/elles,auront espéré,39
+Espérer,hope,conditionnel présent,J',espérerais,39
+Espérer,hope,conditionnel passé,J',aurais espéré,39
+Espérer,hope,conditionnel présent,Tu,espérerais,39
+Espérer,hope,conditionnel passé,Tu,aurais espéré,39
+Espérer,hope,conditionnel présent,Il/elle,espérerait,39
+Espérer,hope,conditionnel passé,Il/elle,aurait espéré,39
+Espérer,hope,conditionnel présent,Nous,espérerions,39
+Espérer,hope,conditionnel passé,Nous,aurions espéré,39
+Espérer,hope,conditionnel présent,Vous,espéreriez,39
+Espérer,hope,conditionnel passé,Vous,auriez espéré,39
+Espérer,hope,conditionnel présent,Ils/elles,espéreraient,39
+Espérer,hope,conditionnel passé,Ils/elles,auraient espéré,39
+Espérer,hope,conditionnel présent,Tu,),39
+Espérer,hope,subjonctif présent,Que tu,espères,39
+Espérer,hope,impératif présent,Nous,Espérons,39
+Espérer,hope,subjonctif présent,Qu'il/elle,espère,39
+Espérer,hope,impératif présent,Vous,Espérez,39
+Espérer,hope,subjonctif présent,Que nous,espérions,39
+Espérer,hope,subjonctif présent,Que vous,espériez,39
+Espérer,hope,subjonctif présent,Qu'ils/elles,espèrent,39
+Compléter,complete,présent,Je,complète,40
+Compléter,complete,passé composé,J',ai complété,40
+Compléter,complete,imparfait,Je,complétais,40
+Compléter,complete,plus-que-parfait,J',avais complété,40
+Compléter,complete,présent,Tu,complètes,40
+Compléter,complete,passé composé,Tu,as complété,40
+Compléter,complete,imparfait,Tu,complétais,40
+Compléter,complete,plus-que-parfait,Tu,avais complété,40
+Compléter,complete,présent,Il/elle,complète,40
+Compléter,complete,passé composé,Il/elle,a complété,40
+Compléter,complete,imparfait,Il/elle,complétait,40
+Compléter,complete,plus-que-parfait,Il/elle,avait complété,40
+Compléter,complete,présent,Nous,complétons,40
+Compléter,complete,passé composé,Nous,avons complété,40
+Compléter,complete,imparfait,Nous,complétions,40
+Compléter,complete,plus-que-parfait,Nous,avions complété,40
+Compléter,complete,présent,Vous,complétez,40
+Compléter,complete,passé composé,Vous,avez complété,40
+Compléter,complete,imparfait,Vous,complétiez,40
+Compléter,complete,plus-que-parfait,Vous,aviez complété,40
+Compléter,complete,présent,Ils/elles,complètent,40
+Compléter,complete,passé composé,Ils/elles,ont complété,40
+Compléter,complete,imparfait,Ils/elles,complétaient,40
+Compléter,complete,plus-que-parfait,Ils/elles,avaient complété,40
+Compléter,complete,futur simple,Je,compléterai,40
+Compléter,complete,futur antérieur,J',aurai complété,40
+Compléter,complete,futur simple,Tu,compléteras,40
+Compléter,complete,futur antérieur,Tu,auras complété,40
+Compléter,complete,futur simple,Il/elle,complétera,40
+Compléter,complete,futur antérieur,Il/elle,aura complété,40
+Compléter,complete,futur simple,Nous,compléterons,40
+Compléter,complete,futur antérieur,Nous,aurons complété,40
+Compléter,complete,futur simple,Vous,compléterez,40
+Compléter,complete,futur antérieur,Vous,aurez complété,40
+Compléter,complete,futur simple,Ils/elles,compléteront,40
+Compléter,complete,futur antérieur,Ils/elles,auront complété,40
+Compléter,complete,conditionnel présent,Je,compléterais,40
+Compléter,complete,conditionnel passé,J',aurais complété,40
+Compléter,complete,conditionnel présent,Tu,compléterais,40
+Compléter,complete,conditionnel passé,Tu,aurais complété,40
+Compléter,complete,conditionnel présent,Il/elle,compléterait,40
+Compléter,complete,conditionnel passé,Il/elle,aurait complété,40
+Compléter,complete,conditionnel présent,Nous,compléterions,40
+Compléter,complete,conditionnel passé,Nous,aurions complété,40
+Compléter,complete,conditionnel présent,Vous,compléteriez,40
+Compléter,complete,conditionnel passé,Vous,auriez complété,40
+Compléter,complete,conditionnel présent,Ils/elles,compléteraient,40
+Compléter,complete,conditionnel passé,Ils/elles,auraient complété,40
+Compléter,complete,subjonctif présent,Que je,complète,40
+Compléter,complete,impératif présent,Tu,Complète,40
+Compléter,complete,subjonctif présent,Que tu,complètes,40
+Compléter,complete,impératif présent,Nous,Complétons,40
+Compléter,complete,subjonctif présent,Qu'il/elle,complète,40
+Compléter,complete,impératif présent,Vous,Complétez,40
+Compléter,complete,subjonctif présent,Que nous,complétions,40
+Compléter,complete,subjonctif présent,Que vous,complétiez,40
+Compléter,complete,subjonctif présent,Qu'ils/elles,complètent,40
+Pénétrer,penetrate,présent,Je,pénètre,41
+Pénétrer,penetrate,passé composé,J',ai pénétré,41
+Pénétrer,penetrate,imparfait,Je,pénétrais,41
+Pénétrer,penetrate,plus-que-parfait,J',avais pénétré,41
+Pénétrer,penetrate,présent,Tu,pénètres,41
+Pénétrer,penetrate,passé composé,Tu,as pénétré,41
+Pénétrer,penetrate,imparfait,Tu,pénétrais,41
+Pénétrer,penetrate,plus-que-parfait,Tu,avais pénétré,41
+Pénétrer,penetrate,présent,Il/elle,pénètre,41
+Pénétrer,penetrate,passé composé,Il/elle,a pénétré,41
+Pénétrer,penetrate,imparfait,Il/elle,pénétrait,41
+Pénétrer,penetrate,plus-que-parfait,Il/elle,avait pénétré,41
+Pénétrer,penetrate,présent,Nous,pénétrons,41
+Pénétrer,penetrate,passé composé,Nous,avons pénétré,41
+Pénétrer,penetrate,imparfait,Nous,pénétrions,41
+Pénétrer,penetrate,plus-que-parfait,Nous,avions pénétré,41
+Pénétrer,penetrate,présent,Vous,pénétrez,41
+Pénétrer,penetrate,passé composé,Vous,avez pénétré,41
+Pénétrer,penetrate,imparfait,Vous,pénétriez,41
+Pénétrer,penetrate,plus-que-parfait,Vous,aviez pénétré,41
+Pénétrer,penetrate,présent,Ils/elles,pénètrent,41
+Pénétrer,penetrate,passé composé,Ils/elles,ont pénétré,41
+Pénétrer,penetrate,imparfait,Ils/elles,pénétraient,41
+Pénétrer,penetrate,plus-que-parfait,Ils/elles,avaient pénétré,41
+Pénétrer,penetrate,futur simple,Je,pénétrerai,41
+Pénétrer,penetrate,futur antérieur,J',aurai pénétré,41
+Pénétrer,penetrate,futur simple,Tu,pénétreras,41
+Pénétrer,penetrate,futur antérieur,Tu,auras pénétré,41
+Pénétrer,penetrate,futur simple,Il/elle,pénétrera,41
+Pénétrer,penetrate,futur antérieur,Il/elle,aura pénétré,41
+Pénétrer,penetrate,futur simple,Nous,pénétrerons,41
+Pénétrer,penetrate,futur antérieur,Nous,aurons pénétré,41
+Pénétrer,penetrate,futur simple,Vous,pénétrerez,41
+Pénétrer,penetrate,futur antérieur,Vous,aurez pénétré,41
+Pénétrer,penetrate,futur simple,Ils/elles,pénétreront,41
+Pénétrer,penetrate,futur antérieur,Ils/elles,auront pénétré,41
+Pénétrer,penetrate,conditionnel présent,Je,pénétrerais,41
+Pénétrer,penetrate,conditionnel passé,J',aurais pénétré,41
+Pénétrer,penetrate,conditionnel présent,Tu,pénétrerais,41
+Pénétrer,penetrate,conditionnel passé,Tu,aurais pénétré,41
+Pénétrer,penetrate,conditionnel présent,Il/elle,pénétrerait,41
+Pénétrer,penetrate,conditionnel passé,Il/elle,aurait pénétré,41
+Pénétrer,penetrate,conditionnel présent,Nous,pénétrerions,41
+Pénétrer,penetrate,conditionnel passé,Nous,aurions pénétré,41
+Pénétrer,penetrate,conditionnel présent,Vous,pénétreriez,41
+Pénétrer,penetrate,conditionnel passé,Vous,auriez pénétré,41
+Pénétrer,penetrate,conditionnel présent,Ils/elles,pénétreraient,41
+Pénétrer,penetrate,conditionnel passé,Ils/elles,auraient pénétré,41
+Pénétrer,penetrate,subjonctif présent,Que je,pénètre,41
+Pénétrer,penetrate,impératif présent,Tu,Pénètre,41
+Pénétrer,penetrate,subjonctif présent,Que tu,pénètres,41
+Pénétrer,penetrate,impératif présent,Nous,Pénétrons,41
+Pénétrer,penetrate,subjonctif présent,Qu'il/elle,pénètre,41
+Pénétrer,penetrate,impératif présent,Vous,Pénétrez,41
+Pénétrer,penetrate,subjonctif présent,Que nous,pénétrions,41
+Pénétrer,penetrate,subjonctif présent,Que vous,pénétriez,41
+Pénétrer,penetrate,subjonctif présent,Qu'ils/elles,pénètrent,41
+Appeler,call,présent,J',appelle,42
+Appeler,call,passé composé,J',ai appelé,42
+Appeler,call,imparfait,J',appelais,42
+Appeler,call,plus-que-parfait,J',avais appelé,42
+Appeler,call,présent,Tu,appelles,42
+Appeler,call,passé composé,Tu,as appelé,42
+Appeler,call,imparfait,Tu,appelais,42
+Appeler,call,plus-que-parfait,Tu,avais appelé,42
+Appeler,call,présent,Il/elle,appelle,42
+Appeler,call,passé composé,Il/elle,a appelé,42
+Appeler,call,imparfait,Il/elle,appelait,42
+Appeler,call,plus-que-parfait,Il/elle,avait appelé,42
+Appeler,call,présent,Nous,appelons,42
+Appeler,call,passé composé,Nous,avons appelé,42
+Appeler,call,imparfait,Nous,appelions,42
+Appeler,call,plus-que-parfait,Nous,avions appelé,42
+Appeler,call,présent,Vous,appelez,42
+Appeler,call,passé composé,Vous,avez appelé,42
+Appeler,call,imparfait,Vous,appeliez,42
+Appeler,call,plus-que-parfait,Vous,aviez appelé,42
+Appeler,call,présent,Ils/elles,appellent,42
+Appeler,call,passé composé,Ils/elles,ont appelé,42
+Appeler,call,imparfait,Ils/elles,appelaient,42
+Appeler,call,plus-que-parfait,Ils/elles,avaient appelé,42
+Appeler,call,futur simple,J',appellerai,42
+Appeler,call,futur antérieur,J',aurai appelé,42
+Appeler,call,futur simple,Tu,appelleras,42
+Appeler,call,futur antérieur,Tu,auras appelé,42
+Appeler,call,futur simple,Il/elle,appellera,42
+Appeler,call,futur antérieur,Il/elle,aura appelé,42
+Appeler,call,futur simple,Nous,appellerons,42
+Appeler,call,futur antérieur,Nous,aurons appelé,42
+Appeler,call,futur simple,Vous,appellerez,42
+Appeler,call,futur antérieur,Vous,aurez appelé,42
+Appeler,call,futur simple,Ils/elles,appelleront,42
+Appeler,call,futur antérieur,Ils/elles,auront appelé,42
+Appeler,call,conditionnel présent,J',appellerais,42
+Appeler,call,conditionnel passé,J',aurais appelé,42
+Appeler,call,conditionnel présent,Tu,appellerais,42
+Appeler,call,conditionnel passé,Tu,aurais appelé,42
+Appeler,call,conditionnel présent,Il/elle,appellerait,42
+Appeler,call,conditionnel passé,Il/elle,aurait appelé,42
+Appeler,call,conditionnel présent,Nous,appellerions,42
+Appeler,call,conditionnel passé,Nous,aurions appelé,42
+Appeler,call,conditionnel présent,Vous,appelleriez,42
+Appeler,call,conditionnel passé,Vous,auriez appelé,42
+Appeler,call,conditionnel présent,Ils/elles,appelleraient,42
+Appeler,call,conditionnel passé,Ils/elles,auraient appelé,42
+Appeler,call,conditionnel présent,Tu,),42
+Appeler,call,subjonctif présent,Que tu,appelles,42
+Appeler,call,impératif présent,Nous,Appelons,42
+Appeler,call,subjonctif présent,Qu'il/elle,appelle,42
+Appeler,call,impératif présent,Vous,Appelez,42
+Appeler,call,subjonctif présent,Que nous,appelions,42
+Appeler,call,subjonctif présent,Que vous,appeliez,42
+Appeler,call,subjonctif présent,Qu'ils/elles,appellent,42
+Créer,create,présent,Je,crée,43
+Créer,create,passé composé,J',ai créé,43
+Créer,create,imparfait,Je,créais,43
+Créer,create,plus-que-parfait,J',avais créé,43
+Créer,create,présent,Tu,crées,43
+Créer,create,passé composé,Tu,as créé,43
+Créer,create,imparfait,Tu,créais,43
+Créer,create,plus-que-parfait,Tu,avais créé,43
+Créer,create,présent,Il/elle,crée,43
+Créer,create,passé composé,Il/elle,a créé,43
+Créer,create,imparfait,Il/elle,créait,43
+Créer,create,plus-que-parfait,Il/elle,avait créé,43
+Créer,create,présent,Nous,créons,43
+Créer,create,passé composé,Nous,avons créé,43
+Créer,create,imparfait,Nous,créions,43
+Créer,create,plus-que-parfait,Nous,avions créé,43
+Créer,create,présent,Vous,créez,43
+Créer,create,passé composé,Vous,avez créé,43
+Créer,create,imparfait,Vous,créiez,43
+Créer,create,plus-que-parfait,Vous,aviez gelé,43
+Créer,create,présent,Ils/elles,créent,43
+Créer,create,passé composé,Ils/elles,ont créé,43
+Créer,create,imparfait,Ils/elles,créaient,43
+Créer,create,plus-que-parfait,Ils/elles,avaient créé,43
+Créer,create,futur simple,Je,créerai,43
+Créer,create,futur antérieur,J',aurai créé,43
+Créer,create,futur simple,Tu,créeras,43
+Créer,create,futur antérieur,Tu,auras créé,43
+Créer,create,futur simple,Il/elle,créera,43
+Créer,create,futur antérieur,Il/elle,aura créé,43
+Créer,create,futur simple,Nous,créerons,43
+Créer,create,futur antérieur,Nous,aurons créé,43
+Créer,create,futur simple,Vous,créerez,43
+Créer,create,futur antérieur,Vous,aurez créé,43
+Créer,create,futur simple,Ils/elles,créeront,43
+Créer,create,futur antérieur,Ils/elles,auront créé,43
+Créer,create,conditionnel présent,Je,créerais,43
+Créer,create,conditionnel passé,J',aurais créé,43
+Créer,create,conditionnel présent,Tu,créerais,43
+Créer,create,conditionnel passé,Tu,aurais créé,43
+Créer,create,conditionnel présent,Il/elle,créerait,43
+Créer,create,conditionnel passé,Il/elle,aurait créé,43
+Créer,create,conditionnel présent,Nous,créerions,43
+Créer,create,conditionnel passé,Nous,aurions créé,43
+Créer,create,conditionnel présent,Vous,créeriez,43
+Créer,create,conditionnel passé,Vous,auriez créé,43
+Créer,create,conditionnel présent,Ils/elles,créeraient,43
+Créer,create,conditionnel passé,Ils/elles,auraient créé,43
+Créer,create,subjonctif présent,Que je,crée,43
+Créer,create,impératif présent,Tu,Crée,43
+Créer,create,subjonctif présent,Que tu,crées,43
+Créer,create,impératif présent,Nous,Créons,43
+Créer,create,subjonctif présent,Qu'il/elle,crée,43
+Créer,create,impératif présent,Vous,Créez,43
+Créer,create,subjonctif présent,Que nous,créions,43
+Créer,create,subjonctif présent,Que vous,créiez,43
+Créer,create,subjonctif présent,Qu'ils/elles,créent,43
+Envoyer,send,présent,J',envoie,44
+Envoyer,send,passé composé,J',ai envoyé,44
+Envoyer,send,imparfait,J',envoyais,44
+Envoyer,send,plus-que-parfait,J',avais envoyé,44
+Envoyer,send,présent,Tu,envoies,44
+Envoyer,send,passé composé,Tu,as envoyé,44
+Envoyer,send,imparfait,Tu,envoyais,44
+Envoyer,send,plus-que-parfait,Tu,avais envoyé,44
+Envoyer,send,présent,Il/elle,envoie,44
+Envoyer,send,passé composé,Il/elle,a envoyé,44
+Envoyer,send,imparfait,Il/elle,envoyait,44
+Envoyer,send,plus-que-parfait,Il/elle,avait envoyé,44
+Envoyer,send,présent,Nous,envoyons,44
+Envoyer,send,passé composé,Nous,avons envoyé,44
+Envoyer,send,imparfait,Nous,envoyions,44
+Envoyer,send,plus-que-parfait,Nous,avions envoyé,44
+Envoyer,send,présent,Vous,envoyez,44
+Envoyer,send,passé composé,Vous,avez envoyé,44
+Envoyer,send,imparfait,Vous,envoyiez,44
+Envoyer,send,plus-que-parfait,Vous,aviez envoyé,44
+Envoyer,send,présent,Ils/elles,envoient,44
+Envoyer,send,passé composé,Ils/elles,ont envoyé,44
+Envoyer,send,imparfait,Ils/elles,envoyaient,44
+Envoyer,send,plus-que-parfait,Ils/elles,avaient envoyé,44
+Envoyer,send,futur simple,J',enverrai,44
+Envoyer,send,futur antérieur,J',aurai envoyé,44
+Envoyer,send,futur simple,Tu,enverras,44
+Envoyer,send,futur antérieur,Tu,auras envoyé,44
+Envoyer,send,futur simple,Il/elle,enverra,44
+Envoyer,send,futur antérieur,Il/elle,aura envoyé,44
+Envoyer,send,futur simple,Nous,enverrons,44
+Envoyer,send,futur antérieur,Nous,aurons envoyé,44
+Envoyer,send,futur simple,Vous,enverrez,44
+Envoyer,send,futur antérieur,Vous,aurez envoyé,44
+Envoyer,send,futur simple,Ils/elles,enverront,44
+Envoyer,send,futur antérieur,Ils/elles,auront envoyé,44
+Envoyer,send,conditionnel présent,J',enverrais,44
+Envoyer,send,conditionnel passé,J',aurais envoyé,44
+Envoyer,send,conditionnel présent,Tu,enverrais,44
+Envoyer,send,conditionnel passé,Tu,aurais envoyé,44
+Envoyer,send,conditionnel présent,Il/elle,enverrait,44
+Envoyer,send,conditionnel passé,Il/elle,aurait envoyé,44
+Envoyer,send,conditionnel présent,Nous,enverrions,44
+Envoyer,send,conditionnel passé,Nous,aurions envoyé,44
+Envoyer,send,conditionnel présent,Vous,enverriez,44
+Envoyer,send,conditionnel passé,Vous,auriez envoyé,44
+Envoyer,send,conditionnel présent,Ils/elles,enverraient,44
+Envoyer,send,conditionnel passé,Ils/elles,auraient envoyé,44
+Envoyer,send,conditionnel présent,Tu,),44
+Envoyer,send,subjonctif présent,Que tu,envoies,44
+Envoyer,send,impératif présent,Nous,Envoyons,44
+Envoyer,send,subjonctif présent,Qu'il/elle,envoie,44
+Envoyer,send,impératif présent,Vous,Envoyez,44
+Envoyer,send,subjonctif présent,Que nous,envoyions,44
+Envoyer,send,subjonctif présent,Que vous,envoyiez,44
+Envoyer,send,subjonctif présent,Qu'ils/elles,envoient,44
+Jeter,throw,présent,Je,jette,45
+Jeter,throw,passé composé,J',ai jeté,45
+Jeter,throw,imparfait,Je,jetais,45
+Jeter,throw,plus-que-parfait,J',avais jeté,45
+Jeter,throw,présent,Tu,jettes,45
+Jeter,throw,passé composé,Tu,as jeté,45
+Jeter,throw,imparfait,Tu,jetais,45
+Jeter,throw,plus-que-parfait,Tu,avais jeté,45
+Jeter,throw,présent,Il/elle,jette,45
+Jeter,throw,passé composé,Il/elle,a jeté,45
+Jeter,throw,imparfait,Il/elle,jetait,45
+Jeter,throw,plus-que-parfait,Il/elle,avait jeté,45
+Jeter,throw,présent,Nous,jetons,45
+Jeter,throw,passé composé,Nous,avons jeté,45
+Jeter,throw,imparfait,Nous,jetions,45
+Jeter,throw,plus-que-parfait,Nous,avions jeté,45
+Jeter,throw,présent,Vous,jetez,45
+Jeter,throw,passé composé,Vous,avez jeté,45
+Jeter,throw,imparfait,Vous,jetiez,45
+Jeter,throw,plus-que-parfait,Vous,aviez jeté,45
+Jeter,throw,présent,Ils/elles,jettent,45
+Jeter,throw,passé composé,Ils/elles,ont jeté,45
+Jeter,throw,imparfait,Ils/elles,jetaient,45
+Jeter,throw,plus-que-parfait,Ils/elles,avaient jeté,45
+Jeter,throw,futur simple,Je,jetterai,45
+Jeter,throw,futur antérieur,J',aurai jeté,45
+Jeter,throw,futur simple,Tu,jetteras,45
+Jeter,throw,futur antérieur,Tu,auras jeté,45
+Jeter,throw,futur simple,Il/elle,jettera,45
+Jeter,throw,futur antérieur,Il/elle,aura jeté,45
+Jeter,throw,futur simple,Nous,jetterons,45
+Jeter,throw,futur antérieur,Nous,aurons jeté,45
+Jeter,throw,futur simple,Vous,jetterez,45
+Jeter,throw,futur antérieur,Vous,aurez jeté,45
+Jeter,throw,futur simple,Ils/elles,jetteront,45
+Jeter,throw,futur antérieur,Ils/elles,auront jeté,45
+Jeter,throw,conditionnel présent,Je,jetterais,45
+Jeter,throw,conditionnel passé,J',aurais jeté,45
+Jeter,throw,conditionnel présent,Tu,jetterais,45
+Jeter,throw,conditionnel passé,Tu,aurais jeté,45
+Jeter,throw,conditionnel présent,Il/elle,jetterait,45
+Jeter,throw,conditionnel passé,Il/elle,aurait jeté,45
+Jeter,throw,conditionnel présent,Nous,jetterions,45
+Jeter,throw,conditionnel passé,Nous,aurions jeté,45
+Jeter,throw,conditionnel présent,Vous,jetteriez,45
+Jeter,throw,conditionnel passé,Vous,auriez jeté,45
+Jeter,throw,conditionnel présent,Ils/elles,jetteraient,45
+Jeter,throw,conditionnel passé,Ils/elles,auraient jeté,45
+Jeter,throw,subjonctif présent,Que je,jette,45
+Jeter,throw,impératif présent,Tu,Jette,45
+Jeter,throw,subjonctif présent,Que tu,jettes,45
+Jeter,throw,impératif présent,Nous,Jetons,45
+Jeter,throw,subjonctif présent,Qu'il/elle,jette,45
+Jeter,throw,impératif présent,Vous,Jetez,45
+Jeter,throw,subjonctif présent,Que nous,jetions,45
+Jeter,throw,subjonctif présent,Que vous,jetiez,45
+Jeter,throw,subjonctif présent,Qu'ils/elles,jettent,45
+Jeter,throw,conditionnel présent,Je,ter,45
+Agir,act,présent,J',agis,47
+Agir,act,passé composé,J',ai agi,47
+Agir,act,imparfait,J',agissais,47
+Agir,act,plus-que-parfait,J',avais agi,47
+Agir,act,présent,Tu,agis,47
+Agir,act,passé composé,Tu,as agi,47
+Agir,act,imparfait,Tu,agissais,47
+Agir,act,plus-que-parfait,Tu,avais agi,47
+Agir,act,présent,Il/elle,agit,47
+Agir,act,passé composé,Il/elle,a agi,47
+Agir,act,imparfait,Il/elle,agissait,47
+Agir,act,plus-que-parfait,Il/elle,avait agi,47
+Agir,act,présent,Nous,agissons,47
+Agir,act,passé composé,Nous,avons agi,47
+Agir,act,imparfait,Nous,agissions,47
+Agir,act,plus-que-parfait,Nous,avions agi,47
+Agir,act,présent,Vous,agissez,47
+Agir,act,passé composé,Vous,avez agi,47
+Agir,act,imparfait,Vous,agissiez,47
+Agir,act,plus-que-parfait,Vous,aviez agi,47
+Agir,act,présent,Ils/elles,agissent,47
+Agir,act,passé composé,Ils/elles,ont agi,47
+Agir,act,imparfait,Ils/elles,agissaient,47
+Agir,act,plus-que-parfait,Ils/elles,avaient agi,47
+Agir,act,futur simple,J',agirai,47
+Agir,act,futur antérieur,J',aurai agi,47
+Agir,act,futur simple,Tu,agiras,47
+Agir,act,futur antérieur,Tu,auras agi,47
+Agir,act,futur simple,Il/elle,agira,47
+Agir,act,futur antérieur,Il/elle,aura agi,47
+Agir,act,futur simple,Nous,agirons,47
+Agir,act,futur antérieur,Nous,aurons agi,47
+Agir,act,futur simple,Vous,agirez,47
+Agir,act,futur antérieur,Vous,aurez agi,47
+Agir,act,futur simple,Ils/elles,agiront,47
+Agir,act,futur antérieur,Ils/elles,auront agi,47
+Agir,act,conditionnel présent,J',agirais,47
+Agir,act,conditionnel passé,J',aurais agi,47
+Agir,act,conditionnel présent,Tu,agirais,47
+Agir,act,conditionnel passé,Tu,aurais agi,47
+Agir,act,conditionnel présent,Il/elle,agirait,47
+Agir,act,conditionnel passé,Il/elle,aurait agi,47
+Agir,act,conditionnel présent,Nous,agirions,47
+Agir,act,conditionnel passé,Nous,aurions agi,47
+Agir,act,conditionnel présent,Vous,agiriez,47
+Agir,act,conditionnel passé,Vous,auriez agi,47
+Agir,act,conditionnel présent,Ils/elles,agiraient,47
+Agir,act,conditionnel passé,Ils/elles,auraient agi,47
+Agir,act,conditionnel présent,Tu,),47
+Agir,act,subjonctif présent,Que tu,agisses,47
+Agir,act,impératif présent,Nous,Agissons,47
+Agir,act,subjonctif présent,Qu'il/elle,agisse,47
+Agir,act,impératif présent,Vous,Agissez,47
+Agir,act,subjonctif présent,Que nous,agissons,47
+Agir,act,subjonctif présent,Que vous,agissez,47
+Agir,act,subjonctif présent,Qu'ils/elles,agissent,47
+Attendre,wait,présent,J',attends,50
+Attendre,wait,passé composé,J',ai attendu,50
+Attendre,wait,imparfait,J',attendais,50
+Attendre,wait,plus-que-parfait,J',avais attendu,50
+Attendre,wait,présent,Tu,attends,50
+Attendre,wait,passé composé,Tu,as attendu,50
+Attendre,wait,imparfait,Tu,attendais,50
+Attendre,wait,plus-que-parfait,Tu,avais attendu,50
+Attendre,wait,présent,Il/elle,attend,50
+Attendre,wait,passé composé,Il/elle,a attendu,50
+Attendre,wait,imparfait,Il/elle,attendait,50
+Attendre,wait,plus-que-parfait,Il/elle,avait attendu,50
+Attendre,wait,présent,Nous,attendons,50
+Attendre,wait,passé composé,Nous,avons attendu,50
+Attendre,wait,imparfait,Nous,attendions,50
+Attendre,wait,plus-que-parfait,Nous,avions attendu,50
+Attendre,wait,présent,Vous,attendez,50
+Attendre,wait,passé composé,Vous,avez attendu,50
+Attendre,wait,imparfait,Vous,attendiez,50
+Attendre,wait,plus-que-parfait,Vous,aviez attendu,50
+Attendre,wait,présent,Ils/elles,attendent,50
+Attendre,wait,passé composé,Ils/elles,ont attendu,50
+Attendre,wait,imparfait,Ils/elles,attendaient,50
+Attendre,wait,plus-que-parfait,Ils/elles,avaient attendu,50
+Attendre,wait,futur simple,J',attendrai,50
+Attendre,wait,futur antérieur,J',aurai attendu,50
+Attendre,wait,futur simple,Tu,attendras,50
+Attendre,wait,futur antérieur,Tu,auras attendu,50
+Attendre,wait,futur simple,Il/elle,attendra,50
+Attendre,wait,futur antérieur,Il/elle,aura attendu,50
+Attendre,wait,futur simple,Nous,attendrons,50
+Attendre,wait,futur antérieur,Nous,aurons attendu,50
+Attendre,wait,futur simple,Vous,attendrez,50
+Attendre,wait,futur antérieur,Vous,aurez attendu,50
+Attendre,wait,futur simple,Ils/elles,attendront,50
+Attendre,wait,futur antérieur,Ils/elles,auront attendu,50
+Attendre,wait,conditionnel présent,J',attendrais,50
+Attendre,wait,conditionnel passé,J',aurais attendu,50
+Attendre,wait,conditionnel présent,Tu,attendrais,50
+Attendre,wait,conditionnel passé,Tu,aurais attendu,50
+Attendre,wait,conditionnel présent,Il/elle,attendrait,50
+Attendre,wait,conditionnel passé,Il/elle,aurait attendu,50
+Attendre,wait,conditionnel présent,Nous,attendrions,50
+Attendre,wait,conditionnel passé,Nous,aurions attendu,50
+Attendre,wait,conditionnel présent,Vous,attendriez,50
+Attendre,wait,conditionnel passé,Vous,auriez attendu,50
+Attendre,wait,conditionnel présent,Ils/elles,attendraient,50
+Attendre,wait,conditionnel passé,Ils/elles,auraient attendu,50
+Attendre,wait,conditionnel présent,Tu,),50
+Attendre,wait,subjonctif présent,Que tu,attendes,50
+Attendre,wait,impératif présent,Nous,Attendons,50
+Attendre,wait,subjonctif présent,Qu'il/elle,attende,50
+Attendre,wait,impératif présent,Vous,Attendez,50
+Attendre,wait,subjonctif présent,Que nous,attendions,50
+Attendre,wait,subjonctif présent,Que vous,attendiez,50
+Attendre,wait,subjonctif présent,Qu'ils/elles,attendent,50
+Tenir,hold,présent,Je,tiens,52
+Tenir,hold,passé composé,J',ai tenu,52
+Tenir,hold,imparfait,Je,tenais,52
+Tenir,hold,plus-que-parfait,J',avais tenu,52
+Tenir,hold,présent,Tu,tiens,52
+Tenir,hold,passé composé,Tu,as tenu,52
+Tenir,hold,imparfait,Tu,tenais,52
+Tenir,hold,plus-que-parfait,Tu,avais tenu,52
+Tenir,hold,présent,Il/elle,tient,52
+Tenir,hold,passé composé,Il/elle,a tenu,52
+Tenir,hold,imparfait,Il/elle,tenait,52
+Tenir,hold,plus-que-parfait,Il/elle,avait tenu,52
+Tenir,hold,présent,Nous,tenons,52
+Tenir,hold,passé composé,Nous,avons tenu,52
+Tenir,hold,imparfait,Nous,tenions,52
+Tenir,hold,plus-que-parfait,Nous,avions tenu,52
+Tenir,hold,présent,Vous,tenez,52
+Tenir,hold,passé composé,Vous,avez tenu,52
+Tenir,hold,imparfait,Vous,teniez,52
+Tenir,hold,plus-que-parfait,Vous,aviez tenu,52
+Tenir,hold,présent,Ils/elles,tiennent,52
+Tenir,hold,passé composé,Ils/elles,ont tenu,52
+Tenir,hold,imparfait,Ils/elles,tenaient,52
+Tenir,hold,plus-que-parfait,Ils/elles,avaient tenu,52
+Tenir,hold,futur simple,Je,tiendrai,52
+Tenir,hold,futur antérieur,J',aurai tenu,52
+Tenir,hold,futur simple,Tu,tiendras,52
+Tenir,hold,futur antérieur,Tu,auras tenu,52
+Tenir,hold,futur simple,Il/elle,tiendra,52
+Tenir,hold,futur antérieur,Il/elle,aura tenu,52
+Tenir,hold,futur simple,Nous,tiendrons,52
+Tenir,hold,futur antérieur,Nous,aurons tenu,52
+Tenir,hold,futur simple,Vous,tiendrez,52
+Tenir,hold,futur antérieur,Vous,aurez tenu,52
+Tenir,hold,futur simple,Ils/elles,tiendront,52
+Tenir,hold,futur antérieur,Ils/elles,auront tenu,52
+Tenir,hold,conditionnel présent,Je,tiendrais,52
+Tenir,hold,conditionnel passé,J',aurais tenu,52
+Tenir,hold,conditionnel présent,Tu,tiendrais,52
+Tenir,hold,conditionnel passé,Tu,aurais tenu,52
+Tenir,hold,conditionnel présent,Il/elle,tiendrait,52
+Tenir,hold,conditionnel passé,Il/elle,aurait tenu,52
+Tenir,hold,conditionnel présent,Nous,tiendrions,52
+Tenir,hold,conditionnel passé,Nous,aurions tenu,52
+Tenir,hold,conditionnel présent,Vous,tiendriez,52
+Tenir,hold,conditionnel passé,Vous,auriez tenu,52
+Tenir,hold,conditionnel présent,Ils/elles,tiendraient,52
+Tenir,hold,conditionnel passé,Ils/elles,auraient tenu,52
+Tenir,hold,subjonctif présent,Que je,tienne,52
+Tenir,hold,impératif présent,Tu,Tiens,52
+Tenir,hold,subjonctif présent,Que tu,tiennes,52
+Tenir,hold,impératif présent,Nous,Tenons,52
+Tenir,hold,subjonctif présent,Qu'il/elle,tienne,52
+Tenir,hold,impératif présent,Vous,Tenez,52
+Tenir,hold,subjonctif présent,Que nous,tenions,52
+Tenir,hold,subjonctif présent,Que vous,teniez,52
+Tenir,hold,subjonctif présent,Qu'ils/elles,tiennent,52
+Conduire,drive,présent,Je,conduis,54
+Conduire,drive,passé composé,J',ai conduit,54
+Conduire,drive,imparfait,Je,conduisais,54
+Conduire,drive,plus-que-parfait,J',avais conduit,54
+Conduire,drive,présent,Tu,conduis,54
+Conduire,drive,passé composé,Tu,as conduit,54
+Conduire,drive,imparfait,Tu,conduisais,54
+Conduire,drive,plus-que-parfait,Tu,avais conduit,54
+Conduire,drive,présent,Il/elle,conduit,54
+Conduire,drive,passé composé,Il/elle,a conduit,54
+Conduire,drive,imparfait,Il/elle,conduisait,54
+Conduire,drive,plus-que-parfait,Il/elle,avait conduit,54
+Conduire,drive,présent,Nous,conduisons,54
+Conduire,drive,passé composé,Nous,avons conduit,54
+Conduire,drive,imparfait,Nous,conduisions,54
+Conduire,drive,plus-que-parfait,Nous,avions conduit,54
+Conduire,drive,présent,Vous,conduisez,54
+Conduire,drive,passé composé,Vous,avez conduit,54
+Conduire,drive,imparfait,Vous,conduisiez,54
+Conduire,drive,plus-que-parfait,Vous,aviez conduit,54
+Conduire,drive,présent,Ils/elles,conduisent,54
+Conduire,drive,passé composé,Ils/elles,ont conduit,54
+Conduire,drive,imparfait,Ils/elles,conduisaient,54
+Conduire,drive,plus-que-parfait,Ils/elles,avaient conduit,54
+Conduire,drive,futur simple,Je,conduirai,54
+Conduire,drive,futur antérieur,J',aurai conduit,54
+Conduire,drive,futur simple,Tu,conduiras,54
+Conduire,drive,futur antérieur,Tu,auras conduit,54
+Conduire,drive,futur simple,Il/elle,conduira,54
+Conduire,drive,futur antérieur,Il/elle,aura conduit,54
+Conduire,drive,futur simple,Nous,conduirons,54
+Conduire,drive,futur antérieur,Nous,aurons conduit,54
+Conduire,drive,futur simple,Vous,conduirez,54
+Conduire,drive,futur antérieur,Vous,aurez conduit,54
+Conduire,drive,futur simple,Ils/elles,conduiront,54
+Conduire,drive,futur antérieur,Ils/elles,auront conduit,54
+Conduire,drive,conditionnel présent,Je,conduirais,54
+Conduire,drive,conditionnel passé,J',aurais conduit,54
+Conduire,drive,conditionnel présent,Tu,conduirais,54
+Conduire,drive,conditionnel passé,Tu,aurais conduit,54
+Conduire,drive,conditionnel présent,Il/elle,conduirait,54
+Conduire,drive,conditionnel passé,Il/elle,aurait conduit,54
+Conduire,drive,conditionnel présent,Nous,conduirions,54
+Conduire,drive,conditionnel passé,Nous,aurions conduit,54
+Conduire,drive,conditionnel présent,Vous,conduiriez,54
+Conduire,drive,conditionnel passé,Vous,auriez conduit,54
+Conduire,drive,conditionnel présent,Ils/elles,conduiraient,54
+Conduire,drive,conditionnel passé,Ils/elles,auraient conduit,54
+Conduire,drive,subjonctif présent,Que je,conduise,54
+Conduire,drive,impératif présent,Tu,Conduis,54
+Conduire,drive,subjonctif présent,Que tu,conduises,54
+Conduire,drive,impératif présent,Nous,Conduisons,54
+Conduire,drive,subjonctif présent,Qu'il/elle,conduise,54
+Conduire,drive,impératif présent,Vous,Conduisez,54
+Conduire,drive,subjonctif présent,Que nous,conduisions,54
+Conduire,drive,subjonctif présent,Que vous,conduisiez,54
+Conduire,drive,subjonctif présent,Qu'ils/elles,conduisent,54
+Mentir,lie,présent,Je,mens,56
+Mentir,lie,passé composé,J',ai menti,56
+Mentir,lie,imparfait,Je,mentais,56
+Mentir,lie,plus-que-parfait,J',avais menti,56
+Mentir,lie,présent,Tu,mens,56
+Mentir,lie,passé composé,Tu,as menti,56
+Mentir,lie,imparfait,Tu,mentais,56
+Mentir,lie,plus-que-parfait,Tu,avais menti,56
+Mentir,lie,présent,Il/elle,ment,56
+Mentir,lie,passé composé,Il/elle,a menti,56
+Mentir,lie,imparfait,Il/elle,mentait,56
+Mentir,lie,plus-que-parfait,Il/elle,avait menti,56
+Mentir,lie,présent,Nous,mentons,56
+Mentir,lie,passé composé,Nous,avons menti,56
+Mentir,lie,imparfait,Nous,mentions,56
+Mentir,lie,plus-que-parfait,Nous,avions menti,56
+Mentir,lie,présent,Vous,mentez,56
+Mentir,lie,passé composé,Vous,avez menti,56
+Mentir,lie,imparfait,Vous,mentiez,56
+Mentir,lie,plus-que-parfait,Vous,aviez menti,56
+Mentir,lie,présent,Ils/elles,mentent,56
+Mentir,lie,passé composé,Ils/elles,ont menti,56
+Mentir,lie,imparfait,Ils/elles,mentaient,56
+Mentir,lie,plus-que-parfait,Ils/elles,avaient menti,56
+Mentir,lie,futur simple,Je,mentirai,56
+Mentir,lie,futur antérieur,J',aurai menti,56
+Mentir,lie,futur simple,Tu,mentiras,56
+Mentir,lie,futur antérieur,Tu,auras menti,56
+Mentir,lie,futur simple,Il/elle,mentira,56
+Mentir,lie,futur antérieur,Il/elle,aura menti,56
+Mentir,lie,futur simple,Nous,mentirons,56
+Mentir,lie,futur antérieur,Nous,aurons menti,56
+Mentir,lie,futur simple,Vous,mentirez,56
+Mentir,lie,futur antérieur,Vous,aurez menti,56
+Mentir,lie,futur simple,Ils/elles,mentiront,56
+Mentir,lie,futur antérieur,Ils/elles,auront menti,56
+Mentir,lie,conditionnel présent,Je,mentirais,56
+Mentir,lie,conditionnel passé,J',aurais menti,56
+Mentir,lie,conditionnel présent,Tu,mentirais,56
+Mentir,lie,conditionnel passé,Tu,aurais menti,56
+Mentir,lie,conditionnel présent,Il/elle,mentirait,56
+Mentir,lie,conditionnel passé,Il/elle,aurait menti,56
+Mentir,lie,conditionnel présent,Nous,mentirions,56
+Mentir,lie,conditionnel passé,Nous,aurions menti,56
+Mentir,lie,conditionnel présent,Vous,mentiriez,56
+Mentir,lie,conditionnel passé,Vous,auriez menti,56
+Mentir,lie,conditionnel présent,Ils/elles,mentiraient,56
+Mentir,lie,conditionnel passé,Ils/elles,auraient menti,56
+Mentir,lie,subjonctif présent,Que je,mente,56
+Mentir,lie,impératif présent,Tu,Mens,56
+Mentir,lie,subjonctif présent,Que tu,mentes,56
+Mentir,lie,impératif présent,Nous,Mentons,56
+Mentir,lie,subjonctif présent,Qu'il/elle,mente,56
+Mentir,lie,impératif présent,Vous,Mentez,56
+Mentir,lie,subjonctif présent,Que nous,mentions,56
+Mentir,lie,subjonctif présent,Que vous,mentiez,56
+Mentir,lie,subjonctif présent,Qu'ils/elles,mentent,56
+Connaître,know,présent,Je,connais,58
+Connaître,know,passé composé,J',ai connu,58
+Connaître,know,imparfait,Je,connaissais,58
+Connaître,know,plus-que-parfait,J',avais connu,58
+Connaître,know,présent,Tu,connais,58
+Connaître,know,passé composé,Tu,as connu,58
+Connaître,know,imparfait,Tu,connaissais,58
+Connaître,know,plus-que-parfait,Tu,avais connu,58
+Connaître,know,présent,Il/elle,connaît,58
+Connaître,know,passé composé,Il/elle,a connu,58
+Connaître,know,imparfait,Il/elle,connaissait,58
+Connaître,know,plus-que-parfait,Il/elle,avait connu,58
+Connaître,know,présent,Nous,connaissons,58
+Connaître,know,passé composé,Nous,avons connu,58
+Connaître,know,imparfait,Nous,connaissions,58
+Connaître,know,plus-que-parfait,Nous,avions connu,58
+Connaître,know,présent,Vous,connaissez,58
+Connaître,know,passé composé,Vous,avez connu,58
+Connaître,know,imparfait,Vous,connaissiez,58
+Connaître,know,plus-que-parfait,Vous,aviez connu,58
+Connaître,know,présent,Ils/elles,connaissent,58
+Connaître,know,passé composé,Ils/elles,ont connu,58
+Connaître,know,imparfait,Ils/elles,connaissaient,58
+Connaître,know,plus-que-parfait,Ils/elles,avaient connu,58
+Connaître,know,futur simple,Je,connaîtrai,58
+Connaître,know,futur antérieur,J',aurai connu,58
+Connaître,know,futur simple,Tu,connaîtras,58
+Connaître,know,futur antérieur,Tu,auras connu,58
+Connaître,know,futur simple,Il/elle,connaîtra,58
+Connaître,know,futur antérieur,Il/elle,aura connu,58
+Connaître,know,futur simple,Nous,connaîtrons,58
+Connaître,know,futur antérieur,Nous,aurons connu,58
+Connaître,know,futur simple,Vous,connaîtrez,58
+Connaître,know,futur antérieur,Vous,aurez connu,58
+Connaître,know,futur simple,Ils/elles,connaîtront,58
+Connaître,know,futur antérieur,Ils/elles,auront connu,58
+Connaître,know,conditionnel présent,Je,connaîtrais,58
+Connaître,know,conditionnel passé,J',aurais connu,58
+Connaître,know,conditionnel présent,Tu,connaîtrais,58
+Connaître,know,conditionnel passé,Tu,aurais connu,58
+Connaître,know,conditionnel présent,Il/elle,connaîtrait,58
+Connaître,know,conditionnel passé,Il/elle,aurait connu,58
+Connaître,know,conditionnel présent,Nous,connaîtrions,58
+Connaître,know,conditionnel passé,Nous,aurions connu,58
+Connaître,know,conditionnel présent,Vous,connaîtriez,58
+Connaître,know,conditionnel passé,Vous,auriez connu,58
+Connaître,know,conditionnel présent,Ils/elles,connaîtraient,58
+Connaître,know,conditionnel passé,Ils/elles,auraient connu,58
+Connaître,know,subjonctif présent,Que je,connaisse,58
+Connaître,know,impératif présent,Tu,Connais,58
+Connaître,know,subjonctif présent,Que tu,connaisses,58
+Connaître,know,impératif présent,Nous,Connaissons,58
+Connaître,know,subjonctif présent,Qu'il/elle,connaisse,58
+Connaître,know,impératif présent,Vous,Connaissez,58
+Connaître,know,subjonctif présent,Que nous,connaissions,58
+Connaître,know,subjonctif présent,Que vous,connaissiez,58
+Connaître,know,subjonctif présent,Qu'ils/elles,connaissent,58
+Acquérir,acquire,présent,J',acquiers,59
+Acquérir,acquire,passé composé,J',ai acquis,59
+Acquérir,acquire,imparfait,J',acquérais,59
+Acquérir,acquire,plus-que-parfait,J',avais acquis,59
+Acquérir,acquire,présent,Tu,acquiers,59
+Acquérir,acquire,passé composé,Tu,as acquis,59
+Acquérir,acquire,imparfait,Tu,acquérais,59
+Acquérir,acquire,plus-que-parfait,Tu,avais acquis,59
+Acquérir,acquire,présent,Il/elle,acquiert,59
+Acquérir,acquire,passé composé,Il/elle,a acquis,59
+Acquérir,acquire,imparfait,Il/elle,acquérait,59
+Acquérir,acquire,plus-que-parfait,Il/elle,avait acquis,59
+Acquérir,acquire,présent,Nous,acquérons,59
+Acquérir,acquire,passé composé,Nous,avons acquis,59
+Acquérir,acquire,imparfait,Nous,acquérions,59
+Acquérir,acquire,plus-que-parfait,Nous,avions acquis,59
+Acquérir,acquire,présent,Vous,acquérez,59
+Acquérir,acquire,passé composé,Vous,avez acquis,59
+Acquérir,acquire,imparfait,Vous,acquériez,59
+Acquérir,acquire,plus-que-parfait,Vous,aviez acquis,59
+Acquérir,acquire,présent,Ils/elles,acquièrent,59
+Acquérir,acquire,passé composé,Ils/elles,ont acquis,59
+Acquérir,acquire,imparfait,Ils/elles,acquéraient,59
+Acquérir,acquire,plus-que-parfait,Ils/elles,avaient acquis,59
+Acquérir,acquire,futur simple,J',acquerrai,59
+Acquérir,acquire,futur antérieur,J',aurai acquis,59
+Acquérir,acquire,futur simple,Tu,acquerras,59
+Acquérir,acquire,futur antérieur,Tu,auras acquis,59
+Acquérir,acquire,futur simple,Il/elle,acquerra,59
+Acquérir,acquire,futur antérieur,Il/elle,aura acquis,59
+Acquérir,acquire,futur simple,Nous,acquerrons,59
+Acquérir,acquire,futur antérieur,Nous,aurons acquis,59
+Acquérir,acquire,futur simple,Vous,acquerrez,59
+Acquérir,acquire,futur antérieur,Vous,aurez acquis,59
+Acquérir,acquire,futur simple,Ils/elles,acquerront,59
+Acquérir,acquire,futur antérieur,Ils/elles,auront acquis,59
+Acquérir,acquire,conditionnel présent,J',acquerrais,59
+Acquérir,acquire,conditionnel passé,J',aurais acquis,59
+Acquérir,acquire,conditionnel présent,Tu,acquerrais,59
+Acquérir,acquire,conditionnel passé,Tu,aurais acquis,59
+Acquérir,acquire,conditionnel présent,Il/elle,acquerrait,59
+Acquérir,acquire,conditionnel passé,Il/elle,aurait acquis,59
+Acquérir,acquire,conditionnel présent,Nous,acquerrions,59
+Acquérir,acquire,conditionnel passé,Nous,aurions acquis,59
+Acquérir,acquire,conditionnel présent,Vous,acquerriez,59
+Acquérir,acquire,conditionnel passé,Vous,auriez acquis,59
+Acquérir,acquire,conditionnel présent,Ils/elles,acquerraient,59
+Acquérir,acquire,conditionnel passé,Ils/elles,auraient acquis,59
+Acquérir,acquire,conditionnel présent,Tu,),59
+Acquérir,acquire,subjonctif présent,Que tu,acquières,59
+Acquérir,acquire,impératif présent,Nous,Acquérons,59
+Acquérir,acquire,subjonctif présent,Qu'il/elle,acquière,59
+Acquérir,acquire,impératif présent,Vous,Acquérez,59
+Acquérir,acquire,subjonctif présent,Que nous,acquérions,59
+Acquérir,acquire,subjonctif présent,Que vous,acquériez,59
+Acquérir,acquire,subjonctif présent,Qu'ils/elles,acquièrent,59
+Offrir,offer,présent,J',offre,60
+Offrir,offer,passé composé,J',ai offert,60
+Offrir,offer,imparfait,J',offrais,60
+Offrir,offer,plus-que-parfait,J',avais offert,60
+Offrir,offer,présent,Tu,offres,60
+Offrir,offer,passé composé,Tu,as offert,60
+Offrir,offer,imparfait,Tu,offrais,60
+Offrir,offer,plus-que-parfait,Tu,avais offert,60
+Offrir,offer,présent,Il/elle,offre,60
+Offrir,offer,passé composé,Il/elle,a offert,60
+Offrir,offer,imparfait,Il/elle,offrait,60
+Offrir,offer,plus-que-parfait,Il/elle,avait offert,60
+Offrir,offer,présent,Nous,offrons,60
+Offrir,offer,passé composé,Nous,avons offert,60
+Offrir,offer,imparfait,Nous,offrions,60
+Offrir,offer,plus-que-parfait,Nous,avions offert,60
+Offrir,offer,présent,Vous,offrez,60
+Offrir,offer,passé composé,Vous,avez offert,60
+Offrir,offer,imparfait,Vous,offriez,60
+Offrir,offer,plus-que-parfait,Vous,aviez offert,60
+Offrir,offer,présent,Ils/elles,offrent,60
+Offrir,offer,passé composé,Ils/elles,ont offert,60
+Offrir,offer,imparfait,Ils/elles,offraient,60
+Offrir,offer,plus-que-parfait,Ils/elles,avaient offert,60
+Offrir,offer,futur simple,J',offrirai,60
+Offrir,offer,futur antérieur,J',aurai offert,60
+Offrir,offer,futur simple,Tu,offriras,60
+Offrir,offer,futur antérieur,Tu,auras offert,60
+Offrir,offer,futur simple,Il/elle,offrira,60
+Offrir,offer,futur antérieur,Il/elle,aura offert,60
+Offrir,offer,futur simple,Nous,offrirons,60
+Offrir,offer,futur antérieur,Nous,aurons offert,60
+Offrir,offer,futur simple,Vous,offrirez,60
+Offrir,offer,futur antérieur,Vous,aurez offert,60
+Offrir,offer,futur simple,Ils/elles,offriront,60
+Offrir,offer,futur antérieur,Ils/elles,auront offert,60
+Offrir,offer,conditionnel présent,J',offrirais,60
+Offrir,offer,conditionnel passé,J',aurais offert,60
+Offrir,offer,conditionnel présent,Tu,offrirais,60
+Offrir,offer,conditionnel passé,Tu,aurais offert,60
+Offrir,offer,conditionnel présent,Il/elle,offrirait,60
+Offrir,offer,conditionnel passé,Il/elle,aurait offert,60
+Offrir,offer,conditionnel présent,Nous,offririons,60
+Offrir,offer,conditionnel passé,Nous,aurions offert,60
+Offrir,offer,conditionnel présent,Vous,offririez,60
+Offrir,offer,conditionnel passé,Vous,auriez offert,60
+Offrir,offer,conditionnel présent,Ils/elles,offriraient,60
+Offrir,offer,conditionnel passé,Ils/elles,auraient offert,60
+Offrir,offer,conditionnel présent,Tu,),60
+Offrir,offer,subjonctif présent,Que tu,offres,60
+Offrir,offer,impératif présent,Nous,Offrons,60
+Offrir,offer,subjonctif présent,Qu'il/elle,offre,60
+Offrir,offer,impératif présent,Vous,Offrez,60
+Offrir,offer,subjonctif présent,Que nous,offrons,60
+Offrir,offer,subjonctif présent,Que vous,offrez,60
+Offrir,offer,subjonctif présent,Qu'ils/elles,offrent,60
+Ouvrir,open,présent,J',ouvre,61
+Ouvrir,open,passé composé,J',ai ouvert,61
+Ouvrir,open,imparfait,J',écrivais,61
+Ouvrir,open,plus-que-parfait,J',avais ouvert,61
+Ouvrir,open,présent,Tu,ouvres,61
+Ouvrir,open,passé composé,Tu,as ouvert,61
+Ouvrir,open,imparfait,Tu,écrivais,61
+Ouvrir,open,plus-que-parfait,Tu,avais ouvert,61
+Ouvrir,open,présent,Il/elle,ouvre,61
+Ouvrir,open,passé composé,Il/elle,a ouvert,61
+Ouvrir,open,imparfait,Il/elle,écrivait,61
+Ouvrir,open,plus-que-parfait,Il/elle,avait ouvert,61
+Ouvrir,open,présent,Nous,ouvrons,61
+Ouvrir,open,passé composé,Nous,avons ouvert,61
+Ouvrir,open,imparfait,Nous,écrivions,61
+Ouvrir,open,plus-que-parfait,Nous,avions ouvert,61
+Ouvrir,open,présent,Vous,ouvrez,61
+Ouvrir,open,passé composé,Vous,avez ouvert,61
+Ouvrir,open,imparfait,Vous,écriviez,61
+Ouvrir,open,plus-que-parfait,Vous,aviez ouvert,61
+Ouvrir,open,présent,Ils/elles,ouvrent,61
+Ouvrir,open,passé composé,Ils/elles,ont ouvert,61
+Ouvrir,open,imparfait,Ils/elles,écrivaient,61
+Ouvrir,open,plus-que-parfait,Ils/elles,avaient ouvert,61
+Ouvrir,open,futur simple,J',ouvrirai,61
+Ouvrir,open,futur antérieur,J',aurai ouvert,61
+Ouvrir,open,futur simple,Tu,ouvriras,61
+Ouvrir,open,futur antérieur,Tu,auras ouvert,61
+Ouvrir,open,futur simple,Il/elle,ouvrira,61
+Ouvrir,open,futur antérieur,Il/elle,aura ouvert,61
+Ouvrir,open,futur simple,Nous,ouvrirons,61
+Ouvrir,open,futur antérieur,Nous,aurons ouvert,61
+Ouvrir,open,futur simple,Vous,ouvrirez,61
+Ouvrir,open,futur antérieur,Vous,aurez ouvert,61
+Ouvrir,open,futur simple,Ils/elles,ouvriront,61
+Ouvrir,open,futur antérieur,Ils/elles,auront ouvert,61
+Ouvrir,open,conditionnel présent,J',ouvrirais,61
+Ouvrir,open,conditionnel passé,J',aurais ouvert,61
+Ouvrir,open,conditionnel présent,Tu,ouvrirais,61
+Ouvrir,open,conditionnel passé,Tu,aurais ouvert,61
+Ouvrir,open,conditionnel présent,Il/elle,ouvrirait,61
+Ouvrir,open,conditionnel passé,Il/elle,aurait ouvert,61
+Ouvrir,open,conditionnel présent,Nous,ouvririons,61
+Ouvrir,open,conditionnel passé,Nous,aurions ouvert,61
+Ouvrir,open,conditionnel présent,Vous,ouvririez,61
+Ouvrir,open,conditionnel passé,Vous,auriez ouvert,61
+Ouvrir,open,conditionnel présent,Ils/elles,ouvriraient,61
+Ouvrir,open,conditionnel passé,Ils/elles,auraient ouvert,61
+Ouvrir,open,conditionnel présent,Tu,),61
+Ouvrir,open,subjonctif présent,Que tu,ouvres,61
+Ouvrir,open,impératif présent,Nous,Ouvrez,61
+Ouvrir,open,subjonctif présent,Qu'il/elle,ouvre,61
+Ouvrir,open,impératif présent,Vous,Ouvrons,61
+Ouvrir,open,subjonctif présent,Que nous,ouvrions,61
+Ouvrir,open,subjonctif présent,Que vous,ouvriez,61
+Ouvrir,open,subjonctif présent,Qu'ils/elles,ouvrent,61
+Décevoir,disappoint,présent,Je,déçois,62
+Décevoir,disappoint,passé composé,J',ai déçu,62
+Décevoir,disappoint,imparfait,Je,décevais,62
+Décevoir,disappoint,plus-que-parfait,J',avais déçu,62
+Décevoir,disappoint,présent,Tu,déçois,62
+Décevoir,disappoint,passé composé,Tu,as déçu,62
+Décevoir,disappoint,imparfait,Tu,décevais,62
+Décevoir,disappoint,plus-que-parfait,Tu,avais déçu,62
+Décevoir,disappoint,présent,Il/elle,déçoit,62
+Décevoir,disappoint,passé composé,Il/elle,a déçu,62
+Décevoir,disappoint,imparfait,Il/elle,décevait,62
+Décevoir,disappoint,plus-que-parfait,Il/elle,avait déçu,62
+Décevoir,disappoint,présent,Nous,décevons,62
+Décevoir,disappoint,passé composé,Nous,avons déçu,62
+Décevoir,disappoint,imparfait,Nous,décevions,62
+Décevoir,disappoint,plus-que-parfait,Nous,avions déçu,62
+Décevoir,disappoint,présent,Vous,décevez,62
+Décevoir,disappoint,passé composé,Vous,avez déçu,62
+Décevoir,disappoint,imparfait,Vous,déceviez,62
+Décevoir,disappoint,plus-que-parfait,Vous,aviez déçu,62
+Décevoir,disappoint,présent,Ils/elles,déçoivent,62
+Décevoir,disappoint,passé composé,Ils/elles,ont déçu,62
+Décevoir,disappoint,imparfait,Ils/elles,décevaient,62
+Décevoir,disappoint,plus-que-parfait,Ils/elles,avaient déçu,62
+Décevoir,disappoint,futur simple,Je,décevrai,62
+Décevoir,disappoint,futur antérieur,J',aurai déçu,62
+Décevoir,disappoint,futur simple,Tu,décevras,62
+Décevoir,disappoint,futur antérieur,Tu,auras déçu,62
+Décevoir,disappoint,futur simple,Il/elle,décevra,62
+Décevoir,disappoint,futur antérieur,Il/elle,aura déçu,62
+Décevoir,disappoint,futur simple,Nous,décevrons,62
+Décevoir,disappoint,futur antérieur,Nous,aurons déçu,62
+Décevoir,disappoint,futur simple,Vous,décevrez,62
+Décevoir,disappoint,futur antérieur,Vous,aurez déçu,62
+Décevoir,disappoint,futur simple,Ils/elles,décevront,62
+Décevoir,disappoint,futur antérieur,Ils/elles,auront déçu,62
+Décevoir,disappoint,conditionnel présent,Je,décevrais,62
+Décevoir,disappoint,conditionnel passé,J',aurais déçu,62
+Décevoir,disappoint,conditionnel présent,Tu,décevrais,62
+Décevoir,disappoint,conditionnel passé,Tu,aurais déçu,62
+Décevoir,disappoint,conditionnel présent,Il/elle,décevrait,62
+Décevoir,disappoint,conditionnel passé,Il/elle,aurait déçu,62
+Décevoir,disappoint,conditionnel présent,Nous,décevrions,62
+Décevoir,disappoint,conditionnel passé,Nous,aurions déçu,62
+Décevoir,disappoint,conditionnel présent,Vous,décevriez,62
+Décevoir,disappoint,conditionnel passé,Vous,auriez déçu,62
+Décevoir,disappoint,conditionnel présent,Ils/elles,décevraient,62
+Décevoir,disappoint,conditionnel passé,Ils/elles,auraient déçu,62
+Décevoir,disappoint,subjonctif présent,Que je,déçoive,62
+Décevoir,disappoint,impératif présent,Tu,Déçois,62
+Décevoir,disappoint,subjonctif présent,Que tu,déçoives,62
+Décevoir,disappoint,impératif présent,Nous,Décevons,62
+Décevoir,disappoint,subjonctif présent,Qu'il/elle,déçoive,62
+Décevoir,disappoint,impératif présent,Vous,Décevez,62
+Décevoir,disappoint,subjonctif présent,Que nous,décevions,62
+Décevoir,disappoint,subjonctif présent,Que vous,déceviez,62
+Décevoir,disappoint,subjonctif présent,Qu'ils/elles,déçoivent,62
+Fuir,flee,présent,Je,fuis,63
+Fuir,flee,passé composé,J',ai fui,63
+Fuir,flee,imparfait,Je,fuyais,63
+Fuir,flee,plus-que-parfait,J',avais fui,63
+Fuir,flee,présent,Tu,fuis,63
+Fuir,flee,passé composé,Tu,as fui,63
+Fuir,flee,imparfait,Tu,fuyais,63
+Fuir,flee,plus-que-parfait,Tu,avais fui,63
+Fuir,flee,présent,Il/elle,fuit,63
+Fuir,flee,passé composé,Il/elle,a fui,63
+Fuir,flee,imparfait,Il/elle,fuyait,63
+Fuir,flee,plus-que-parfait,Il/elle,avait fui,63
+Fuir,flee,présent,Nous,fuyons,63
+Fuir,flee,passé composé,Nous,avons fui,63
+Fuir,flee,imparfait,Nous,fuyions,63
+Fuir,flee,plus-que-parfait,Nous,avions fui,63
+Fuir,flee,présent,Vous,fuyez,63
+Fuir,flee,passé composé,Vous,avez fui,63
+Fuir,flee,imparfait,Vous,fuyiez,63
+Fuir,flee,plus-que-parfait,Vous,aviez fui,63
+Fuir,flee,présent,Ils/elles,fuit,63
+Fuir,flee,passé composé,Ils/elles,ont fui,63
+Fuir,flee,imparfait,Ils/elles,fuyaient,63
+Fuir,flee,plus-que-parfait,Ils/elles,avaient fui,63
+Fuir,flee,futur simple,Je,fuirai,63
+Fuir,flee,futur antérieur,J',aurai fui,63
+Fuir,flee,futur simple,Tu,fuiras,63
+Fuir,flee,futur antérieur,Tu,auras fui,63
+Fuir,flee,futur simple,Il/elle,fuira,63
+Fuir,flee,futur antérieur,Il/elle,aura fui,63
+Fuir,flee,futur simple,Nous,fuirons,63
+Fuir,flee,futur antérieur,Nous,aurons fui,63
+Fuir,flee,futur simple,Vous,fuirez,63
+Fuir,flee,futur antérieur,Vous,aurez fui,63
+Fuir,flee,futur simple,Ils/elles,fuiront,63
+Fuir,flee,futur antérieur,Ils/elles,auront fui,63
+Fuir,flee,conditionnel présent,Je,fuirais,63
+Fuir,flee,conditionnel passé,J',aurais fui,63
+Fuir,flee,conditionnel présent,Tu,fuirais,63
+Fuir,flee,conditionnel passé,Tu,aurais fui,63
+Fuir,flee,conditionnel présent,Il/elle,fuirait,63
+Fuir,flee,conditionnel passé,Il/elle,aurait fui,63
+Fuir,flee,conditionnel présent,Nous,fuirions,63
+Fuir,flee,conditionnel passé,Nous,aurions fui,63
+Fuir,flee,conditionnel présent,Vous,fuiriez,63
+Fuir,flee,conditionnel passé,Vous,auriez fui,63
+Fuir,flee,conditionnel présent,Ils/elles,fuiraient,63
+Fuir,flee,conditionnel passé,Ils/elles,auraient fui,63
+Fuir,flee,subjonctif présent,Que je,fuie,63
+Fuir,flee,impératif présent,Tu,Fuis,63
+Fuir,flee,subjonctif présent,Que tu,fuies,63
+Fuir,flee,impératif présent,Nous,Fuyons,63
+Fuir,flee,subjonctif présent,Qu'il/elle,fuie,63
+Fuir,flee,impératif présent,Vous,Fuyez,63
+Fuir,flee,subjonctif présent,Que nous,fuyons,63
+Fuir,flee,subjonctif présent,Que vous,fuyez,63
+Fuir,flee,subjonctif présent,Qu'ils/elles,fuient,63
+Conclure,conclude,présent,Je,conclus,64
+Conclure,conclude,passé composé,J',ai conclu,64
+Conclure,conclude,imparfait,Je,concluais,64
+Conclure,conclude,plus-que-parfait,J',avais conclu,64
+Conclure,conclude,présent,Tu,conclus,64
+Conclure,conclude,passé composé,Tu,as conclu,64
+Conclure,conclude,imparfait,Tu,concluais,64
+Conclure,conclude,plus-que-parfait,Tu,avais conclu,64
+Conclure,conclude,présent,Il/elle,conclut,64
+Conclure,conclude,passé composé,Il/elle,a conclu,64
+Conclure,conclude,imparfait,Il/elle,concluait,64
+Conclure,conclude,plus-que-parfait,Il/elle,avait conclu,64
+Conclure,conclude,présent,Nous,concluons,64
+Conclure,conclude,passé composé,Nous,avons conclu,64
+Conclure,conclude,imparfait,Nous,concluions,64
+Conclure,conclude,plus-que-parfait,Nous,avions conclu,64
+Conclure,conclude,présent,Vous,concluez,64
+Conclure,conclude,passé composé,Vous,avez conclu,64
+Conclure,conclude,imparfait,Vous,concluiez,64
+Conclure,conclude,plus-que-parfait,Vous,aviez conclu,64
+Conclure,conclude,présent,Ils/elles,concluent,64
+Conclure,conclude,passé composé,Ils/elles,ont conclu,64
+Conclure,conclude,imparfait,Ils/elles,concluaient,64
+Conclure,conclude,plus-que-parfait,Ils/elles,avaient conclu,64
+Conclure,conclude,futur simple,Je,conclurai,64
+Conclure,conclude,futur antérieur,J',aurai conclu,64
+Conclure,conclude,futur simple,Tu,concluras,64
+Conclure,conclude,futur antérieur,Tu,auras conclu,64
+Conclure,conclude,futur simple,Il/elle,conclura,64
+Conclure,conclude,futur antérieur,Il/elle,aura conclu,64
+Conclure,conclude,futur simple,Nous,conclurons,64
+Conclure,conclude,futur antérieur,Nous,aurons conclu,64
+Conclure,conclude,futur simple,Vous,conclurez,64
+Conclure,conclude,futur antérieur,Vous,aurez conclu,64
+Conclure,conclude,futur simple,Ils/elles,concluront,64
+Conclure,conclude,futur antérieur,Ils/elles,auront conclu,64
+Conclure,conclude,conditionnel présent,Je,conclurais,64
+Conclure,conclude,conditionnel passé,J',aurais conclu,64
+Conclure,conclude,conditionnel présent,Tu,conclurais,64
+Conclure,conclude,conditionnel passé,Tu,aurais conclu,64
+Conclure,conclude,conditionnel présent,Il/elle,conclurait,64
+Conclure,conclude,conditionnel passé,Il/elle,aurait conclu,64
+Conclure,conclude,conditionnel présent,Nous,conclurions,64
+Conclure,conclude,conditionnel passé,Nous,aurions conclu,64
+Conclure,conclude,conditionnel présent,Vous,concluriez,64
+Conclure,conclude,conditionnel passé,Vous,auriez conclu,64
+Conclure,conclude,conditionnel présent,Ils/elles,concluraient,64
+Conclure,conclude,conditionnel passé,Ils/elles,auraient conclu,64
+Conclure,conclude,subjonctif présent,Que je,conclue,64
+Conclure,conclude,impératif présent,Tu,Conclus,64
+Conclure,conclude,subjonctif présent,Que tu,conclues,64
+Conclure,conclude,impératif présent,Nous,Concluons,64
+Conclure,conclude,subjonctif présent,Qu'il/elle,conclue,64
+Conclure,conclude,impératif présent,Vous,Concluez,64
+Conclure,conclude,subjonctif présent,Que nous,concluions,64
+Conclure,conclude,subjonctif présent,Que vous,concluiez,64
+Conclure,conclude,subjonctif présent,Qu'ils/elles,concluent,64
+Craindre,fear,présent,Je,crains,65
+Craindre,fear,passé composé,J',ai craint,65
+Craindre,fear,imparfait,Je,craignais,65
+Craindre,fear,plus-que-parfait,J',avais craint,65
+Craindre,fear,présent,Tu,crains,65
+Craindre,fear,passé composé,Tu,as craint,65
+Craindre,fear,imparfait,Tu,craignais,65
+Craindre,fear,plus-que-parfait,Tu,avais craint,65
+Craindre,fear,présent,Il/elle,craint,65
+Craindre,fear,passé composé,Il/elle,a craint,65
+Craindre,fear,imparfait,Il/elle,craignait,65
+Craindre,fear,plus-que-parfait,Il/elle,avait craint,65
+Craindre,fear,présent,Nous,craignons,65
+Craindre,fear,passé composé,Nous,avons craint,65
+Craindre,fear,imparfait,Nous,craignions,65
+Craindre,fear,plus-que-parfait,Nous,avions craint,65
+Craindre,fear,présent,Vous,craignez,65
+Craindre,fear,passé composé,Vous,avez craint,65
+Craindre,fear,imparfait,Vous,craigniez,65
+Craindre,fear,plus-que-parfait,Vous,aviez craint,65
+Craindre,fear,présent,Ils/elles,craignent,65
+Craindre,fear,passé composé,Ils/elles,ont craint,65
+Craindre,fear,imparfait,Ils/elles,craignaient,65
+Craindre,fear,plus-que-parfait,Ils/elles,avaient craint,65
+Craindre,fear,futur simple,Je,craindrai,65
+Craindre,fear,futur antérieur,J',aurai craint,65
+Craindre,fear,futur simple,Tu,craindras,65
+Craindre,fear,futur antérieur,Tu,auras craint,65
+Craindre,fear,futur simple,Il/elle,craindra,65
+Craindre,fear,futur antérieur,Il/elle,aura craint,65
+Craindre,fear,futur simple,Nous,craindrons,65
+Craindre,fear,futur antérieur,Nous,aurons craint,65
+Craindre,fear,futur simple,Vous,craindrez,65
+Craindre,fear,futur antérieur,Vous,aurez craint,65
+Craindre,fear,futur simple,Ils/elles,craindront,65
+Craindre,fear,futur antérieur,Ils/elles,auront craint,65
+Craindre,fear,conditionnel présent,Je,craindrais,65
+Craindre,fear,conditionnel passé,J',aurais craint,65
+Craindre,fear,conditionnel présent,Tu,craindrais,65
+Craindre,fear,conditionnel passé,Tu,aurais craint,65
+Craindre,fear,conditionnel présent,Il/elle,craindrait,65
+Craindre,fear,conditionnel passé,Il/elle,aurait craint,65
+Craindre,fear,conditionnel présent,Nous,craindrions,65
+Craindre,fear,conditionnel passé,Nous,aurions craint,65
+Craindre,fear,conditionnel présent,Vous,craindriez,65
+Craindre,fear,conditionnel passé,Vous,auriez craint,65
+Craindre,fear,conditionnel présent,Ils/elles,craindraient,65
+Craindre,fear,conditionnel passé,Ils/elles,auraient craint,65
+Craindre,fear,subjonctif présent,Que je,craigne,65
+Craindre,fear,impératif présent,Tu,Crains,65
+Craindre,fear,subjonctif présent,Que tu,craignes,65
+Craindre,fear,impératif présent,Nous,Craignons,65
+Craindre,fear,subjonctif présent,Qu'il/elle,craigne,65
+Craindre,fear,impératif présent,Vous,Craignez,65
+Craindre,fear,subjonctif présent,Que nous,craignions,65
+Craindre,fear,subjonctif présent,Que vous,craignions,65
+Craindre,fear,subjonctif présent,Qu'ils/elles,craignent,65
+Atteindre,reach,présent,J',atteins,66
+Atteindre,reach,passé composé,J',ai atteint,66
+Atteindre,reach,imparfait,J',atteignais,66
+Atteindre,reach,plus-que-parfait,J',avais atteint,66
+Atteindre,reach,présent,Tu,atteins,66
+Atteindre,reach,passé composé,Tu,as atteint,66
+Atteindre,reach,imparfait,Tu,atteignais,66
+Atteindre,reach,plus-que-parfait,Tu,avais atteint,66
+Atteindre,reach,présent,Il/elle,atteint,66
+Atteindre,reach,passé composé,Il/elle,a atteint,66
+Atteindre,reach,imparfait,Il/elle,atteignait,66
+Atteindre,reach,plus-que-parfait,Il/elle,avait atteint,66
+Atteindre,reach,présent,Nous,atteignons,66
+Atteindre,reach,passé composé,Nous,avons atteint,66
+Atteindre,reach,imparfait,Nous,atteignions,66
+Atteindre,reach,plus-que-parfait,Nous,avions atteint,66
+Atteindre,reach,présent,Vous,atteignez,66
+Atteindre,reach,passé composé,Vous,avez atteint,66
+Atteindre,reach,imparfait,Vous,atteigniez,66
+Atteindre,reach,plus-que-parfait,Vous,aviez atteint,66
+Atteindre,reach,présent,Ils/elles,atteignent,66
+Atteindre,reach,passé composé,Ils/elles,ont atteint,66
+Atteindre,reach,imparfait,Ils/elles,atteignaient,66
+Atteindre,reach,plus-que-parfait,Ils/elles,avaient atteint,66
+Atteindre,reach,futur simple,J',atteindrai,66
+Atteindre,reach,futur antérieur,J',aurai atteint,66
+Atteindre,reach,futur simple,Tu,atteindras,66
+Atteindre,reach,futur antérieur,Tu,auras atteint,66
+Atteindre,reach,futur simple,Il/elle,atteindra,66
+Atteindre,reach,futur antérieur,Il/elle,aura atteint,66
+Atteindre,reach,futur simple,Nous,atteindrions,66
+Atteindre,reach,futur antérieur,Nous,aurons atteint,66
+Atteindre,reach,futur simple,Vous,atteindriez,66
+Atteindre,reach,futur antérieur,Vous,aurez atteint,66
+Atteindre,reach,futur simple,Ils/elles,atteindront,66
+Atteindre,reach,futur antérieur,Ils/elles,auront atteint,66
+Atteindre,reach,conditionnel présent,J',atteindrais,66
+Atteindre,reach,conditionnel passé,J',aurais atteint,66
+Atteindre,reach,conditionnel présent,Tu,atteindrais,66
+Atteindre,reach,conditionnel passé,Tu,aurais atteint,66
+Atteindre,reach,conditionnel présent,Il/elle,atteindrait,66
+Atteindre,reach,conditionnel passé,Il/elle,aurait atteint,66
+Atteindre,reach,conditionnel présent,Nous,atteindrions,66
+Atteindre,reach,conditionnel passé,Nous,aurions atteint,66
+Atteindre,reach,conditionnel présent,Vous,atteindriez,66
+Atteindre,reach,conditionnel passé,Vous,auriez atteint,66
+Atteindre,reach,conditionnel présent,Ils/elles,atteindraient,66
+Atteindre,reach,conditionnel passé,Ils/elles,auraient atteint,66
+Atteindre,reach,conditionnel présent,Tu,),66
+Atteindre,reach,subjonctif présent,Que tu,atteignes,66
+Atteindre,reach,impératif présent,Nous,Atteignons,66
+Atteindre,reach,subjonctif présent,Qu'il/elle,atteigne,66
+Atteindre,reach,impératif présent,Vous,Atteignez,66
+Atteindre,reach,subjonctif présent,Que nous,atteignions,66
+Atteindre,reach,subjonctif présent,Que vous,atteigniez,66
+Atteindre,reach,subjonctif présent,Qu'ils/elles,atteignent,66
+Rejoindre,join,présent,Je,rejoins,67
+Rejoindre,join,passé composé,J',ai rejoint,67
+Rejoindre,join,imparfait,Je,rejoignais,67
+Rejoindre,join,plus-que-parfait,J',avais rejoint,67
+Rejoindre,join,présent,Tu,rejoins,67
+Rejoindre,join,passé composé,Tu,as rejoint,67
+Rejoindre,join,imparfait,Tu,rejoignais,67
+Rejoindre,join,plus-que-parfait,Tu,avais rejoint,67
+Rejoindre,join,présent,Il/elle,rejoint,67
+Rejoindre,join,passé composé,Il/elle,a rejoint,67
+Rejoindre,join,imparfait,Il/elle,rejoignait,67
+Rejoindre,join,plus-que-parfait,Il/elle,avait rejoint,67
+Rejoindre,join,présent,Nous,rejoignons,67
+Rejoindre,join,passé composé,Nous,avons rejoint,67
+Rejoindre,join,imparfait,Nous,rejoignions,67
+Rejoindre,join,plus-que-parfait,Nous,avions rejoint,67
+Rejoindre,join,présent,Vous,rejoignez,67
+Rejoindre,join,passé composé,Vous,avez rejoint,67
+Rejoindre,join,imparfait,Vous,rejoigniez,67
+Rejoindre,join,plus-que-parfait,Vous,aviez rejoint,67
+Rejoindre,join,présent,Ils/elles,rejoignent,67
+Rejoindre,join,passé composé,Ils/elles,ont rejoint,67
+Rejoindre,join,imparfait,Ils/elles,rejoignaient,67
+Rejoindre,join,plus-que-parfait,Ils/elles,avaient rejoint,67
+Rejoindre,join,futur simple,Je,rejoindrai,67
+Rejoindre,join,futur antérieur,J',aurai rejoint,67
+Rejoindre,join,futur simple,Tu,rejoindras,67
+Rejoindre,join,futur antérieur,Tu,auras rejoint,67
+Rejoindre,join,futur simple,Il/elle,rejoindra,67
+Rejoindre,join,futur antérieur,Il/elle,aura rejoint,67
+Rejoindre,join,futur simple,Nous,rejoindrons,67
+Rejoindre,join,futur antérieur,Nous,aurons rejoint,67
+Rejoindre,join,futur simple,Vous,rejoindrez,67
+Rejoindre,join,futur antérieur,Vous,aurez rejoint,67
+Rejoindre,join,futur simple,Ils/elles,rejoindront,67
+Rejoindre,join,futur antérieur,Ils/elles,auront rejoint,67
+Rejoindre,join,conditionnel présent,Je,rejoindrais,67
+Rejoindre,join,conditionnel passé,J',aurais rejoint,67
+Rejoindre,join,conditionnel présent,Tu,rejoindrais,67
+Rejoindre,join,conditionnel passé,Tu,aurais rejoint,67
+Rejoindre,join,conditionnel présent,Il/elle,rejoindrait,67
+Rejoindre,join,conditionnel passé,Il/elle,aurait rejoint,67
+Rejoindre,join,conditionnel présent,Nous,rejoindrions,67
+Rejoindre,join,conditionnel passé,Nous,aurions rejoint,67
+Rejoindre,join,conditionnel présent,Vous,rejoindriez,67
+Rejoindre,join,conditionnel passé,Vous,auriez rejoint,67
+Rejoindre,join,conditionnel présent,Ils/elles,rejoindraient,67
+Rejoindre,join,conditionnel passé,Ils/elles,auraient rejoint,67
+Rejoindre,join,subjonctif présent,Que je,rejoigne,67
+Rejoindre,join,impératif présent,Tu,Rejoins,67
+Rejoindre,join,subjonctif présent,Que tu,rejoignes,67
+Rejoindre,join,impératif présent,Nous,Rejoignons,67
+Rejoindre,join,subjonctif présent,Qu'il/elle,rejoigne,67
+Rejoindre,join,impératif présent,Vous,Rejoignez,67
+Rejoindre,join,subjonctif présent,Que nous,rejoignons,67
+Rejoindre,join,subjonctif présent,Que vous,rejoignez,67
+Rejoindre,join,subjonctif présent,Qu'ils/elles,rejoignent,67
+Résoudre,resolve,présent,Je,résous,68
+Résoudre,resolve,passé composé,J',ai résolu,68
+Résoudre,resolve,imparfait,Je,résolvais,68
+Résoudre,resolve,plus-que-parfait,J',avais résolu,68
+Résoudre,resolve,présent,Tu,résous,68
+Résoudre,resolve,passé composé,Tu,as résolu,68
+Résoudre,resolve,imparfait,Tu,résolvais,68
+Résoudre,resolve,plus-que-parfait,Tu,avais résolu,68
+Résoudre,resolve,présent,Il/elle,résout,68
+Résoudre,resolve,passé composé,Il/elle,a résolu,68
+Résoudre,resolve,imparfait,Il/elle,résolvait,68
+Résoudre,resolve,plus-que-parfait,Il/elle,avait résolu,68
+Résoudre,resolve,présent,Nous,résolvons,68
+Résoudre,resolve,passé composé,Nous,avons résolu,68
+Résoudre,resolve,imparfait,Nous,résolvions,68
+Résoudre,resolve,plus-que-parfait,Nous,avions résolu,68
+Résoudre,resolve,présent,Vous,résolvez,68
+Résoudre,resolve,passé composé,Vous,avez résolu,68
+Résoudre,resolve,imparfait,Vous,résolviez,68
+Résoudre,resolve,plus-que-parfait,Vous,aviez résolu,68
+Résoudre,resolve,présent,Ils/elles,résolvent,68
+Résoudre,resolve,passé composé,Ils/elles,ont résolu,68
+Résoudre,resolve,imparfait,Ils/elles,résolvaient,68
+Résoudre,resolve,plus-que-parfait,Ils/elles,avaient résolu,68
+Résoudre,resolve,futur simple,Je,résoudrai,68
+Résoudre,resolve,futur antérieur,J',aurai résolu,68
+Résoudre,resolve,futur simple,Tu,résoudras,68
+Résoudre,resolve,futur antérieur,Tu,auras résolu,68
+Résoudre,resolve,futur simple,Il/elle,résoudra,68
+Résoudre,resolve,futur antérieur,Il/elle,aura résolu,68
+Résoudre,resolve,futur simple,Nous,résoudrons,68
+Résoudre,resolve,futur antérieur,Nous,aurons résolu,68
+Résoudre,resolve,futur simple,Vous,résoudrez,68
+Résoudre,resolve,futur antérieur,Vous,aurez résolu,68
+Résoudre,resolve,futur simple,Ils/elles,résoudront,68
+Résoudre,resolve,futur antérieur,Ils/elles,auront résolu,68
+Résoudre,resolve,conditionnel présent,Je,résoudrais,68
+Résoudre,resolve,conditionnel passé,J',aurais résolu,68
+Résoudre,resolve,conditionnel présent,Tu,résoudrais,68
+Résoudre,resolve,conditionnel passé,Tu,aurais résolu,68
+Résoudre,resolve,conditionnel présent,Il/elle,résoudrait,68
+Résoudre,resolve,conditionnel passé,Il/elle,aurait résolu,68
+Résoudre,resolve,conditionnel présent,Nous,résoudrions,68
+Résoudre,resolve,conditionnel passé,Nous,aurions résolu,68
+Résoudre,resolve,conditionnel présent,Vous,résoudriez,68
+Résoudre,resolve,conditionnel passé,Vous,auriez résolu,68
+Résoudre,resolve,conditionnel présent,Ils/elles,résoudraient,68
+Résoudre,resolve,conditionnel passé,Ils/elles,auraient résolu,68
+Résoudre,resolve,subjonctif présent,Que je,résolve,68
+Résoudre,resolve,impératif présent,Tu,Résous,68
+Résoudre,resolve,subjonctif présent,Que tu,résolves,68
+Résoudre,resolve,impératif présent,Nous,Résolvons,68
+Résoudre,resolve,subjonctif présent,Qu'il/elle,résolve,68
+Résoudre,resolve,impératif présent,Vous,Résolvez,68
+Résoudre,resolve,subjonctif présent,Que nous,résolvions,68
+Résoudre,resolve,subjonctif présent,Que vous,résolviez,68
+Résoudre,resolve,subjonctif présent,Qu'ils/elles,résolvent,68
+Aller,go,présent,Je,vais,70
+Aller,go,passé composé,Je,suis allé,70
+Aller,go,imparfait,J',allais,70
+Aller,go,plus-que-parfait,J',étais allé,70
+Aller,go,présent,Tu,vas,70
+Aller,go,passé composé,Tu,es allé,70
+Aller,go,imparfait,Tu,allais,70
+Aller,go,plus-que-parfait,Tu,étais allé,70
+Aller,go,présent,Il/elle,va,70
+Aller,go,passé composé,Il/elle,est allé,70
+Aller,go,imparfait,Il/elle,allait,70
+Aller,go,plus-que-parfait,Il/elle,était allé,70
+Aller,go,présent,Nous,allons,70
+Aller,go,passé composé,Nous,sommes allés,70
+Aller,go,imparfait,Nous,allions,70
+Aller,go,plus-que-parfait,Nous,étions allés,70
+Aller,go,présent,Vous,allez,70
+Aller,go,passé composé,Vous,êtes allés,70
+Aller,go,imparfait,Vous,alliez,70
+Aller,go,plus-que-parfait,Vous,étiez allés,70
+Aller,go,présent,Ils/elles,vont,70
+Aller,go,passé composé,Ils/elles,sont allés,70
+Aller,go,imparfait,Ils/elles,allaient,70
+Aller,go,plus-que-parfait,Ils/elles,étaient allés,70
+Aller,go,futur simple,J',irai,70
+Aller,go,futur antérieur,Je,serai allé,70
+Aller,go,futur simple,Tu,iras,70
+Aller,go,futur antérieur,Tu,seras allé,70
+Aller,go,futur simple,Il/elle,ira,70
+Aller,go,futur antérieur,Il/elle,sera allé,70
+Aller,go,futur simple,Nous,irons,70
+Aller,go,futur antérieur,Nous,serons allés,70
+Aller,go,futur simple,Vous,irez,70
+Aller,go,futur antérieur,Vous,serez allés,70
+Aller,go,futur simple,Ils/elles,iront,70
+Aller,go,futur antérieur,Ils/elles,seront allés,70
+Aller,go,conditionnel présent,J',irais,70
+Aller,go,conditionnel passé,Je,serais allé,70
+Aller,go,conditionnel présent,Tu,irais,70
+Aller,go,conditionnel passé,Tu,serais allé,70
+Aller,go,conditionnel présent,Il/elle,irait,70
+Aller,go,conditionnel passé,Il/elle,serait allé,70
+Aller,go,conditionnel présent,Nous,irions,70
+Aller,go,conditionnel passé,Nous,serions allés,70
+Aller,go,conditionnel présent,Vous,iriez,70
+Aller,go,conditionnel passé,Vous,seriez allés,70
+Aller,go,conditionnel présent,Ils/elles,iraient,70
+Aller,go,conditionnel passé,Ils/elles,seraient allés,70
+Aller,go,conditionnel présent,Tu,),70
+Aller,go,subjonctif présent,Que tu,ailles,70
+Aller,go,impératif présent,Nous,Allons,70
+Aller,go,subjonctif présent,Qu'il/elle,aille,70
+Aller,go,impératif présent,Vous,Allez,70
+Aller,go,subjonctif présent,Que nous,aillions,70
+Aller,go,subjonctif présent,Que vous,ailliez,70
+Aller,go,subjonctif présent,Qu'ils/elles,aillent,70
+Asseoir,sit down,présent,J',assieds,71
+Asseoir,sit down,passé composé,J',ai assis,71
+Asseoir,sit down,imparfait,J',asseyais,71
+Asseoir,sit down,plus-que-parfait,J',avais assis,71
+Asseoir,sit down,présent,Tu,assieds,71
+Asseoir,sit down,passé composé,Tu,as assis,71
+Asseoir,sit down,imparfait,Tu,asseyais,71
+Asseoir,sit down,plus-que-parfait,Tu,avais assis,71
+Asseoir,sit down,présent,Il/elle,assied,71
+Asseoir,sit down,passé composé,Il/elle,a assis,71
+Asseoir,sit down,imparfait,Il/elle,asseyait,71
+Asseoir,sit down,plus-que-parfait,Il/elle,avait assis,71
+Asseoir,sit down,présent,Nous,asseyons,71
+Asseoir,sit down,passé composé,Nous,avons assis,71
+Asseoir,sit down,imparfait,Nous,asseyions,71
+Asseoir,sit down,plus-que-parfait,Nous,avions assis,71
+Asseoir,sit down,présent,Vous,asseyez,71
+Asseoir,sit down,passé composé,Vous,avez assis,71
+Asseoir,sit down,imparfait,Vous,asseyiez,71
+Asseoir,sit down,plus-que-parfait,Vous,aviez assis,71
+Asseoir,sit down,présent,Ils/elles,asseyent,71
+Asseoir,sit down,passé composé,Ils/elles,ont assis,71
+Asseoir,sit down,imparfait,Ils/elles,asseyaient,71
+Asseoir,sit down,plus-que-parfait,Ils/elles,avaient assis,71
+Asseoir,sit down,futur simple,J',assiérai,71
+Asseoir,sit down,futur antérieur,J',aurai assis,71
+Asseoir,sit down,futur simple,Tu,assiéras,71
+Asseoir,sit down,futur antérieur,Tu,auras assis,71
+Asseoir,sit down,futur simple,Il/elle,assiéra,71
+Asseoir,sit down,futur antérieur,Il/elle,aura assis,71
+Asseoir,sit down,futur simple,Nous,assiérons,71
+Asseoir,sit down,futur antérieur,Nous,aurons assis,71
+Asseoir,sit down,futur simple,Vous,assiérez,71
+Asseoir,sit down,futur antérieur,Vous,aurez assis,71
+Asseoir,sit down,futur simple,Ils/elles,assiéront,71
+Asseoir,sit down,futur antérieur,Ils/elles,auront assis,71
+Asseoir,sit down,conditionnel présent,J',assiérais,71
+Asseoir,sit down,conditionnel passé,J',aurais assis,71
+Asseoir,sit down,conditionnel présent,Tu,assiérais,71
+Asseoir,sit down,conditionnel passé,Tu,aurais assis,71
+Asseoir,sit down,conditionnel présent,Il/elle,assiérait,71
+Asseoir,sit down,conditionnel passé,Il/elle,aurait assis,71
+Asseoir,sit down,conditionnel présent,Nous,assiérions,71
+Asseoir,sit down,conditionnel passé,Nous,aurions assis,71
+Asseoir,sit down,conditionnel présent,Vous,assiériez,71
+Asseoir,sit down,conditionnel passé,Vous,auriez assis,71
+Asseoir,sit down,conditionnel présent,Ils/elles,assiéraient,71
+Asseoir,sit down,conditionnel passé,Ils/elles,auraient assis,71
+Asseoir,sit down,conditionnel présent,Tu,),71
+Asseoir,sit down,subjonctif présent,Que tu,asseyes,71
+Asseoir,sit down,impératif présent,Nous,Asseyons,71
+Asseoir,sit down,subjonctif présent,Qu'il/elle,asseye,71
+Asseoir,sit down,impératif présent,Vous,Asseyez,71
+Asseoir,sit down,subjonctif présent,Que nous,asseyions,71
+Asseoir,sit down,subjonctif présent,Que vous,asseyiez,71
+Asseoir,sit down,subjonctif présent,Qu'ils/elles,asseyent,71
+Battre,beat,présent,Je,bats,72
+Battre,beat,passé composé,J',ai battu,72
+Battre,beat,imparfait,Je,battais,72
+Battre,beat,plus-que-parfait,J',avais battu,72
+Battre,beat,présent,Tu,bats,72
+Battre,beat,passé composé,Tu,as battu,72
+Battre,beat,imparfait,Tu,battais,72
+Battre,beat,plus-que-parfait,Tu,avais battu,72
+Battre,beat,présent,Il/elle,bat,72
+Battre,beat,passé composé,Il/elle,a battu,72
+Battre,beat,imparfait,Il/elle,battait,72
+Battre,beat,plus-que-parfait,Il/elle,avait battu,72
+Battre,beat,présent,Nous,battons,72
+Battre,beat,passé composé,Nous,avons battu,72
+Battre,beat,imparfait,Nous,battions,72
+Battre,beat,plus-que-parfait,Nous,avions battu,72
+Battre,beat,présent,Vous,battez,72
+Battre,beat,passé composé,Vous,avez battu,72
+Battre,beat,imparfait,Vous,battiez,72
+Battre,beat,plus-que-parfait,Vous,aviez battu,72
+Battre,beat,présent,Ils/elles,battent,72
+Battre,beat,passé composé,Ils/elles,ont battu,72
+Battre,beat,imparfait,Ils/elles,battaient,72
+Battre,beat,plus-que-parfait,Ils/elles,avaient battu,72
+Battre,beat,futur simple,Je,battrai,72
+Battre,beat,futur antérieur,J',aurai battu,72
+Battre,beat,futur simple,Tu,battras,72
+Battre,beat,futur antérieur,Tu,auras battu,72
+Battre,beat,futur simple,Il/elle,battra,72
+Battre,beat,futur antérieur,Il/elle,aura battu,72
+Battre,beat,futur simple,Nous,battrons,72
+Battre,beat,futur antérieur,Nous,aurons battu,72
+Battre,beat,futur simple,Vous,battrez,72
+Battre,beat,futur antérieur,Vous,aurez battu,72
+Battre,beat,futur simple,Ils/elles,battront,72
+Battre,beat,futur antérieur,Ils/elles,auront battu,72
+Battre,beat,conditionnel présent,Je,battrais,72
+Battre,beat,conditionnel passé,J',aurais battu,72
+Battre,beat,conditionnel présent,Tu,battrais,72
+Battre,beat,conditionnel passé,Tu,aurais battu,72
+Battre,beat,conditionnel présent,Il/elle,battrait,72
+Battre,beat,conditionnel passé,Il/elle,aurait battu,72
+Battre,beat,conditionnel présent,Nous,battrions,72
+Battre,beat,conditionnel passé,Nous,aurions battu,72
+Battre,beat,conditionnel présent,Vous,battriez,72
+Battre,beat,conditionnel passé,Vous,auriez battu,72
+Battre,beat,conditionnel présent,Ils/elles,battraient,72
+Battre,beat,conditionnel passé,Ils/elles,auraient battu,72
+Battre,beat,subjonctif présent,Que je,batte,72
+Battre,beat,impératif présent,Tu,Bats,72
+Battre,beat,subjonctif présent,Que tu,battes,72
+Battre,beat,impératif présent,Nous,Battons,72
+Battre,beat,subjonctif présent,Qu'il/elle,batte,72
+Battre,beat,impératif présent,Vous,Battez,72
+Battre,beat,subjonctif présent,Que nous,battions,72
+Battre,beat,subjonctif présent,Que vous,battiez,72
+Battre,beat,subjonctif présent,Qu'ils/elles,battent,72
+Boire,drink,présent,Je,bois,73
+Boire,drink,passé composé,J',ai bu,73
+Boire,drink,imparfait,Je,buvais,73
+Boire,drink,plus-que-parfait,J',avais bu,73
+Boire,drink,présent,Tu,bois,73
+Boire,drink,passé composé,Tu,as bu,73
+Boire,drink,imparfait,Tu,buvais,73
+Boire,drink,plus-que-parfait,Tu,avais bu,73
+Boire,drink,présent,Il/elle,bois,73
+Boire,drink,passé composé,Il/elle,a bu,73
+Boire,drink,imparfait,Il/elle,buvait,73
+Boire,drink,plus-que-parfait,Il/elle,avait bu,73
+Boire,drink,présent,Nous,buvons,73
+Boire,drink,passé composé,Nous,avons bu,73
+Boire,drink,imparfait,Nous,buvions,73
+Boire,drink,plus-que-parfait,Nous,avions bu,73
+Boire,drink,présent,Vous,buvez,73
+Boire,drink,passé composé,Vous,avez bu,73
+Boire,drink,imparfait,Vous,buviez,73
+Boire,drink,plus-que-parfait,Vous,aviez bu,73
+Boire,drink,présent,Ils/elles,boivent,73
+Boire,drink,passé composé,Ils/elles,ont bu,73
+Boire,drink,imparfait,Ils/elles,buvaient,73
+Boire,drink,plus-que-parfait,Ils/elles,avaient bu,73
+Boire,drink,futur simple,Je,boirai,73
+Boire,drink,futur antérieur,J',aurai bu,73
+Boire,drink,futur simple,Tu,boiras,73
+Boire,drink,futur antérieur,Tu,auras bu,73
+Boire,drink,futur simple,Il/elle,boira,73
+Boire,drink,futur antérieur,Il/elle,aura bu,73
+Boire,drink,futur simple,Nous,boirons,73
+Boire,drink,futur antérieur,Nous,aurons bu,73
+Boire,drink,futur simple,Vous,boirez,73
+Boire,drink,futur antérieur,Vous,aurez bu,73
+Boire,drink,futur simple,Ils/elles,boiront,73
+Boire,drink,futur antérieur,Ils/elles,auront bu,73
+Boire,drink,conditionnel présent,Je,boirai,73
+Boire,drink,conditionnel passé,J',aurais bu,73
+Boire,drink,conditionnel présent,Tu,boirais,73
+Boire,drink,conditionnel passé,Tu,aurais bu,73
+Boire,drink,conditionnel présent,Il/elle,boirait,73
+Boire,drink,conditionnel passé,Il/elle,aurait bu,73
+Boire,drink,conditionnel présent,Nous,boirions,73
+Boire,drink,conditionnel passé,Nous,aurions bu,73
+Boire,drink,conditionnel présent,Vous,boiriez,73
+Boire,drink,conditionnel passé,Vous,auriez bu,73
+Boire,drink,conditionnel présent,Ils/elles,boiraient,73
+Boire,drink,conditionnel passé,Ils/elles,auraient bu,73
+Boire,drink,subjonctif présent,Que je,boive,73
+Boire,drink,impératif présent,Tu,Bois,73
+Boire,drink,subjonctif présent,Que tu,boives,73
+Boire,drink,impératif présent,Nous,Buvons,73
+Boire,drink,subjonctif présent,Qu'il/elle,boive,73
+Boire,drink,impératif présent,Vous,Buvez,73
+Boire,drink,subjonctif présent,Que nous,buvions,73
+Boire,drink,subjonctif présent,Que vous,buviez,73
+Boire,drink,subjonctif présent,Qu'ils/elles,boivent,73
+Bouillir,boil,présent,Je,bous,74
+Bouillir,boil,passé composé,J',ai bouilli,74
+Bouillir,boil,imparfait,Je,bouillais,74
+Bouillir,boil,plus-que-parfait,J',avais bouilli,74
+Bouillir,boil,présent,Tu,bous,74
+Bouillir,boil,passé composé,Tu,as bouilli,74
+Bouillir,boil,imparfait,Tu,bouillais,74
+Bouillir,boil,plus-que-parfait,Tu,avais bouilli,74
+Bouillir,boil,présent,Il/elle,bout,74
+Bouillir,boil,passé composé,Il/elle,a bouilli,74
+Bouillir,boil,imparfait,Il/elle,bouillait,74
+Bouillir,boil,plus-que-parfait,Il/elle,avait bouilli,74
+Bouillir,boil,présent,Nous,bouillons,74
+Bouillir,boil,passé composé,Nous,avons bouilli,74
+Bouillir,boil,imparfait,Nous,bouillions,74
+Bouillir,boil,plus-que-parfait,Nous,avions bouilli,74
+Bouillir,boil,présent,Vous,bouillez,74
+Bouillir,boil,passé composé,Vous,avez bouilli,74
+Bouillir,boil,imparfait,Vous,bouilliez,74
+Bouillir,boil,plus-que-parfait,Vous,aviez bouilli,74
+Bouillir,boil,présent,Ils/elles,bouillent,74
+Bouillir,boil,passé composé,Ils/elles,ont bouilli,74
+Bouillir,boil,imparfait,Ils/elles,bouillaient,74
+Bouillir,boil,plus-que-parfait,Ils/elles,avaient bouilli,74
+Bouillir,boil,futur simple,Je,bouillirai,74
+Bouillir,boil,futur antérieur,J',aurai bouilli,74
+Bouillir,boil,futur simple,Tu,bouilliras,74
+Bouillir,boil,futur antérieur,Tu,auras bouilli,74
+Bouillir,boil,futur simple,Il/elle,bouillira,74
+Bouillir,boil,futur antérieur,Il/elle,aura bouilli,74
+Bouillir,boil,futur simple,Nous,bouillirons,74
+Bouillir,boil,futur antérieur,Nous,aurons bouilli,74
+Bouillir,boil,futur simple,Vous,bouillirez,74
+Bouillir,boil,futur antérieur,Vous,aurez bouilli,74
+Bouillir,boil,futur simple,Ils/elles,bouilliront,74
+Bouillir,boil,futur antérieur,Ils/elles,auront bouilli,74
+Bouillir,boil,conditionnel présent,Je,bouillirais,74
+Bouillir,boil,conditionnel passé,J',aurais bouilli,74
+Bouillir,boil,conditionnel présent,Tu,bouillirais,74
+Bouillir,boil,conditionnel passé,Tu,aurais bouilli,74
+Bouillir,boil,conditionnel présent,Il/elle,bouillirait,74
+Bouillir,boil,conditionnel passé,Il/elle,aurait bouilli,74
+Bouillir,boil,conditionnel présent,Nous,bouillirions,74
+Bouillir,boil,conditionnel passé,Nous,aurions bouilli,74
+Bouillir,boil,conditionnel présent,Vous,bouilliriez,74
+Bouillir,boil,conditionnel passé,Vous,auriez bouilli,74
+Bouillir,boil,conditionnel présent,Ils/elles,bouilliraient,74
+Bouillir,boil,conditionnel passé,Ils/elles,auraient bouilli,74
+Bouillir,boil,subjonctif présent,Que je,bouille,74
+Bouillir,boil,impératif présent,Tu,Bous,74
+Bouillir,boil,subjonctif présent,Que tu,bouilles,74
+Bouillir,boil,impératif présent,Nous,Bouillons,74
+Bouillir,boil,subjonctif présent,Qu'il/elle,bouille,74
+Bouillir,boil,impératif présent,Vous,Bouillez,74
+Bouillir,boil,subjonctif présent,Que nous,bouillions,74
+Bouillir,boil,subjonctif présent,Que vous,bouilliez,74
+Bouillir,boil,subjonctif présent,Qu'ils/elles,bouillent,74
+Coudre,sew,présent,Je,couds,75
+Coudre,sew,passé composé,J',ai cousu,75
+Coudre,sew,imparfait,Je,cousais,75
+Coudre,sew,plus-que-parfait,J',avais cousu,75
+Coudre,sew,présent,Tu,couds,75
+Coudre,sew,passé composé,Tu,as cousu,75
+Coudre,sew,imparfait,Tu,cousais,75
+Coudre,sew,plus-que-parfait,Tu,avais cousu,75
+Coudre,sew,présent,Il/elle,coud,75
+Coudre,sew,passé composé,Il/elle,a cousu,75
+Coudre,sew,imparfait,Il/elle,cousait,75
+Coudre,sew,plus-que-parfait,Il/elle,avait cousu,75
+Coudre,sew,présent,Nous,cousons,75
+Coudre,sew,passé composé,Nous,avons cousu,75
+Coudre,sew,imparfait,Nous,cousons,75
+Coudre,sew,plus-que-parfait,Nous,avions cousu,75
+Coudre,sew,présent,Vous,cousez,75
+Coudre,sew,passé composé,Vous,avez cousu,75
+Coudre,sew,imparfait,Vous,cousez,75
+Coudre,sew,plus-que-parfait,Vous,aviez cousu,75
+Coudre,sew,présent,Ils/elles,cousent,75
+Coudre,sew,passé composé,Ils/elles,ont cousu,75
+Coudre,sew,imparfait,Ils/elles,cousaient,75
+Coudre,sew,plus-que-parfait,Ils/elles,avaient cousu,75
+Coudre,sew,futur simple,Je,coudrai,75
+Coudre,sew,futur antérieur,J',aurai cousu,75
+Coudre,sew,futur simple,Tu,coudras,75
+Coudre,sew,futur antérieur,Tu,auras cousu,75
+Coudre,sew,futur simple,Il/elle,coudra,75
+Coudre,sew,futur antérieur,Il/elle,aura cousu,75
+Coudre,sew,futur simple,Nous,coudrons,75
+Coudre,sew,futur antérieur,Nous,aurons cousu,75
+Coudre,sew,futur simple,Vous,coudrez,75
+Coudre,sew,futur antérieur,Vous,aurez cousu,75
+Coudre,sew,futur simple,Ils/elles,coudront,75
+Coudre,sew,futur antérieur,Ils/elles,auront cousu,75
+Coudre,sew,conditionnel présent,Je,coudrais,75
+Coudre,sew,conditionnel passé,J',aurais cousu,75
+Coudre,sew,conditionnel présent,Tu,coudrais,75
+Coudre,sew,conditionnel passé,Tu,aurais cousu,75
+Coudre,sew,conditionnel présent,Il/elle,coudrait,75
+Coudre,sew,conditionnel passé,Il/elle,aurait cousu,75
+Coudre,sew,conditionnel présent,Nous,coudrions,75
+Coudre,sew,conditionnel passé,Nous,aurions cousu,75
+Coudre,sew,conditionnel présent,Vous,coudriez,75
+Coudre,sew,conditionnel passé,Vous,auriez cousu,75
+Coudre,sew,conditionnel présent,Ils/elles,coudraient,75
+Coudre,sew,conditionnel passé,Ils/elles,auraient cousu,75
+Coudre,sew,subjonctif présent,Que je,couse,75
+Coudre,sew,impératif présent,Tu,Couds,75
+Coudre,sew,subjonctif présent,Que tu,couses,75
+Coudre,sew,impératif présent,Nous,Cousons,75
+Coudre,sew,subjonctif présent,Qu'il/elle,couse,75
+Coudre,sew,impératif présent,Vous,Cousez,75
+Coudre,sew,subjonctif présent,Que nous,cousons,75
+Coudre,sew,subjonctif présent,Que vous,cousez,75
+Coudre,sew,subjonctif présent,Qu'ils/elles,cousent,75
+Courir,run,présent,Je,cours,76
+Courir,run,passé composé,J',ai couru,76
+Courir,run,imparfait,Je,courais,76
+Courir,run,plus-que-parfait,J',avais couru,76
+Courir,run,présent,Tu,cours,76
+Courir,run,passé composé,Tu,as couru,76
+Courir,run,imparfait,Tu,courais,76
+Courir,run,plus-que-parfait,Tu,avais couru,76
+Courir,run,présent,Il/elle,court,76
+Courir,run,passé composé,Il/elle,a couru,76
+Courir,run,imparfait,Il/elle,courait,76
+Courir,run,plus-que-parfait,Il/elle,avait couru,76
+Courir,run,présent,Nous,courons,76
+Courir,run,passé composé,Nous,avons couru,76
+Courir,run,imparfait,Nous,courions,76
+Courir,run,plus-que-parfait,Nous,avions couru,76
+Courir,run,présent,Vous,courez,76
+Courir,run,passé composé,Vous,avez couru,76
+Courir,run,imparfait,Vous,couriez,76
+Courir,run,plus-que-parfait,Vous,aviez couru,76
+Courir,run,présent,Ils/elles,courent,76
+Courir,run,passé composé,Ils/elles,ont couru,76
+Courir,run,imparfait,Ils/elles,couraient,76
+Courir,run,plus-que-parfait,Ils/elles,avaient couru,76
+Courir,run,futur simple,Je,courrai,76
+Courir,run,futur antérieur,J',aurai couru,76
+Courir,run,futur simple,Tu,courras,76
+Courir,run,futur antérieur,Tu,auras couru,76
+Courir,run,futur simple,Il/elle,courra,76
+Courir,run,futur antérieur,Il/elle,aura couru,76
+Courir,run,futur simple,Nous,courrons,76
+Courir,run,futur antérieur,Nous,aurons couru,76
+Courir,run,futur simple,Vous,courrez,76
+Courir,run,futur antérieur,Vous,aurez couru,76
+Courir,run,futur simple,Ils/elles,courront,76
+Courir,run,futur antérieur,Ils/elles,auront couru,76
+Courir,run,conditionnel présent,Je,courrais,76
+Courir,run,conditionnel passé,J',aurais couru,76
+Courir,run,conditionnel présent,Tu,courrais,76
+Courir,run,conditionnel passé,Tu,aurais couru,76
+Courir,run,conditionnel présent,Il/elle,courrait,76
+Courir,run,conditionnel passé,Il/elle,aurait couru,76
+Courir,run,conditionnel présent,Nous,courrions,76
+Courir,run,conditionnel passé,Nous,aurions couru,76
+Courir,run,conditionnel présent,Vous,courriez,76
+Courir,run,conditionnel passé,Vous,auriez couru,76
+Courir,run,conditionnel présent,Ils/elles,courraient,76
+Courir,run,conditionnel passé,Ils/elles,auraient couru,76
+Courir,run,subjonctif présent,Que je,coure,76
+Courir,run,impératif présent,Tu,Cours,76
+Courir,run,subjonctif présent,Que tu,coures,76
+Courir,run,impératif présent,Nous,Courons,76
+Courir,run,subjonctif présent,Qu'il/elle,coure,76
+Courir,run,impératif présent,Vous,Courez,76
+Courir,run,subjonctif présent,Que nous,courions,76
+Courir,run,subjonctif présent,Que vous,couriez,76
+Courir,run,subjonctif présent,Qu'ils/elles,courent,76
+Croire,believe,présent,Je,crois,77
+Croire,believe,passé composé,J',ai cru,77
+Croire,believe,imparfait,Je,croyais,77
+Croire,believe,plus-que-parfait,J',avais cru,77
+Croire,believe,présent,Tu,crois,77
+Croire,believe,passé composé,Tu,as cru,77
+Croire,believe,imparfait,Tu,croyais,77
+Croire,believe,plus-que-parfait,Tu,avais cru,77
+Croire,believe,présent,Il/elle,croit,77
+Croire,believe,passé composé,Il/elle,a cru,77
+Croire,believe,imparfait,Il/elle,croyait,77
+Croire,believe,plus-que-parfait,Il/elle,avait cru,77
+Croire,believe,présent,Nous,croyons,77
+Croire,believe,passé composé,Nous,avons cru,77
+Croire,believe,imparfait,Nous,croyions,77
+Croire,believe,plus-que-parfait,Nous,avions cru,77
+Croire,believe,présent,Vous,croyez,77
+Croire,believe,passé composé,Vous,avez cru,77
+Croire,believe,imparfait,Vous,croyiez,77
+Croire,believe,plus-que-parfait,Vous,aviez cru,77
+Croire,believe,présent,Ils/elles,croient,77
+Croire,believe,passé composé,Ils/elles,ont cru,77
+Croire,believe,imparfait,Ils/elles,croyaient,77
+Croire,believe,plus-que-parfait,Ils/elles,avaient cru,77
+Croire,believe,futur simple,Je,croirai,77
+Croire,believe,futur antérieur,J',aurai cru,77
+Croire,believe,futur simple,Tu,croiras,77
+Croire,believe,futur antérieur,Tu,auras cru,77
+Croire,believe,futur simple,Il/elle,croira,77
+Croire,believe,futur antérieur,Il/elle,aura cru,77
+Croire,believe,futur simple,Nous,croirons,77
+Croire,believe,futur antérieur,Nous,aurons cru,77
+Croire,believe,futur simple,Vous,croirez,77
+Croire,believe,futur antérieur,Vous,aurez cru,77
+Croire,believe,futur simple,Ils/elles,croiront,77
+Croire,believe,futur antérieur,Ils/elles,auront cru,77
+Croire,believe,conditionnel présent,Je,croirais,77
+Croire,believe,conditionnel passé,J',aurais cru,77
+Croire,believe,conditionnel présent,Tu,croirais,77
+Croire,believe,conditionnel passé,Tu,aurais cru,77
+Croire,believe,conditionnel présent,Il/elle,croirait,77
+Croire,believe,conditionnel passé,Il/elle,aurait cru,77
+Croire,believe,conditionnel présent,Nous,croirions,77
+Croire,believe,conditionnel passé,Nous,aurions cru,77
+Croire,believe,conditionnel présent,Vous,croiriez,77
+Croire,believe,conditionnel passé,Vous,auriez cru,77
+Croire,believe,conditionnel présent,Ils/elles,croiraient,77
+Croire,believe,conditionnel passé,Ils/elles,auraient cru,77
+Croire,believe,subjonctif présent,Que je,croie,77
+Croire,believe,impératif présent,Tu,Crois,77
+Croire,believe,subjonctif présent,Que tu,croies,77
+Croire,believe,impératif présent,Nous,Croyons,77
+Croire,believe,subjonctif présent,Qu'il/elle,croie,77
+Croire,believe,impératif présent,Vous,Croyez,77
+Croire,believe,subjonctif présent,Que nous,croyions,77
+Croire,believe,subjonctif présent,Que vous,croyiez,77
+Croire,believe,subjonctif présent,Qu'ils/elles,croient,77
+Cueillir,pick,présent,Je,cueille,78
+Cueillir,pick,passé composé,J',ai cueilli,78
+Cueillir,pick,imparfait,Je,cueillais,78
+Cueillir,pick,plus-que-parfait,J',avais cueilli,78
+Cueillir,pick,présent,Tu,cueilles,78
+Cueillir,pick,passé composé,Tu,as cueilli,78
+Cueillir,pick,imparfait,Tu,cueillais,78
+Cueillir,pick,plus-que-parfait,Tu,avais cueilli,78
+Cueillir,pick,présent,Il/elle,cueille,78
+Cueillir,pick,passé composé,Il/elle,a cueilli,78
+Cueillir,pick,imparfait,Il/elle,cueillait,78
+Cueillir,pick,plus-que-parfait,Il/elle,avait cueilli,78
+Cueillir,pick,présent,Nous,cueillons,78
+Cueillir,pick,passé composé,Nous,avons cueilli,78
+Cueillir,pick,imparfait,Nous,cueillions,78
+Cueillir,pick,plus-que-parfait,Nous,avions cueilli,78
+Cueillir,pick,présent,Vous,cueillez,78
+Cueillir,pick,passé composé,Vous,avez cueilli,78
+Cueillir,pick,imparfait,Vous,cueilliez,78
+Cueillir,pick,plus-que-parfait,Vous,aviez cueilli,78
+Cueillir,pick,présent,Ils/elles,cueillent,78
+Cueillir,pick,passé composé,Ils/elles,ont cueilli,78
+Cueillir,pick,imparfait,Ils/elles,cueillaient,78
+Cueillir,pick,plus-que-parfait,Ils/elles,avaient cueilli,78
+Cueillir,pick,futur simple,Je,cueillerai,78
+Cueillir,pick,futur antérieur,J',aurai cueilli,78
+Cueillir,pick,futur simple,Tu,cueilleras,78
+Cueillir,pick,futur antérieur,Tu,auras cueilli,78
+Cueillir,pick,futur simple,Il/elle,cueillera,78
+Cueillir,pick,futur antérieur,Il/elle,aura cueilli,78
+Cueillir,pick,futur simple,Nous,cueillerons,78
+Cueillir,pick,futur antérieur,Nous,aurons cueilli,78
+Cueillir,pick,futur simple,Vous,cueillerez,78
+Cueillir,pick,futur antérieur,Vous,aurez cueilli,78
+Cueillir,pick,futur simple,Ils/elles,cueilleront,78
+Cueillir,pick,futur antérieur,Ils/elles,auront cueilli,78
+Cueillir,pick,conditionnel présent,Je,cueillerais,78
+Cueillir,pick,conditionnel passé,J',aurais cueilli,78
+Cueillir,pick,conditionnel présent,Tu,cueillerais,78
+Cueillir,pick,conditionnel passé,Tu,aurais cueilli,78
+Cueillir,pick,conditionnel présent,Il/elle,cueillerait,78
+Cueillir,pick,conditionnel passé,Il/elle,aurait cueilli,78
+Cueillir,pick,conditionnel présent,Nous,cueillerions,78
+Cueillir,pick,conditionnel passé,Nous,aurions cueilli,78
+Cueillir,pick,conditionnel présent,Vous,cueilleriez,78
+Cueillir,pick,conditionnel passé,Vous,auriez cueilli,78
+Cueillir,pick,conditionnel présent,Ils/elles,cueilleraient,78
+Cueillir,pick,conditionnel passé,Ils/elles,auraient cueilli,78
+Cueillir,pick,subjonctif présent,Que je,cueille,78
+Cueillir,pick,impératif présent,Tu,Cueille,78
+Cueillir,pick,subjonctif présent,Que tu,cueilles,78
+Cueillir,pick,impératif présent,Nous,Cueillons,78
+Cueillir,pick,subjonctif présent,Qu'il/elle,cueille,78
+Cueillir,pick,impératif présent,Vous,Cueillez,78
+Cueillir,pick,subjonctif présent,Que nous,cueillions,78
+Cueillir,pick,subjonctif présent,Que vous,cueilliez,78
+Cueillir,pick,subjonctif présent,Qu'ils/elles,cueillent,78
+Devoir,have to,présent,Je,dois,79
+Devoir,have to,passé composé,J',ai dû,79
+Devoir,have to,imparfait,Je,devais,79
+Devoir,have to,plus-que-parfait,J',avais dû,79
+Devoir,have to,présent,Tu,dois,79
+Devoir,have to,passé composé,Tu,as dû,79
+Devoir,have to,imparfait,Tu,devais,79
+Devoir,have to,plus-que-parfait,Tu,avais dû,79
+Devoir,have to,présent,Il/elle,doit,79
+Devoir,have to,passé composé,Il/elle,a dû,79
+Devoir,have to,imparfait,Il/elle,devait,79
+Devoir,have to,plus-que-parfait,Il/elle,avait dû,79
+Devoir,have to,présent,Nous,devons,79
+Devoir,have to,passé composé,Nous,avons dû,79
+Devoir,have to,imparfait,Nous,devions,79
+Devoir,have to,plus-que-parfait,Nous,avions dû,79
+Devoir,have to,présent,Vous,devez,79
+Devoir,have to,passé composé,Vous,avez dû,79
+Devoir,have to,imparfait,Vous,deviez,79
+Devoir,have to,plus-que-parfait,Vous,aviez dû,79
+Devoir,have to,présent,Ils/elles,doivent,79
+Devoir,have to,passé composé,Ils/elles,ont dû,79
+Devoir,have to,imparfait,Ils/elles,devaient,79
+Devoir,have to,plus-que-parfait,Ils/elles,avaient dû,79
+Devoir,have to,futur simple,Je,devrai,79
+Devoir,have to,futur antérieur,J',aurai dû,79
+Devoir,have to,futur simple,Tu,devras,79
+Devoir,have to,futur antérieur,Tu,auras dû,79
+Devoir,have to,futur simple,Il/elle,devra,79
+Devoir,have to,futur antérieur,Il/elle,aura dû,79
+Devoir,have to,futur simple,Nous,devrons,79
+Devoir,have to,futur antérieur,Nous,aurons dû,79
+Devoir,have to,futur simple,Vous,devrez,79
+Devoir,have to,futur antérieur,Vous,aurez dû,79
+Devoir,have to,futur simple,Ils/elles,devront,79
+Devoir,have to,futur antérieur,Ils/elles,auront dû,79
+Devoir,have to,conditionnel présent,Je,devrais,79
+Devoir,have to,conditionnel passé,J',aurais dû,79
+Devoir,have to,conditionnel présent,Tu,devrais,79
+Devoir,have to,conditionnel passé,Tu,aurais dû,79
+Devoir,have to,conditionnel présent,Il/elle,devrait,79
+Devoir,have to,conditionnel passé,Il/elle,aurait dû,79
+Devoir,have to,conditionnel présent,Nous,devrions,79
+Devoir,have to,conditionnel passé,Nous,aurions dû,79
+Devoir,have to,conditionnel présent,Vous,devriez,79
+Devoir,have to,conditionnel passé,Vous,auriez dû,79
+Devoir,have to,conditionnel présent,Ils/elles,devraient,79
+Devoir,have to,conditionnel passé,Ils/elles,auraient dû,79
+Devoir,have to,subjonctif présent,Que je,doive,79
+Devoir,have to,impératif présent,Tu,Dois,79
+Devoir,have to,subjonctif présent,Que tu,doives,79
+Devoir,have to,impératif présent,Nous,Devons,79
+Devoir,have to,subjonctif présent,Qu'il/elle,doive,79
+Devoir,have to,impératif présent,Vous,Devez,79
+Devoir,have to,subjonctif présent,Que nous,devions,79
+Devoir,have to,subjonctif présent,Que vous,deviez,79
+Devoir,have to,subjonctif présent,Qu'ils/elles,doivent,79
+Déplaire,displease,présent,Je,déplais,80
+Déplaire,displease,passé composé,J',ai déplu,80
+Déplaire,displease,imparfait,Je,déplaisais,80
+Déplaire,displease,plus-que-parfait,J',avais déplu,80
+Déplaire,displease,présent,Tu,déplais,80
+Déplaire,displease,passé composé,Tu,as déplu,80
+Déplaire,displease,imparfait,Tu,déplaisais,80
+Déplaire,displease,plus-que-parfait,Tu,avais déplu,80
+Déplaire,displease,présent,Il/elle,déplaît,80
+Déplaire,displease,passé composé,Il/elle,a déplu,80
+Déplaire,displease,imparfait,Il/elle,déplaisait,80
+Déplaire,displease,plus-que-parfait,Il/elle,avait déplu,80
+Déplaire,displease,présent,Nous,déplaisons,80
+Déplaire,displease,passé composé,Nous,avons déplu,80
+Déplaire,displease,imparfait,Nous,déplaisons,80
+Déplaire,displease,plus-que-parfait,Nous,avions déplu,80
+Déplaire,displease,présent,Vous,déplaisez,80
+Déplaire,displease,passé composé,Vous,avez déplu,80
+Déplaire,displease,imparfait,Vous,déplaisez,80
+Déplaire,displease,plus-que-parfait,Vous,aviez déplu,80
+Déplaire,displease,présent,Ils/elles,déplaisent,80
+Déplaire,displease,passé composé,Ils/elles,ont déplu,80
+Déplaire,displease,imparfait,Ils/elles,déplaisaient,80
+Déplaire,displease,plus-que-parfait,Ils/elles,avaient déplu,80
+Déplaire,displease,futur simple,Je,déplairai,80
+Déplaire,displease,futur antérieur,J',aurai déplu,80
+Déplaire,displease,futur simple,Tu,déplairas,80
+Déplaire,displease,futur antérieur,Tu,auras déplu,80
+Déplaire,displease,futur simple,Il/elle,déplaira,80
+Déplaire,displease,futur antérieur,Il/elle,aura déplu,80
+Déplaire,displease,futur simple,Nous,déplairons,80
+Déplaire,displease,futur antérieur,Nous,aurons déplu,80
+Déplaire,displease,futur simple,Vous,déplairez,80
+Déplaire,displease,futur antérieur,Vous,aurez déplu,80
+Déplaire,displease,futur simple,Ils/elles,déplairont,80
+Déplaire,displease,futur antérieur,Ils/elles,auront déplu,80
+Déplaire,displease,conditionnel présent,Je,déplairais,80
+Déplaire,displease,conditionnel passé,J',aurais déplu,80
+Déplaire,displease,conditionnel présent,Tu,déplairais,80
+Déplaire,displease,conditionnel passé,Tu,aurais déplu,80
+Déplaire,displease,conditionnel présent,Il/elle,déplairait,80
+Déplaire,displease,conditionnel passé,Il/elle,aurait déplu,80
+Déplaire,displease,conditionnel présent,Nous,déplairions,80
+Déplaire,displease,conditionnel passé,Nous,aurions déplu,80
+Déplaire,displease,conditionnel présent,Vous,déplairiez,80
+Déplaire,displease,conditionnel passé,Vous,auriez déplu,80
+Déplaire,displease,conditionnel présent,Ils/elles,déplairaient,80
+Déplaire,displease,conditionnel passé,Ils/elles,auraient déplu,80
+Déplaire,displease,subjonctif présent,Que je,déplaise,80
+Déplaire,displease,impératif présent,Tu,Déplais,80
+Déplaire,displease,subjonctif présent,Que tu,déplaises,80
+Déplaire,displease,impératif présent,Nous,Déplaisons,80
+Déplaire,displease,subjonctif présent,Qu'il/elle,déplaise,80
+Déplaire,displease,impératif présent,Vous,Déplaisez,80
+Déplaire,displease,subjonctif présent,Que nous,déplaisions,80
+Déplaire,displease,subjonctif présent,Que vous,déplaisiez,80
+Déplaire,displease,subjonctif présent,Qu'ils/elles,déplaisent,80
+Dire,say / To tell,présent,Je,dis,81
+Dire,say / To tell,passé composé,J',ai dit,81
+Dire,say / To tell,imparfait,Je,disais,81
+Dire,say / To tell,plus-que-parfait,J',avais dit,81
+Dire,say / To tell,présent,Tu,dis,81
+Dire,say / To tell,passé composé,Tu,as dit,81
+Dire,say / To tell,imparfait,Tu,disais,81
+Dire,say / To tell,plus-que-parfait,Tu,avais dit,81
+Dire,say / To tell,présent,Il/elle,dit,81
+Dire,say / To tell,passé composé,Il/elle,a dit,81
+Dire,say / To tell,imparfait,Il/elle,disait,81
+Dire,say / To tell,plus-que-parfait,Il/elle,avait dit,81
+Dire,say / To tell,présent,Nous,disons,81
+Dire,say / To tell,passé composé,Nous,avons dit,81
+Dire,say / To tell,imparfait,Nous,disions,81
+Dire,say / To tell,plus-que-parfait,Nous,avions dit,81
+Dire,say / To tell,présent,Vous,dites,81
+Dire,say / To tell,passé composé,Vous,avez dit,81
+Dire,say / To tell,imparfait,Vous,disiez,81
+Dire,say / To tell,plus-que-parfait,Vous,aviez dit,81
+Dire,say / To tell,présent,Ils/elles,disent,81
+Dire,say / To tell,passé composé,Ils/elles,ont dit,81
+Dire,say / To tell,imparfait,Ils/elles,disaient,81
+Dire,say / To tell,plus-que-parfait,Ils/elles,avaient dit,81
+Dire,say / To tell,futur simple,Je,dirai,81
+Dire,say / To tell,futur antérieur,J',aurai dit,81
+Dire,say / To tell,futur simple,Tu,diras,81
+Dire,say / To tell,futur antérieur,Tu,auras dit,81
+Dire,say / To tell,futur simple,Il/elle,dira,81
+Dire,say / To tell,futur antérieur,Il/elle,aura dit,81
+Dire,say / To tell,futur simple,Nous,dirons,81
+Dire,say / To tell,futur antérieur,Nous,aurons dit,81
+Dire,say / To tell,futur simple,Vous,direz,81
+Dire,say / To tell,futur antérieur,Vous,aurez dit,81
+Dire,say / To tell,futur simple,Ils/elles,diront,81
+Dire,say / To tell,futur antérieur,Ils/elles,auront dit,81
+Dire,say / To tell,conditionnel présent,Je,dirais,81
+Dire,say / To tell,conditionnel passé,J',aurais dit,81
+Dire,say / To tell,conditionnel présent,Tu,dirais,81
+Dire,say / To tell,conditionnel passé,Tu,aurais dit,81
+Dire,say / To tell,conditionnel présent,Il/elle,dirait,81
+Dire,say / To tell,conditionnel passé,Il/elle,aurait dit,81
+Dire,say / To tell,conditionnel présent,Nous,dirions,81
+Dire,say / To tell,conditionnel passé,Nous,aurions dit,81
+Dire,say / To tell,conditionnel présent,Vous,diriez,81
+Dire,say / To tell,conditionnel passé,Vous,auriez dit,81
+Dire,say / To tell,conditionnel présent,Ils/elles,diraient,81
+Dire,say / To tell,conditionnel passé,Ils/elles,auraient dit,81
+Dire,say / To tell,subjonctif présent,Que je,dise,81
+Dire,say / To tell,impératif présent,Tu,Dis,81
+Dire,say / To tell,subjonctif présent,Que tu,dises,81
+Dire,say / To tell,impératif présent,Nous,Disons,81
+Dire,say / To tell,subjonctif présent,Qu'il/elle,dise,81
+Dire,say / To tell,impératif présent,Vous,Dites,81
+Dire,say / To tell,subjonctif présent,Que nous,disons,81
+Dire,say / To tell,subjonctif présent,Que vous,disiez,81
+Dire,say / To tell,subjonctif présent,Qu'ils/elles,disent,81
+Dormir,sleep,présent,Je,dors,82
+Dormir,sleep,passé composé,J',ai dormi,82
+Dormir,sleep,imparfait,Je,dormais,82
+Dormir,sleep,plus-que-parfait,J',avais dormi,82
+Dormir,sleep,présent,Tu,dors,82
+Dormir,sleep,passé composé,Tu,as dormi,82
+Dormir,sleep,imparfait,Tu,dormais,82
+Dormir,sleep,plus-que-parfait,Tu,avais dormi,82
+Dormir,sleep,présent,Il/elle,dort,82
+Dormir,sleep,passé composé,Il/elle,a dormi,82
+Dormir,sleep,imparfait,Il/elle,dormait,82
+Dormir,sleep,plus-que-parfait,Il/elle,avait dormi,82
+Dormir,sleep,présent,Nous,dormons,82
+Dormir,sleep,passé composé,Nous,avons dormi,82
+Dormir,sleep,imparfait,Nous,dormions,82
+Dormir,sleep,plus-que-parfait,Nous,avions dormi,82
+Dormir,sleep,présent,Vous,dormez,82
+Dormir,sleep,passé composé,Vous,avez dormi,82
+Dormir,sleep,imparfait,Vous,dormiez,82
+Dormir,sleep,plus-que-parfait,Vous,aviez dormi,82
+Dormir,sleep,présent,Ils/elles,dorment,82
+Dormir,sleep,passé composé,Ils/elles,ont dormi,82
+Dormir,sleep,imparfait,Ils/elles,dormaient,82
+Dormir,sleep,plus-que-parfait,Ils/elles,avaient dormi,82
+Dormir,sleep,futur simple,Je,dormirai,82
+Dormir,sleep,futur antérieur,J',aurai dormi,82
+Dormir,sleep,futur simple,Tu,dormiras,82
+Dormir,sleep,futur antérieur,Tu,auras dormi,82
+Dormir,sleep,futur simple,Il/elle,dormira,82
+Dormir,sleep,futur antérieur,Il/elle,aura dormi,82
+Dormir,sleep,futur simple,Nous,dormirons,82
+Dormir,sleep,futur antérieur,Nous,aurons dormi,82
+Dormir,sleep,futur simple,Vous,dormirez,82
+Dormir,sleep,futur antérieur,Vous,aurez dormi,82
+Dormir,sleep,futur simple,Ils/elles,dormiront,82
+Dormir,sleep,futur antérieur,Ils/elles,auront dormi,82
+Dormir,sleep,conditionnel présent,Je,dormirais,82
+Dormir,sleep,conditionnel passé,J',aurais dormi,82
+Dormir,sleep,conditionnel présent,Tu,dormirais,82
+Dormir,sleep,conditionnel passé,Tu,aurais dormi,82
+Dormir,sleep,conditionnel présent,Il/elle,dormirait,82
+Dormir,sleep,conditionnel passé,Il/elle,aurait dormi,82
+Dormir,sleep,conditionnel présent,Nous,dormirions,82
+Dormir,sleep,conditionnel passé,Nous,aurions dormi,82
+Dormir,sleep,conditionnel présent,Vous,dormiriez,82
+Dormir,sleep,conditionnel passé,Vous,auriez dormi,82
+Dormir,sleep,conditionnel présent,Ils/elles,dormiraient,82
+Dormir,sleep,conditionnel passé,Ils/elles,auraient dormi,82
+Dormir,sleep,subjonctif présent,Que je,dorme,82
+Dormir,sleep,impératif présent,Tu,Dors,82
+Dormir,sleep,subjonctif présent,Que tu,dormes,82
+Dormir,sleep,impératif présent,Nous,Dormons,82
+Dormir,sleep,subjonctif présent,Qu'il/elle,dorme,82
+Dormir,sleep,impératif présent,Vous,Dormez,82
+Dormir,sleep,subjonctif présent,Que nous,dormons,82
+Dormir,sleep,subjonctif présent,Que vous,dormez,82
+Dormir,sleep,subjonctif présent,Qu'ils/elles,dorment,82
+Écrire,write,présent,J',écris,83
+Écrire,write,passé composé,J',ai écrit,83
+Écrire,write,imparfait,J',écrivais,83
+Écrire,write,plus-que-parfait,J',avais écrit,83
+Écrire,write,présent,Tu,écris,83
+Écrire,write,passé composé,Tu,as écrit,83
+Écrire,write,imparfait,Tu,écrivais,83
+Écrire,write,plus-que-parfait,Tu,avais écrit,83
+Écrire,write,présent,Il/elle,écrit,83
+Écrire,write,passé composé,Il/elle,a écrit,83
+Écrire,write,imparfait,Il/elle,écrivait,83
+Écrire,write,plus-que-parfait,Il/elle,avait écrit,83
+Écrire,write,présent,Nous,écrivons,83
+Écrire,write,passé composé,Nous,avons écrit,83
+Écrire,write,imparfait,Nous,écrivions,83
+Écrire,write,plus-que-parfait,Nous,avions écrit,83
+Écrire,write,présent,Vous,écrivez,83
+Écrire,write,passé composé,Vous,avez écrit,83
+Écrire,write,imparfait,Vous,écriviez,83
+Écrire,write,plus-que-parfait,Vous,aviez écrit,83
+Écrire,write,présent,Ils/elles,écrivent,83
+Écrire,write,passé composé,Ils/elles,ont écrit,83
+Écrire,write,imparfait,Ils/elles,écrivaient,83
+Écrire,write,plus-que-parfait,Ils/elles,avaient écrit,83
+Écrire,write,futur simple,J',écrirai,83
+Écrire,write,futur antérieur,J',aurai écrit,83
+Écrire,write,futur simple,Tu,écriras,83
+Écrire,write,futur antérieur,Tu,auras écrit,83
+Écrire,write,futur simple,Il/elle,écrira,83
+Écrire,write,futur antérieur,Il/elle,aura écrit,83
+Écrire,write,futur simple,Nous,écrirons,83
+Écrire,write,futur antérieur,Nous,aurons écrit,83
+Écrire,write,futur simple,Vous,écrirez,83
+Écrire,write,futur antérieur,Vous,aurez écrit,83
+Écrire,write,futur simple,Ils/elles,écriront,83
+Écrire,write,futur antérieur,Ils/elles,auront écrit,83
+Écrire,write,conditionnel présent,J',écrirais,83
+Écrire,write,conditionnel passé,J',aurais écrit,83
+Écrire,write,conditionnel présent,Tu,écrirais,83
+Écrire,write,conditionnel passé,Tu,aurais écrit,83
+Écrire,write,conditionnel présent,Il/elle,écrirait,83
+Écrire,write,conditionnel passé,Il/elle,aurait écrit,83
+Écrire,write,conditionnel présent,Nous,écririons,83
+Écrire,write,conditionnel passé,Nous,aurions écrit,83
+Écrire,write,conditionnel présent,Vous,écririez,83
+Écrire,write,conditionnel passé,Vous,auriez écrit,83
+Écrire,write,conditionnel présent,Ils/elles,écriraient,83
+Écrire,write,conditionnel passé,Ils/elles,auraient écrit,83
+Écrire,write,conditionnel présent,Tu,),83
+Écrire,write,subjonctif présent,Que tu,écrives,83
+Écrire,write,impératif présent,Nous,Écrivons,83
+Écrire,write,subjonctif présent,Qu'il/elle,écrive,83
+Écrire,write,impératif présent,Vous,Écrivez,83
+Écrire,write,subjonctif présent,Que nous,écrivions,83
+Écrire,write,subjonctif présent,Que vous,écriviez,83
+Écrire,write,subjonctif présent,Qu'ils/elles,écrivent,83
+Faire,do / To make,présent,Je,fais,84
+Faire,do / To make,passé composé,J',ai fait,84
+Faire,do / To make,imparfait,Je,faisais,84
+Faire,do / To make,plus-que-parfait,J',avais fait,84
+Faire,do / To make,présent,Tu,fais,84
+Faire,do / To make,passé composé,Tu,as fait,84
+Faire,do / To make,imparfait,Tu,faisais,84
+Faire,do / To make,plus-que-parfait,Tu,avais fait,84
+Faire,do / To make,présent,Il/elle,fait,84
+Faire,do / To make,passé composé,Il/elle,a fait,84
+Faire,do / To make,imparfait,Il/elle,faisait,84
+Faire,do / To make,plus-que-parfait,Il/elle,avait fait,84
+Faire,do / To make,présent,Nous,faisons,84
+Faire,do / To make,passé composé,Nous,avons fait,84
+Faire,do / To make,imparfait,Nous,faisions,84
+Faire,do / To make,plus-que-parfait,Nous,avions fait,84
+Faire,do / To make,présent,Vous,faites,84
+Faire,do / To make,passé composé,Vous,avez fait,84
+Faire,do / To make,imparfait,Vous,faisiez,84
+Faire,do / To make,plus-que-parfait,Vous,aviez fait,84
+Faire,do / To make,présent,Ils/elles,font,84
+Faire,do / To make,passé composé,Ils/elles,ont fait,84
+Faire,do / To make,imparfait,Ils/elles,faisaient,84
+Faire,do / To make,plus-que-parfait,Ils/elles,avaient fait,84
+Faire,do / To make,futur simple,Je,ferai,84
+Faire,do / To make,futur antérieur,J',aurai fait,84
+Faire,do / To make,futur simple,Tu,feras,84
+Faire,do / To make,futur antérieur,Tu,auras fait,84
+Faire,do / To make,futur simple,Il/elle,fera,84
+Faire,do / To make,futur antérieur,Il/elle,aura fait,84
+Faire,do / To make,futur simple,Nous,ferons,84
+Faire,do / To make,futur antérieur,Nous,aurons fait,84
+Faire,do / To make,futur simple,Vous,ferez,84
+Faire,do / To make,futur antérieur,Vous,aurez fait,84
+Faire,do / To make,futur simple,Ils/elles,feront,84
+Faire,do / To make,futur antérieur,Ils/elles,auront fait,84
+Faire,do / To make,conditionnel présent,Je,ferais,84
+Faire,do / To make,conditionnel passé,J',aurais fait,84
+Faire,do / To make,conditionnel présent,Tu,ferais,84
+Faire,do / To make,conditionnel passé,Tu,aurais fait,84
+Faire,do / To make,conditionnel présent,Il/elle,ferait,84
+Faire,do / To make,conditionnel passé,Il/elle,aurait fait,84
+Faire,do / To make,conditionnel présent,Nous,ferions,84
+Faire,do / To make,conditionnel passé,Nous,aurions fait,84
+Faire,do / To make,conditionnel présent,Vous,feriez,84
+Faire,do / To make,conditionnel passé,Vous,auriez fait,84
+Faire,do / To make,conditionnel présent,Ils/elles,feraient,84
+Faire,do / To make,conditionnel passé,Ils/elles,auraient fait,84
+Faire,do / To make,subjonctif présent,Que je,fasse,84
+Faire,do / To make,impératif présent,Tu,Fais,84
+Faire,do / To make,subjonctif présent,Que tu,fasses,84
+Faire,do / To make,impératif présent,Nous,Faisons,84
+Faire,do / To make,subjonctif présent,Qu'il/elle,fasse,84
+Faire,do / To make,impératif présent,Vous,Faites,84
+Faire,do / To make,subjonctif présent,Que nous,faisons,84
+Faire,do / To make,subjonctif présent,Que vous,fassiez,84
+Faire,do / To make,subjonctif présent,Qu'ils/elles,fassent,84
+Haïr,hate,présent,Je,hais,86
+Haïr,hate,passé composé,J',ai haï,86
+Haïr,hate,imparfait,Je,haïssais,86
+Haïr,hate,plus-que-parfait,J',avais haï,86
+Haïr,hate,présent,Tu,hais,86
+Haïr,hate,passé composé,Tu,as haï,86
+Haïr,hate,imparfait,Tu,haïssais,86
+Haïr,hate,plus-que-parfait,Tu,avais haï,86
+Haïr,hate,présent,Il/elle,hait,86
+Haïr,hate,passé composé,Il/elle,a haï,86
+Haïr,hate,imparfait,Il/elle,haïssait,86
+Haïr,hate,plus-que-parfait,Il/elle,avait haï,86
+Haïr,hate,présent,Nous,haïssons,86
+Haïr,hate,passé composé,Nous,avons haï,86
+Haïr,hate,imparfait,Nous,haïssions,86
+Haïr,hate,plus-que-parfait,Nous,avions haï,86
+Haïr,hate,présent,Vous,haïssez,86
+Haïr,hate,passé composé,Vous,avez haï,86
+Haïr,hate,imparfait,Vous,haïssiez,86
+Haïr,hate,plus-que-parfait,Vous,aviez haï,86
+Haïr,hate,présent,Ils/elles,haïssent,86
+Haïr,hate,passé composé,Ils/elles,ont haï,86
+Haïr,hate,imparfait,Ils/elles,haïssaient,86
+Haïr,hate,plus-que-parfait,Ils/elles,avaient haï,86
+Haïr,hate,futur simple,Je,haïrai,86
+Haïr,hate,futur antérieur,J',aurai haï,86
+Haïr,hate,futur simple,Tu,haïrais,86
+Haïr,hate,futur antérieur,Tu,auras haï,86
+Haïr,hate,futur simple,Il/elle,haïrait,86
+Haïr,hate,futur antérieur,Il/elle,aura haï,86
+Haïr,hate,futur simple,Nous,haïrons,86
+Haïr,hate,futur antérieur,Nous,aurons haï,86
+Haïr,hate,futur simple,Vous,haïrez,86
+Haïr,hate,futur antérieur,Vous,aurez haï,86
+Haïr,hate,futur simple,Ils/elles,haïront,86
+Haïr,hate,futur antérieur,Ils/elles,auront haï,86
+Haïr,hate,conditionnel présent,Je,haïrais,86
+Haïr,hate,conditionnel passé,J',aurais haï,86
+Haïr,hate,conditionnel présent,Tu,haïrais,86
+Haïr,hate,conditionnel passé,Tu,aurais haï,86
+Haïr,hate,conditionnel présent,Il/elle,haïrait,86
+Haïr,hate,conditionnel passé,Il/elle,aurait haï,86
+Haïr,hate,conditionnel présent,Nous,haïriont,86
+Haïr,hate,conditionnel passé,Nous,aurions haï,86
+Haïr,hate,conditionnel présent,Vous,haïriez,86
+Haïr,hate,conditionnel passé,Vous,auriez haï,86
+Haïr,hate,conditionnel présent,Ils/elles,haïraient,86
+Haïr,hate,conditionnel passé,Ils/elles,auraient haï,86
+Haïr,hate,subjonctif présent,Que je,haïsse,86
+Haïr,hate,impératif présent,Tu,Hais,86
+Haïr,hate,subjonctif présent,Que tu,haïsses,86
+Haïr,hate,impératif présent,Nous,Haïssons,86
+Haïr,hate,subjonctif présent,Qu'il/elle,haïsse,86
+Haïr,hate,impératif présent,Vous,Haïssez,86
+Haïr,hate,subjonctif présent,Que nous,haïssions,86
+Haïr,hate,subjonctif présent,Que vous,haïssiez,86
+Haïr,hate,subjonctif présent,Qu'ils/elles,haïssent,86
+Lire,read,présent,Je,lis,87
+Lire,read,passé composé,J',ai lu,87
+Lire,read,imparfait,Je,lisais,87
+Lire,read,plus-que-parfait,J',avais lu,87
+Lire,read,présent,Tu,lis,87
+Lire,read,passé composé,Tu,as lu,87
+Lire,read,imparfait,Tu,lisais,87
+Lire,read,plus-que-parfait,Tu,avais lu,87
+Lire,read,présent,Il/elle,lit,87
+Lire,read,passé composé,Il/elle,a lu,87
+Lire,read,imparfait,Il/elle,lisait,87
+Lire,read,plus-que-parfait,Il/elle,avait lu,87
+Lire,read,présent,Nous,lisons,87
+Lire,read,passé composé,Nous,avons lu,87
+Lire,read,imparfait,Nous,lisions,87
+Lire,read,plus-que-parfait,Nous,avions lu,87
+Lire,read,présent,Vous,lisez,87
+Lire,read,passé composé,Vous,avez lu,87
+Lire,read,imparfait,Vous,lisiez,87
+Lire,read,plus-que-parfait,Vous,aviez lu,87
+Lire,read,présent,Ils/elles,lisent,87
+Lire,read,passé composé,Ils/elles,ont lu,87
+Lire,read,imparfait,Ils/elles,lisaient,87
+Lire,read,plus-que-parfait,Ils/elles,avaient lu,87
+Lire,read,futur simple,Je,lirai,87
+Lire,read,futur antérieur,J',aurai lu,87
+Lire,read,futur simple,Tu,liras,87
+Lire,read,futur antérieur,Tu,auras lu,87
+Lire,read,futur simple,Il/elle,lira,87
+Lire,read,futur antérieur,Il/elle,aura lu,87
+Lire,read,futur simple,Nous,lirons,87
+Lire,read,futur antérieur,Nous,aurons lu,87
+Lire,read,futur simple,Vous,lirez,87
+Lire,read,futur antérieur,Vous,aurez lu,87
+Lire,read,futur simple,Ils/elles,liront,87
+Lire,read,futur antérieur,Ils/elles,auront lu,87
+Lire,read,conditionnel présent,Je,lirais,87
+Lire,read,conditionnel passé,J',aurais lu,87
+Lire,read,conditionnel présent,Tu,lirais,87
+Lire,read,conditionnel passé,Tu,aurais lu,87
+Lire,read,conditionnel présent,Il/elle,lirait,87
+Lire,read,conditionnel passé,Il/elle,aurait lu,87
+Lire,read,conditionnel présent,Nous,lirions,87
+Lire,read,conditionnel passé,Nous,aurions lu,87
+Lire,read,conditionnel présent,Vous,liriez,87
+Lire,read,conditionnel passé,Vous,auriez lu,87
+Lire,read,conditionnel présent,Ils/elles,liraient,87
+Lire,read,conditionnel passé,Ils/elles,auraient lu,87
+Lire,read,subjonctif présent,Que je,lise,87
+Lire,read,impératif présent,Tu,Lis,87
+Lire,read,subjonctif présent,Que tu,lises,87
+Lire,read,impératif présent,Nous,Lisons,87
+Lire,read,subjonctif présent,Qu'il/elle,lise,87
+Lire,read,impératif présent,Vous,Lisez,87
+Lire,read,subjonctif présent,Que nous,lisions,87
+Lire,read,subjonctif présent,Que vous,lisiez,87
+Lire,read,subjonctif présent,Qu'ils/elles,lisent,87
+Mettre,put,présent,Je,mets,88
+Mettre,put,passé composé,J',ai mis,88
+Mettre,put,imparfait,Je,mettais,88
+Mettre,put,plus-que-parfait,J',avais mis,88
+Mettre,put,présent,Tu,mets,88
+Mettre,put,passé composé,Tu,as mis,88
+Mettre,put,imparfait,Tu,mettais,88
+Mettre,put,plus-que-parfait,Tu,avais mis,88
+Mettre,put,présent,Il/elle,met,88
+Mettre,put,passé composé,Il/elle,a mis,88
+Mettre,put,imparfait,Il/elle,mettait,88
+Mettre,put,plus-que-parfait,Il/elle,avait mis,88
+Mettre,put,présent,Nous,mettons,88
+Mettre,put,passé composé,Nous,avons mis,88
+Mettre,put,imparfait,Nous,mettions,88
+Mettre,put,plus-que-parfait,Nous,avions mis,88
+Mettre,put,présent,Vous,mettez,88
+Mettre,put,passé composé,Vous,avez mis,88
+Mettre,put,imparfait,Vous,mettiez,88
+Mettre,put,plus-que-parfait,Vous,aviez mis,88
+Mettre,put,présent,Ils/elles,mettent,88
+Mettre,put,passé composé,Ils/elles,ont mis,88
+Mettre,put,imparfait,Ils/elles,mettaient,88
+Mettre,put,plus-que-parfait,Ils/elles,avaient mis,88
+Mettre,put,futur simple,Je,mettrai,88
+Mettre,put,futur antérieur,J',aurai mis,88
+Mettre,put,futur simple,Tu,mettras,88
+Mettre,put,futur antérieur,Tu,auras mis,88
+Mettre,put,futur simple,Il/elle,mettrait,88
+Mettre,put,futur antérieur,Il/elle,aura mis,88
+Mettre,put,futur simple,Nous,mettrons,88
+Mettre,put,futur antérieur,Nous,aurons mis,88
+Mettre,put,futur simple,Vous,mettrez,88
+Mettre,put,futur antérieur,Vous,aurez mis,88
+Mettre,put,futur simple,Ils/elles,mettront,88
+Mettre,put,futur antérieur,Ils/elles,auront mis,88
+Mettre,put,conditionnel présent,Je,mettrais,88
+Mettre,put,conditionnel passé,J',aurais mis,88
+Mettre,put,conditionnel présent,Tu,mettrais,88
+Mettre,put,conditionnel passé,Tu,aurais mis,88
+Mettre,put,conditionnel présent,Il/elle,mettrait,88
+Mettre,put,conditionnel passé,Il/elle,aurait mis,88
+Mettre,put,conditionnel présent,Nous,mettrions,88
+Mettre,put,conditionnel passé,Nous,aurions mis,88
+Mettre,put,conditionnel présent,Vous,mettriez,88
+Mettre,put,conditionnel passé,Vous,auriez mis,88
+Mettre,put,conditionnel présent,Ils/elles,mettraient,88
+Mettre,put,conditionnel passé,Ils/elles,auraient mis,88
+Mettre,put,subjonctif présent,Que je,mette,88
+Mettre,put,impératif présent,Tu,Mets,88
+Mettre,put,subjonctif présent,Que tu,mettes,88
+Mettre,put,impératif présent,Nous,Mettons,88
+Mettre,put,subjonctif présent,Qu'il/elle,mette,88
+Mettre,put,impératif présent,Vous,Mettez,88
+Mettre,put,subjonctif présent,Que nous,mettions,88
+Mettre,put,subjonctif présent,Que vous,mettiez,88
+Mettre,put,subjonctif présent,Qu'ils/elles,mettent,88
+Mourir,die,présent,Je,meurs,89
+Mourir,die,passé composé,Je,suis mort(e),89
+Mourir,die,imparfait,Je,mourais,89
+Mourir,die,plus-que-parfait,J',étais mort,89
+Mourir,die,présent,Tu,meurs,89
+Mourir,die,passé composé,Tu,es mort(e),89
+Mourir,die,imparfait,Tu,mourais,89
+Mourir,die,plus-que-parfait,Tu,étais mort,89
+Mourir,die,présent,Il/elle,meurt,89
+Mourir,die,passé composé,Il/elle,est mort(e),89
+Mourir,die,imparfait,Il/elle,mourait,89
+Mourir,die,plus-que-parfait,Il/elle,était mort,89
+Mourir,die,présent,Nous,mourons,89
+Mourir,die,passé composé,Nous,sommes mort(e)s,89
+Mourir,die,imparfait,Nous,mourions,89
+Mourir,die,plus-que-parfait,Nous,étions mort,89
+Mourir,die,présent,Vous,mourez,89
+Mourir,die,passé composé,Vous,êtes mort(e)s,89
+Mourir,die,imparfait,Vous,mouriez,89
+Mourir,die,plus-que-parfait,Vous,étiez mort,89
+Mourir,die,présent,Ils/elles,meurent,89
+Mourir,die,passé composé,Ils/elles,sont mort(e)s,89
+Mourir,die,imparfait,Ils/elles,mouraient,89
+Mourir,die,plus-que-parfait,Ils/elles,étaient mort,89
+Mourir,die,futur simple,Je,mourrai,89
+Mourir,die,futur antérieur,Je,serai mort(e),89
+Mourir,die,futur simple,Tu,mourras,89
+Mourir,die,futur antérieur,Tu,seras mort(e),89
+Mourir,die,futur simple,Il/elle,mourra,89
+Mourir,die,futur antérieur,Il/elle,sera mort(e),89
+Mourir,die,futur simple,Nous,mourrons,89
+Mourir,die,futur antérieur,Nous,serons mort(e)s,89
+Mourir,die,futur simple,Vous,mourrez,89
+Mourir,die,futur antérieur,Vous,serez mort(e)s,89
+Mourir,die,futur simple,Ils/elles,mourront,89
+Mourir,die,futur antérieur,Ils/elles,seront mort(e)s,89
+Mourir,die,conditionnel présent,Je,mourrais,89
+Mourir,die,conditionnel passé,Je,serais mort(e),89
+Mourir,die,conditionnel présent,Tu,mourrais,89
+Mourir,die,conditionnel passé,Tu,serais mort(e),89
+Mourir,die,conditionnel présent,Il/elle,mourrait,89
+Mourir,die,conditionnel passé,Il/elle,serait mort(e),89
+Mourir,die,conditionnel présent,Nous,mourrions,89
+Mourir,die,conditionnel passé,Nous,serions mort(e)s,89
+Mourir,die,conditionnel présent,Vous,mourriez,89
+Mourir,die,conditionnel passé,Vous,seriez mort(e)s,89
+Mourir,die,conditionnel présent,Ils/elles,mourraient,89
+Mourir,die,conditionnel passé,Ils/elles,seraient mort(e)s,89
+Mourir,die,subjonctif présent,Que je,meure,89
+Mourir,die,impératif présent,Tu,Meurs,89
+Mourir,die,subjonctif présent,Que tu,meures,89
+Mourir,die,impératif présent,Nous,Mourons,89
+Mourir,die,subjonctif présent,Qu'il/elle,meure,89
+Mourir,die,impératif présent,Vous,Mourez,89
+Mourir,die,subjonctif présent,Que nous,mourions,89
+Mourir,die,subjonctif présent,Que vous,mouriez,89
+Mourir,die,subjonctif présent,Qu'ils/elles,meurent,89
+Naître,be born,présent,Je,nais,90
+Naître,be born,passé composé,Je,suis né,90
+Naître,be born,imparfait,Je,naissais,90
+Naître,be born,plus-que-parfait,J',étais né,90
+Naître,be born,présent,Tu,nais,90
+Naître,be born,passé composé,Tu,es né,90
+Naître,be born,imparfait,Tu,naissais,90
+Naître,be born,plus-que-parfait,Tu,étais né,90
+Naître,be born,présent,Il/elle,naît,90
+Naître,be born,passé composé,Il/elle,est né,90
+Naître,be born,imparfait,Il/elle,naissait,90
+Naître,be born,plus-que-parfait,Il/elle,était né,90
+Naître,be born,présent,Nous,naissons,90
+Naître,be born,passé composé,Nous,sommes né,90
+Naître,be born,imparfait,Nous,naissions,90
+Naître,be born,plus-que-parfait,Nous,étions né,90
+Naître,be born,présent,Vous,naissez,90
+Naître,be born,passé composé,Vous,êtes né,90
+Naître,be born,imparfait,Vous,naissiez,90
+Naître,be born,plus-que-parfait,Vous,étiez né,90
+Naître,be born,présent,Ils/elles,naissent,90
+Naître,be born,passé composé,Ils/elles,sont né,90
+Naître,be born,imparfait,Ils/elles,naissaient,90
+Naître,be born,plus-que-parfait,Ils/elles,étaient né,90
+Naître,be born,futur simple,Je,naîtrai,90
+Naître,be born,futur antérieur,Je,serai né,90
+Naître,be born,futur simple,Tu,naîtras,90
+Naître,be born,futur antérieur,Tu,seras né,90
+Naître,be born,futur simple,Il/elle,naîtra,90
+Naître,be born,futur antérieur,Il/elle,sera né,90
+Naître,be born,futur simple,Nous,naîtrons,90
+Naître,be born,futur antérieur,Nous,serons né,90
+Naître,be born,futur simple,Vous,naîtrez,90
+Naître,be born,futur antérieur,Vous,serez né,90
+Naître,be born,futur simple,Ils/elles,naîtront,90
+Naître,be born,futur antérieur,Ils/elles,seront né,90
+Naître,be born,conditionnel présent,Je,naîtrais,90
+Naître,be born,conditionnel passé,Je,serais né,90
+Naître,be born,conditionnel présent,Tu,naîtrais,90
+Naître,be born,conditionnel passé,Tu,serais né,90
+Naître,be born,conditionnel présent,Il/elle,naîtrait,90
+Naître,be born,conditionnel passé,Il/elle,serait né,90
+Naître,be born,conditionnel présent,Nous,naîtrions,90
+Naître,be born,conditionnel passé,Nous,serions né,90
+Naître,be born,conditionnel présent,Vous,naîtriez,90
+Naître,be born,conditionnel passé,Vous,seriez né,90
+Naître,be born,conditionnel présent,Ils/elles,naîtraient,90
+Naître,be born,conditionnel passé,Ils/elles,seraient né,90
+Naître,be born,subjonctif présent,Que je,naisse,90
+Naître,be born,impératif présent,Tu,Nais,90
+Naître,be born,subjonctif présent,Que tu,naisses,90
+Naître,be born,impératif présent,Nous,Naissons,90
+Naître,be born,subjonctif présent,Qu'il/elle,naisse,90
+Naître,be born,impératif présent,Vous,Naissez,90
+Naître,be born,subjonctif présent,Que nous,naissions,90
+Naître,be born,subjonctif présent,Que vous,naissiez,90
+Naître,be born,subjonctif présent,Qu'ils/elles,naissent,90
+Prendre,take,présent,Je,prends,92
+Prendre,take,passé composé,J',ai pris,92
+Prendre,take,imparfait,Je,prenais,92
+Prendre,take,plus-que-parfait,J',avais pris,92
+Prendre,take,présent,Tu,prends,92
+Prendre,take,passé composé,Tu,as pris,92
+Prendre,take,imparfait,Tu,prenais,92
+Prendre,take,plus-que-parfait,Tu,avais pris,92
+Prendre,take,présent,Il/elle,prend,92
+Prendre,take,passé composé,Il/elle,a pris,92
+Prendre,take,imparfait,Il/elle,prenait,92
+Prendre,take,plus-que-parfait,Il/elle,avait pris,92
+Prendre,take,présent,Nous,prenons,92
+Prendre,take,passé composé,Nous,avons pris,92
+Prendre,take,imparfait,Nous,prenions,92
+Prendre,take,plus-que-parfait,Nous,avions pris,92
+Prendre,take,présent,Vous,prenez,92
+Prendre,take,passé composé,Vous,avez pris,92
+Prendre,take,imparfait,Vous,preniez,92
+Prendre,take,plus-que-parfait,Vous,aviez pris,92
+Prendre,take,présent,Ils/elles,prennent,92
+Prendre,take,passé composé,Ils/elles,ont pris,92
+Prendre,take,imparfait,Ils/elles,prenaient,92
+Prendre,take,plus-que-parfait,Ils/elles,avaient pris,92
+Prendre,take,futur simple,Je,prendrai,92
+Prendre,take,futur antérieur,J',aurai pris,92
+Prendre,take,futur simple,Tu,prendras,92
+Prendre,take,futur antérieur,Tu,auras pris,92
+Prendre,take,futur simple,Il/elle,prendra,92
+Prendre,take,futur antérieur,Il/elle,aura pris,92
+Prendre,take,futur simple,Nous,prendrons,92
+Prendre,take,futur antérieur,Nous,aurons pris,92
+Prendre,take,futur simple,Vous,prendrez,92
+Prendre,take,futur antérieur,Vous,aurez pris,92
+Prendre,take,futur simple,Ils/elles,prendront,92
+Prendre,take,futur antérieur,Ils/elles,auront pris,92
+Prendre,take,conditionnel présent,Je,prendrais,92
+Prendre,take,conditionnel passé,J',aurais pris,92
+Prendre,take,conditionnel présent,Tu,prendrais,92
+Prendre,take,conditionnel passé,Tu,aurais pris,92
+Prendre,take,conditionnel présent,Il/elle,prendrait,92
+Prendre,take,conditionnel passé,Il/elle,aurait pris,92
+Prendre,take,conditionnel présent,Nous,prendrions,92
+Prendre,take,conditionnel passé,Nous,aurions pris,92
+Prendre,take,conditionnel présent,Vous,prendriez,92
+Prendre,take,conditionnel passé,Vous,auriez pris,92
+Prendre,take,conditionnel présent,Ils/elles,prendraient,92
+Prendre,take,conditionnel passé,Ils/elles,auraient pris,92
+Prendre,take,subjonctif présent,Que je,prenne,92
+Prendre,take,impératif présent,Tu,Prends,92
+Prendre,take,subjonctif présent,Que tu,prennes,92
+Prendre,take,impératif présent,Nous,Prenons,92
+Prendre,take,subjonctif présent,Qu'il/elle,prenne,92
+Prendre,take,impératif présent,Vous,Prenez,92
+Prendre,take,subjonctif présent,Que nous,prenions,92
+Prendre,take,subjonctif présent,Que vous,preniez,92
+Prendre,take,subjonctif présent,Qu'ils/elles,prennent,92
+Pouvoir,be able to - Can,présent,Je,peux,93
+Pouvoir,be able to - Can,passé composé,J',ai pu,93
+Pouvoir,be able to - Can,imparfait,Je,pouvais,93
+Pouvoir,be able to - Can,plus-que-parfait,J',avais pu,93
+Pouvoir,be able to - Can,présent,Tu,peux,93
+Pouvoir,be able to - Can,passé composé,Tu,as pu,93
+Pouvoir,be able to - Can,imparfait,Tu,pouvais,93
+Pouvoir,be able to - Can,plus-que-parfait,Tu,avais pu,93
+Pouvoir,be able to - Can,présent,Il/elle,peut,93
+Pouvoir,be able to - Can,passé composé,Il/elle,a pu,93
+Pouvoir,be able to - Can,imparfait,Il/elle,pouvait,93
+Pouvoir,be able to - Can,plus-que-parfait,Il/elle,avait pu,93
+Pouvoir,be able to - Can,présent,Nous,pouvons,93
+Pouvoir,be able to - Can,passé composé,Nous,avons pu,93
+Pouvoir,be able to - Can,imparfait,Nous,pouvions,93
+Pouvoir,be able to - Can,plus-que-parfait,Nous,avions pu,93
+Pouvoir,be able to - Can,présent,Vous,pouvez,93
+Pouvoir,be able to - Can,passé composé,Vous,avez pu,93
+Pouvoir,be able to - Can,imparfait,Vous,pouviez,93
+Pouvoir,be able to - Can,plus-que-parfait,Vous,aviez pu,93
+Pouvoir,be able to - Can,présent,Ils/elles,peuvent,93
+Pouvoir,be able to - Can,passé composé,Ils/elles,ont pu,93
+Pouvoir,be able to - Can,imparfait,Ils/elles,pouvaient,93
+Pouvoir,be able to - Can,plus-que-parfait,Ils/elles,avaient pu,93
+Pouvoir,be able to - Can,futur simple,Je,pourrai,93
+Pouvoir,be able to - Can,futur antérieur,J',aurai pu,93
+Pouvoir,be able to - Can,futur simple,Tu,pourras,93
+Pouvoir,be able to - Can,futur antérieur,Tu,auras pu,93
+Pouvoir,be able to - Can,futur simple,Il/elle,pourra,93
+Pouvoir,be able to - Can,futur antérieur,Il/elle,aura pu,93
+Pouvoir,be able to - Can,futur simple,Nous,pourrions,93
+Pouvoir,be able to - Can,futur antérieur,Nous,aurons pu,93
+Pouvoir,be able to - Can,futur simple,Vous,pourriez,93
+Pouvoir,be able to - Can,futur antérieur,Vous,aurez pu,93
+Pouvoir,be able to - Can,futur simple,Ils/elles,pourraient,93
+Pouvoir,be able to - Can,futur antérieur,Ils/elles,auront pu,93
+Pouvoir,be able to - Can,conditionnel présent,Je,pourrais,93
+Pouvoir,be able to - Can,conditionnel passé,J',aurais pu,93
+Pouvoir,be able to - Can,conditionnel présent,Tu,pourrais,93
+Pouvoir,be able to - Can,conditionnel passé,Tu,aurais pu,93
+Pouvoir,be able to - Can,conditionnel présent,Il/elle,pourrait,93
+Pouvoir,be able to - Can,conditionnel passé,Il/elle,aurait pu,93
+Pouvoir,be able to - Can,conditionnel présent,Nous,pourrions,93
+Pouvoir,be able to - Can,conditionnel passé,Nous,aurions pu,93
+Pouvoir,be able to - Can,conditionnel présent,Vous,pourriez,93
+Pouvoir,be able to - Can,conditionnel passé,Vous,auriez pu,93
+Pouvoir,be able to - Can,conditionnel présent,Ils/elles,pourraient,93
+Pouvoir,be able to - Can,conditionnel passé,Ils/elles,auraient pu,93
+Pouvoir,be able to - Can,subjonctif présent,Que je,puisse,93
+Pouvoir,be able to - Can,subjonctif présent,Que tu,puisses,93
+Pouvoir,be able to - Can,subjonctif présent,Qu'il/elle,puisses,93
+Pouvoir,be able to - Can,subjonctif présent,Que nous,puissions,93
+Pouvoir,be able to - Can,subjonctif présent,Que vous,puissiez,93
+Pouvoir,be able to - Can,subjonctif présent,Qu'ils/elles,puissent,93
+Rire,laugh,présent,Je,ris,94
+Rire,laugh,passé composé,J',ai ri,94
+Rire,laugh,imparfait,Je,riais,94
+Rire,laugh,plus-que-parfait,J',avais ri,94
+Rire,laugh,présent,Tu,ris,94
+Rire,laugh,passé composé,Tu,as ri,94
+Rire,laugh,imparfait,Tu,riais,94
+Rire,laugh,plus-que-parfait,Tu,avais ri,94
+Rire,laugh,présent,Il/elle,rit,94
+Rire,laugh,passé composé,Il/elle,a ri,94
+Rire,laugh,imparfait,Il/elle,riait,94
+Rire,laugh,plus-que-parfait,Il/elle,avait ri,94
+Rire,laugh,présent,Nous,rions,94
+Rire,laugh,passé composé,Nous,avons ri,94
+Rire,laugh,imparfait,Nous,riions,94
+Rire,laugh,plus-que-parfait,Nous,avions ri,94
+Rire,laugh,présent,Vous,riez,94
+Rire,laugh,passé composé,Vous,avez ri,94
+Rire,laugh,imparfait,Vous,riiez,94
+Rire,laugh,plus-que-parfait,Vous,aviez ri,94
+Rire,laugh,présent,Ils/elles,rient,94
+Rire,laugh,passé composé,Ils/elles,ont ri,94
+Rire,laugh,imparfait,Ils/elles,riaient,94
+Rire,laugh,plus-que-parfait,Ils/elles,avaient ri,94
+Rire,laugh,futur simple,Je,rirai,94
+Rire,laugh,futur antérieur,J',aurai ri,94
+Rire,laugh,futur simple,Tu,rirais,94
+Rire,laugh,futur antérieur,Tu,auras ri,94
+Rire,laugh,futur simple,Il/elle,rira,94
+Rire,laugh,futur antérieur,Il/elle,aura ri,94
+Rire,laugh,futur simple,Nous,rirons,94
+Rire,laugh,futur antérieur,Nous,aurons ri,94
+Rire,laugh,futur simple,Vous,rirez,94
+Rire,laugh,futur antérieur,Vous,aurez ri,94
+Rire,laugh,futur simple,Ils/elles,riraient,94
+Rire,laugh,futur antérieur,Ils/elles,auront ri,94
+Rire,laugh,conditionnel présent,Je,rirais,94
+Rire,laugh,conditionnel passé,J',aurais ri,94
+Rire,laugh,conditionnel présent,Tu,rirais,94
+Rire,laugh,conditionnel passé,Tu,aurais ri,94
+Rire,laugh,conditionnel présent,Il/elle,rirait,94
+Rire,laugh,conditionnel passé,Il/elle,aurait ri,94
+Rire,laugh,conditionnel présent,Nous,ririons,94
+Rire,laugh,conditionnel passé,Nous,aurions ri,94
+Rire,laugh,conditionnel présent,Vous,ririez,94
+Rire,laugh,conditionnel passé,Vous,auriez ri,94
+Rire,laugh,conditionnel présent,Ils/elles,riraient,94
+Rire,laugh,conditionnel passé,Ils/elles,auraient ri,94
+Rire,laugh,subjonctif présent,Que je,rie,94
+Rire,laugh,impératif présent,Tu,Ris,94
+Rire,laugh,subjonctif présent,Que tu,ries,94
+Rire,laugh,impératif présent,Nous,Rions,94
+Rire,laugh,subjonctif présent,Qu'il/elle,rie,94
+Rire,laugh,impératif présent,Vous,Riez,94
+Rire,laugh,subjonctif présent,Que nous,riions,94
+Rire,laugh,subjonctif présent,Que vous,riiez,94
+Rire,laugh,subjonctif présent,Qu'ils/elles,rient,94
+Savoir,know,présent,Je,sais,95
+Savoir,know,passé composé,J',ai su,95
+Savoir,know,imparfait,Je,savais,95
+Savoir,know,plus-que-parfait,J',avais su,95
+Savoir,know,présent,Tu,sais,95
+Savoir,know,passé composé,Tu,as su,95
+Savoir,know,imparfait,Tu,savais,95
+Savoir,know,plus-que-parfait,Tu,avais su,95
+Savoir,know,présent,Il/elle,sait,95
+Savoir,know,passé composé,Il/elle,a su,95
+Savoir,know,imparfait,Il/elle,savait,95
+Savoir,know,plus-que-parfait,Il/elle,avait su,95
+Savoir,know,présent,Nous,savons,95
+Savoir,know,passé composé,Nous,avons su,95
+Savoir,know,imparfait,Nous,savions,95
+Savoir,know,plus-que-parfait,Nous,avions su,95
+Savoir,know,présent,Vous,savez,95
+Savoir,know,passé composé,Vous,avez su,95
+Savoir,know,imparfait,Vous,saviez,95
+Savoir,know,plus-que-parfait,Vous,aviez su,95
+Savoir,know,présent,Ils/elles,savent,95
+Savoir,know,passé composé,Ils/elles,ont su,95
+Savoir,know,imparfait,Ils/elles,savaient,95
+Savoir,know,plus-que-parfait,Ils/elles,avaient su,95
+Savoir,know,futur simple,Je,saurai,95
+Savoir,know,futur antérieur,J',aurai su,95
+Savoir,know,futur simple,Tu,sauras,95
+Savoir,know,futur antérieur,Tu,auras su,95
+Savoir,know,futur simple,Il/elle,saura,95
+Savoir,know,futur antérieur,Il/elle,aura su,95
+Savoir,know,futur simple,Nous,saurons,95
+Savoir,know,futur antérieur,Nous,aurons su,95
+Savoir,know,futur simple,Vous,saurez,95
+Savoir,know,futur antérieur,Vous,aurez su,95
+Savoir,know,futur simple,Ils/elles,sauront,95
+Savoir,know,futur antérieur,Ils/elles,auront su,95
+Savoir,know,conditionnel présent,Je,saurais,95
+Savoir,know,conditionnel passé,J',aurais su,95
+Savoir,know,conditionnel présent,Tu,saurais,95
+Savoir,know,conditionnel passé,Tu,aurais su,95
+Savoir,know,conditionnel présent,Il/elle,saurait,95
+Savoir,know,conditionnel passé,Il/elle,aurait su,95
+Savoir,know,conditionnel présent,Nous,saurions,95
+Savoir,know,conditionnel passé,Nous,aurions su,95
+Savoir,know,conditionnel présent,Vous,sauriez,95
+Savoir,know,conditionnel passé,Vous,auriez su,95
+Savoir,know,conditionnel présent,Ils/elles,sauraient,95
+Savoir,know,conditionnel passé,Ils/elles,auraient su,95
+Savoir,know,subjonctif présent,Que je,sache,95
+Savoir,know,impératif présent,Tu,Sache,95
+Savoir,know,subjonctif présent,Que tu,saches,95
+Savoir,know,impératif présent,Nous,Sachons,95
+Savoir,know,subjonctif présent,Qu'il/elle,sache,95
+Savoir,know,impératif présent,Vous,Sachez,95
+Savoir,know,subjonctif présent,Que nous,sachions,95
+Savoir,know,subjonctif présent,Que vous,sachiez,95
+Savoir,know,subjonctif présent,Qu'ils/elles,sachent,95
+Servir,serve,présent,Je,sers,96
+Servir,serve,passé composé,J',ai servi,96
+Servir,serve,imparfait,Je,servais,96
+Servir,serve,plus-que-parfait,J',avais servi,96
+Servir,serve,présent,Tu,sers,96
+Servir,serve,passé composé,Tu,as servi,96
+Servir,serve,imparfait,Tu,servais,96
+Servir,serve,plus-que-parfait,Tu,avais servi,96
+Servir,serve,présent,Il/elle,sert,96
+Servir,serve,passé composé,Il/elle,a servi,96
+Servir,serve,imparfait,Il/elle,servait,96
+Servir,serve,plus-que-parfait,Il/elle,avait servi,96
+Servir,serve,présent,Nous,servons,96
+Servir,serve,passé composé,Nous,avons servi,96
+Servir,serve,imparfait,Nous,servions,96
+Servir,serve,plus-que-parfait,Nous,avions servi,96
+Servir,serve,présent,Vous,servez,96
+Servir,serve,passé composé,Vous,avez servi,96
+Servir,serve,imparfait,Vous,serviez,96
+Servir,serve,plus-que-parfait,Vous,aviez servi,96
+Servir,serve,présent,Ils/elles,servent,96
+Servir,serve,passé composé,Ils/elles,ont servi,96
+Servir,serve,imparfait,Ils/elles,servaient,96
+Servir,serve,plus-que-parfait,Ils/elles,avaient servi,96
+Servir,serve,futur simple,Je,servirai,96
+Servir,serve,futur antérieur,J',aurai servi,96
+Servir,serve,futur simple,Tu,serviras,96
+Servir,serve,futur antérieur,Tu,auras servi,96
+Servir,serve,futur simple,Il/elle,servira,96
+Servir,serve,futur antérieur,Il/elle,aura servi,96
+Servir,serve,futur simple,Nous,servirons,96
+Servir,serve,futur antérieur,Nous,aurons servi,96
+Servir,serve,futur simple,Vous,servirez,96
+Servir,serve,futur antérieur,Vous,aurez servi,96
+Servir,serve,futur simple,Ils/elles,serviront,96
+Servir,serve,futur antérieur,Ils/elles,auront servi,96
+Servir,serve,conditionnel présent,Je,servirais,96
+Servir,serve,conditionnel passé,J',aurais servi,96
+Servir,serve,conditionnel présent,Tu,servirais,96
+Servir,serve,conditionnel passé,Tu,aurais servi,96
+Servir,serve,conditionnel présent,Il/elle,servirait,96
+Servir,serve,conditionnel passé,Il/elle,aurait servi,96
+Servir,serve,conditionnel présent,Nous,servirions,96
+Servir,serve,conditionnel passé,Nous,aurions servi,96
+Servir,serve,conditionnel présent,Vous,serviriez,96
+Servir,serve,conditionnel passé,Vous,auriez servi,96
+Servir,serve,conditionnel présent,Ils/elles,serviraient,96
+Servir,serve,conditionnel passé,Ils/elles,auraient servi,96
+Servir,serve,subjonctif présent,Que je,serve,96
+Servir,serve,impératif présent,Tu,Sers,96
+Servir,serve,subjonctif présent,Que tu,serves,96
+Servir,serve,impératif présent,Nous,Servons,96
+Servir,serve,subjonctif présent,Qu'il/elle,serve,96
+Servir,serve,impératif présent,Vous,Servez,96
+Servir,serve,subjonctif présent,Que nous,servions,96
+Servir,serve,subjonctif présent,Que vous,serviez,96
+Servir,serve,subjonctif présent,Qu'ils/elles,servent,96
+Suivre,follow,présent,Je,suis,97
+Suivre,follow,passé composé,J',ai suivi,97
+Suivre,follow,imparfait,Je,suivais,97
+Suivre,follow,plus-que-parfait,J',avais suivi,97
+Suivre,follow,présent,Tu,suis,97
+Suivre,follow,passé composé,Tu,as suivi,97
+Suivre,follow,imparfait,Tu,suivais,97
+Suivre,follow,plus-que-parfait,Tu,avais suivi,97
+Suivre,follow,présent,Il/elle,suit,97
+Suivre,follow,passé composé,Il/elle,a suivi,97
+Suivre,follow,imparfait,Il/elle,suivait,97
+Suivre,follow,plus-que-parfait,Il/elle,avait suivi,97
+Suivre,follow,présent,Nous,suivons,97
+Suivre,follow,passé composé,Nous,avons suivi,97
+Suivre,follow,imparfait,Nous,suivions,97
+Suivre,follow,plus-que-parfait,Nous,avions suivi,97
+Suivre,follow,présent,Vous,suivez,97
+Suivre,follow,passé composé,Vous,avez suivi,97
+Suivre,follow,imparfait,Vous,suiviez,97
+Suivre,follow,plus-que-parfait,Vous,aviez suivi,97
+Suivre,follow,présent,Ils/elles,suivent,97
+Suivre,follow,passé composé,Ils/elles,ont suivi,97
+Suivre,follow,imparfait,Ils/elles,suivaient,97
+Suivre,follow,plus-que-parfait,Ils/elles,avaient suivi,97
+Suivre,follow,futur simple,Je,suivrai,97
+Suivre,follow,futur antérieur,J',aurai suivi,97
+Suivre,follow,futur simple,Tu,suivras,97
+Suivre,follow,futur antérieur,Tu,auras suivi,97
+Suivre,follow,futur simple,Il/elle,suivra,97
+Suivre,follow,futur antérieur,Il/elle,aura suivi,97
+Suivre,follow,futur simple,Nous,suivrons,97
+Suivre,follow,futur antérieur,Nous,aurons suivi,97
+Suivre,follow,futur simple,Vous,suivrez,97
+Suivre,follow,futur antérieur,Vous,aurez suivi,97
+Suivre,follow,futur simple,Ils/elles,suivront,97
+Suivre,follow,futur antérieur,Ils/elles,auront suivi,97
+Suivre,follow,conditionnel présent,Je,suivrais,97
+Suivre,follow,conditionnel passé,J',aurais suivi,97
+Suivre,follow,conditionnel présent,Tu,suivrais,97
+Suivre,follow,conditionnel passé,Tu,aurais suivi,97
+Suivre,follow,conditionnel présent,Il/elle,suivrait,97
+Suivre,follow,conditionnel passé,Il/elle,aurait suivi,97
+Suivre,follow,conditionnel présent,Nous,suivrions,97
+Suivre,follow,conditionnel passé,Nous,aurions suivi,97
+Suivre,follow,conditionnel présent,Vous,suivriez,97
+Suivre,follow,conditionnel passé,Vous,auriez suivi,97
+Suivre,follow,conditionnel présent,Ils/elles,suivraient,97
+Suivre,follow,conditionnel passé,Ils/elles,auraient suivi,97
+Suivre,follow,subjonctif présent,Que je,suive,97
+Suivre,follow,impératif présent,Tu,Suis,97
+Suivre,follow,subjonctif présent,Que tu,suives,97
+Suivre,follow,impératif présent,Nous,Suivons,97
+Suivre,follow,subjonctif présent,Qu'il/elle,suive,97
+Suivre,follow,impératif présent,Vous,Suivez,97
+Suivre,follow,subjonctif présent,Que nous,suivions,97
+Suivre,follow,subjonctif présent,Que vous,suiviez,97
+Suivre,follow,subjonctif présent,Qu'ils/elles,suivent,97
+Vaincre,overcome,présent,Je,vaincs,98
+Vaincre,overcome,passé composé,J',ai vaincu,98
+Vaincre,overcome,imparfait,Je,vainquais,98
+Vaincre,overcome,plus-que-parfait,J',avais vaincu,98
+Vaincre,overcome,présent,Tu,vaincs,98
+Vaincre,overcome,passé composé,Tu,as vaincu,98
+Vaincre,overcome,imparfait,Tu,vainquais,98
+Vaincre,overcome,plus-que-parfait,Tu,avais vaincu,98
+Vaincre,overcome,présent,Il/elle,vainc,98
+Vaincre,overcome,passé composé,Il/elle,a vaincu,98
+Vaincre,overcome,imparfait,Il/elle,vainquit,98
+Vaincre,overcome,plus-que-parfait,Il/elle,avait vaincu,98
+Vaincre,overcome,présent,Nous,vainquons,98
+Vaincre,overcome,passé composé,Nous,avons vaincu,98
+Vaincre,overcome,imparfait,Nous,vainquions,98
+Vaincre,overcome,plus-que-parfait,Nous,avions vaincu,98
+Vaincre,overcome,présent,Vous,vainquez,98
+Vaincre,overcome,passé composé,Vous,avez vaincu,98
+Vaincre,overcome,imparfait,Vous,vainquiez,98
+Vaincre,overcome,plus-que-parfait,Vous,aviez vaincu,98
+Vaincre,overcome,présent,Ils/elles,vainquent,98
+Vaincre,overcome,passé composé,Ils/elles,ont vaincu,98
+Vaincre,overcome,imparfait,Ils/elles,vainquaient,98
+Vaincre,overcome,plus-que-parfait,Ils/elles,avaient vaincu,98
+Vaincre,overcome,futur simple,Je,vaincrai,98
+Vaincre,overcome,futur antérieur,J',aurai vaincu,98
+Vaincre,overcome,futur simple,Tu,vaincras,98
+Vaincre,overcome,futur antérieur,Tu,auras vaincu,98
+Vaincre,overcome,futur simple,Il/elle,vaincra,98
+Vaincre,overcome,futur antérieur,Il/elle,aura vaincu,98
+Vaincre,overcome,futur simple,Nous,vaincrons,98
+Vaincre,overcome,futur antérieur,Nous,aurons vaincu,98
+Vaincre,overcome,futur simple,Vous,vaincrez,98
+Vaincre,overcome,futur antérieur,Vous,aurez vaincu,98
+Vaincre,overcome,futur simple,Ils/elles,vaincront,98
+Vaincre,overcome,futur antérieur,Ils/elles,auront vaincu,98
+Vaincre,overcome,conditionnel présent,Je,vaincrais,98
+Vaincre,overcome,conditionnel passé,J',aurais vaincu,98
+Vaincre,overcome,conditionnel présent,Tu,vaincrais,98
+Vaincre,overcome,conditionnel passé,Tu,aurais vaincu,98
+Vaincre,overcome,conditionnel présent,Il/elle,vaincrait,98
+Vaincre,overcome,conditionnel passé,Il/elle,aurait vaincu,98
+Vaincre,overcome,conditionnel présent,Nous,vaincrions,98
+Vaincre,overcome,conditionnel passé,Nous,aurions vaincu,98
+Vaincre,overcome,conditionnel présent,Vous,vaincriez,98
+Vaincre,overcome,conditionnel passé,Vous,auriez vaincu,98
+Vaincre,overcome,conditionnel présent,Ils/elles,vaincraient,98
+Vaincre,overcome,conditionnel passé,Ils/elles,auraient vaincu,98
+Vaincre,overcome,subjonctif présent,Que je,vainque,98
+Vaincre,overcome,impératif présent,Tu,Vaincs,98
+Vaincre,overcome,subjonctif présent,Que tu,vainques,98
+Vaincre,overcome,impératif présent,Nous,Vainquons,98
+Vaincre,overcome,subjonctif présent,Qu'il/elle,vainque,98
+Vaincre,overcome,impératif présent,Vous,Vainquez,98
+Vaincre,overcome,subjonctif présent,Que nous,vainquions,98
+Vaincre,overcome,subjonctif présent,Que vous,vainquiez,98
+Vaincre,overcome,subjonctif présent,Qu'ils/elles,vainquent,98
+Vivre,live,présent,Je,vis,99
+Vivre,live,passé composé,J',ai vécu,99
+Vivre,live,imparfait,Je,vivais,99
+Vivre,live,plus-que-parfait,J',avais vécu,99
+Vivre,live,présent,Tu,vis,99
+Vivre,live,passé composé,Tu,as vécu,99
+Vivre,live,imparfait,Tu,vivais,99
+Vivre,live,plus-que-parfait,Tu,avais vécu,99
+Vivre,live,présent,Il/elle,vit,99
+Vivre,live,passé composé,Il/elle,a vécu,99
+Vivre,live,imparfait,Il/elle,vivait,99
+Vivre,live,plus-que-parfait,Il/elle,avait vécu,99
+Vivre,live,présent,Nous,vivons,99
+Vivre,live,passé composé,Nous,avons vécu,99
+Vivre,live,imparfait,Nous,vivions,99
+Vivre,live,plus-que-parfait,Nous,avions vécu,99
+Vivre,live,présent,Vous,vivez,99
+Vivre,live,passé composé,Vous,avez vécu,99
+Vivre,live,imparfait,Vous,viviez,99
+Vivre,live,plus-que-parfait,Vous,aviez vécu,99
+Vivre,live,présent,Ils/elles,vivent,99
+Vivre,live,passé composé,Ils/elles,ont vécu,99
+Vivre,live,imparfait,Ils/elles,vivaient,99
+Vivre,live,plus-que-parfait,Ils/elles,avaient vécu,99
+Vivre,live,futur simple,Je,vivrai,99
+Vivre,live,futur antérieur,J',aurai vécu,99
+Vivre,live,futur simple,Tu,vivras,99
+Vivre,live,futur antérieur,Tu,auras vécu,99
+Vivre,live,futur simple,Il/elle,vivra,99
+Vivre,live,futur antérieur,Il/elle,aura vécu,99
+Vivre,live,futur simple,Nous,vivrons,99
+Vivre,live,futur antérieur,Nous,aurons vécu,99
+Vivre,live,futur simple,Vous,vivrez,99
+Vivre,live,futur antérieur,Vous,aurez vécu,99
+Vivre,live,futur simple,Ils/elles,vivront,99
+Vivre,live,futur antérieur,Ils/elles,auront vécu,99
+Vivre,live,conditionnel présent,Je,vivrais,99
+Vivre,live,conditionnel passé,J',aurais vécu,99
+Vivre,live,conditionnel présent,Tu,vivrais,99
+Vivre,live,conditionnel passé,Tu,aurais vécu,99
+Vivre,live,conditionnel présent,Il/elle,vivrait,99
+Vivre,live,conditionnel passé,Il/elle,aurait vécu,99
+Vivre,live,conditionnel présent,Nous,vivrions,99
+Vivre,live,conditionnel passé,Nous,aurions vécu,99
+Vivre,live,conditionnel présent,Vous,vivriez,99
+Vivre,live,conditionnel passé,Vous,auriez vécu,99
+Vivre,live,conditionnel présent,Ils/elles,vivraient,99
+Vivre,live,conditionnel passé,Ils/elles,auraient vécu,99
+Vivre,live,subjonctif présent,Que je,vive,99
+Vivre,live,impératif présent,Tu,Vis,99
+Vivre,live,subjonctif présent,Que tu,vives,99
+Vivre,live,impératif présent,Nous,Vivons,99
+Vivre,live,subjonctif présent,Qu'il/elle,vive,99
+Vivre,live,impératif présent,Vous,Vivez,99
+Vivre,live,subjonctif présent,Que nous,vivions,99
+Vivre,live,subjonctif présent,Que vous,viviez,99
+Vivre,live,subjonctif présent,Qu'ils/elles,vivent,99
+Voir,see,présent,Je,vois,100
+Voir,see,passé composé,J',ai vu,100
+Voir,see,imparfait,Je,voyais,100
+Voir,see,plus-que-parfait,J',avais vu,100
+Voir,see,présent,Tu,vois,100
+Voir,see,passé composé,Tu,as vu,100
+Voir,see,imparfait,Tu,voyais,100
+Voir,see,plus-que-parfait,Tu,avais vu,100
+Voir,see,présent,Il/elle,voit,100
+Voir,see,passé composé,Il/elle,a vu,100
+Voir,see,imparfait,Il/elle,voyait,100
+Voir,see,plus-que-parfait,Il/elle,avait vu,100
+Voir,see,présent,Nous,voyons,100
+Voir,see,passé composé,Nous,avons vu,100
+Voir,see,imparfait,Nous,voyions,100
+Voir,see,plus-que-parfait,Nous,avions vu,100
+Voir,see,présent,Vous,voyez,100
+Voir,see,passé composé,Vous,avez vu,100
+Voir,see,imparfait,Vous,voyiez,100
+Voir,see,plus-que-parfait,Vous,aviez vu,100
+Voir,see,présent,Ils/elles,voient,100
+Voir,see,passé composé,Ils/elles,ont vu,100
+Voir,see,imparfait,Ils/elles,voyaient,100
+Voir,see,plus-que-parfait,Ils/elles,avaient vu,100
+Voir,see,futur simple,Je,verrai,100
+Voir,see,futur antérieur,J',aurai vu,100
+Voir,see,futur simple,Tu,verras,100
+Voir,see,futur antérieur,Tu,auras vu,100
+Voir,see,futur simple,Il/elle,verra,100
+Voir,see,futur antérieur,Il/elle,aura vu,100
+Voir,see,futur simple,Nous,verrons,100
+Voir,see,futur antérieur,Nous,aurons vu,100
+Voir,see,futur simple,Vous,verrez,100
+Voir,see,futur antérieur,Vous,aurez vu,100
+Voir,see,futur simple,Ils/elles,verront,100
+Voir,see,futur antérieur,Ils/elles,auront vu,100
+Voir,see,conditionnel présent,Je,verrais,100
+Voir,see,conditionnel passé,J',aurais vu,100
+Voir,see,conditionnel présent,Tu,verrais,100
+Voir,see,conditionnel passé,Tu,aurais vu,100
+Voir,see,conditionnel présent,Il/elle,verrait,100
+Voir,see,conditionnel passé,Il/elle,aurait vu,100
+Voir,see,conditionnel présent,Nous,verrions,100
+Voir,see,conditionnel passé,Nous,aurions vu,100
+Voir,see,conditionnel présent,Vous,verriez,100
+Voir,see,conditionnel passé,Vous,auriez vu,100
+Voir,see,conditionnel présent,Ils/elles,verraient,100
+Voir,see,conditionnel passé,Ils/elles,auraient vu,100
+Voir,see,subjonctif présent,Que je,voie,100
+Voir,see,impératif présent,Tu,Vois,100
+Voir,see,subjonctif présent,Que tu,voies,100
+Voir,see,impératif présent,Nous,Voyons,100
+Voir,see,subjonctif présent,Qu'il/elle,voie,100
+Voir,see,impératif présent,Vous,Voyez,100
+Voir,see,subjonctif présent,Que nous,voyions,100
+Voir,see,subjonctif présent,Que vous,voyiez,100
+Voir,see,subjonctif présent,Qu'ils/elles,voient,100
+Vouloir,want,présent,Je,veux,101
+Vouloir,want,passé composé,J',ai voulu,101
+Vouloir,want,imparfait,Je,voulais,101
+Vouloir,want,plus-que-parfait,J',avais voulu,101
+Vouloir,want,présent,Tu,veux,101
+Vouloir,want,passé composé,Tu,as voulu,101
+Vouloir,want,imparfait,Tu,voulais,101
+Vouloir,want,plus-que-parfait,Tu,avais voulu,101
+Vouloir,want,présent,Il/elle,veut,101
+Vouloir,want,passé composé,Il/elle,a voulu,101
+Vouloir,want,imparfait,Il/elle,voulait,101
+Vouloir,want,plus-que-parfait,Il/elle,avait voulu,101
+Vouloir,want,présent,Nous,voulons,101
+Vouloir,want,passé composé,Nous,avons voulu,101
+Vouloir,want,imparfait,Nous,voulions,101
+Vouloir,want,plus-que-parfait,Nous,avions voulu,101
+Vouloir,want,présent,Vous,voulez,101
+Vouloir,want,passé composé,Vous,avez voulu,101
+Vouloir,want,imparfait,Vous,vouliez,101
+Vouloir,want,plus-que-parfait,Vous,aviez voulu,101
+Vouloir,want,présent,Ils/elles,veulent,101
+Vouloir,want,passé composé,Ils/elles,ont voulu,101
+Vouloir,want,imparfait,Ils/elles,voulaient,101
+Vouloir,want,plus-que-parfait,Ils/elles,avaient voulu,101
+Vouloir,want,futur simple,Je,voudrai,101
+Vouloir,want,futur antérieur,J',aurai voulu,101
+Vouloir,want,futur simple,Tu,voudras,101
+Vouloir,want,futur antérieur,Tu,auras voulu,101
+Vouloir,want,futur simple,Il/elle,voudra,101
+Vouloir,want,futur antérieur,Il/elle,aura voulu,101
+Vouloir,want,futur simple,Nous,voudrons,101
+Vouloir,want,futur antérieur,Nous,aurons voulu,101
+Vouloir,want,futur simple,Vous,voudrez,101
+Vouloir,want,futur antérieur,Vous,aurez voulu,101
+Vouloir,want,futur simple,Ils/elles,voudront,101
+Vouloir,want,futur antérieur,Ils/elles,auront voulu,101
+Vouloir,want,conditionnel présent,Je,voudrais,101
+Vouloir,want,conditionnel passé,J',aurais voulu,101
+Vouloir,want,conditionnel présent,Tu,voudrais,101
+Vouloir,want,conditionnel passé,Tu,aurais voulu,101
+Vouloir,want,conditionnel présent,Il/elle,voudrait,101
+Vouloir,want,conditionnel passé,Il/elle,aurait voulu,101
+Vouloir,want,conditionnel présent,Nous,voudrions,101
+Vouloir,want,conditionnel passé,Nous,aurions voulu,101
+Vouloir,want,conditionnel présent,Vous,voudriez,101
+Vouloir,want,conditionnel passé,Vous,auriez voulu,101
+Vouloir,want,conditionnel présent,Ils/elles,voudraient,101
+Vouloir,want,conditionnel passé,Ils/elles,auraient voulu,101
+Vouloir,want,subjonctif présent,Que je,veuille,101
+Vouloir,want,impératif présent,Tu,Veux,101
+Vouloir,want,subjonctif présent,Que tu,veuilles,101
+Vouloir,want,impératif présent,Nous,Voulons,101
+Vouloir,want,subjonctif présent,Qu'il/elle,veuille,101
+Vouloir,want,impératif présent,Vous,Voulez,101
+Vouloir,want,subjonctif présent,Que nous,voulions,101
+Vouloir,want,subjonctif présent,Que vous,vouliez,101
+Vouloir,want,subjonctif présent,Qu'ils/elles,veuillent,101
