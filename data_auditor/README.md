@@ -2,7 +2,7 @@
 
 An AI-assisted tool that finds problems in a messy dataset, proposes fixes, **waits for your approval**, applies only what you approved to a *copy* of the data, and then re-scans the result to prove it worked.
 
-Built with [LangGraph](https://github.com/langchain-ai/langgraph) and [LangChain](https://github.com/langchain-ai/langchain).
+Built with LangGraph and LangChain.
 
 ```mermaid
 flowchart LR
