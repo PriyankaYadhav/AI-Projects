@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets: never commit API keys
+.env
+*.key
+
+# Generated outputs
+approved_plan.json
+fix_plan.json
+cleaning_report.txt
+*_clean.csv

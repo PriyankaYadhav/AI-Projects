@@ -1,0 +1,11 @@
+pandas>=2.2
+numpy
+openpyxl            # only needed to read .xlsx files
+pydantic>=2
+langgraph>=1.0
+langchain-core
+langchain-groq      # default free provider
+
+# Optional providers (install only the one you use):
+# langchain-google-genai
+# langchain-anthropic
